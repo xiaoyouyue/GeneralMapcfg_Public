@@ -1,0 +1,79 @@
+"Console_T"
+{
+	"@[MAP]  Map made by Reapr"
+	{
+		"chi"		"**地图由Reapr制作 翻译：拉姆**"
+	}
+	"[Map] SKATE"
+	{
+		"chi"		"**滑冰**"
+	}
+	"[Map] MOVING PLATFORM"
+	{
+		"chi"		"**移动平台 **"
+	}
+	"[Map] GRAVITY SCOUT"
+	{
+		"chi"		"**低重力鸟狙**"
+	}
+	"[Map] LONGJUMP"
+	{
+		"chi"		"**长跳**"
+	}
+	"[Map] BHOP"
+	{
+		"chi"		"**bhop**"
+	}
+	"[MAP] STRAFE"
+	{
+		"chi"		"** **"
+	}
+	"[Map] SKIPPING ROPE"
+	{
+		"chi"		"**跳绳**"
+	}
+	"[Map] 65HP KNIFE ARENA"
+	{
+		"chi"		"**65血刀战 禁止卡门刀人**"
+	}
+	"[Map] AWP"
+	{
+		"chi"		"**大狙**"
+	}
+	"[Map] KNIFE ARENA"
+	{
+		"chi"		"**伪背刺1V1 多人卡进去请自觉1V1**"
+	}
+	"[Map] MAZE M249"
+	{
+		"chi"		"**M249迷宫**"
+	}
+	"[Map] SCOUT"
+	{
+		"chi"		"**鸟狙**"
+	}
+	"[Map] KNIFE"
+	{
+		"chi"		"**刀**"
+	}
+	"[Map] MAZE NOVA"
+	{
+		"chi"		"**迷宫喷子**"
+	}
+	"[Map] FOOTBALL"
+	{
+		"chi"		"**足球**"
+	}
+	"[Map] CT WINS"
+	{
+		"chi"		"**CT获胜**"
+	}
+	"[Map] T WINS"
+	{
+		"chi"		"**T获胜**"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,275 @@
+"Console_T"
+{
+	"@[MAP] SMOKEWARS"
+	{
+		"chi"		"** **"
+	}
+	"[MAP] OSAMAS LAST STAND"
+	{
+		"chi"		"** **"
+	}
+	"@[MUSIC] Ellie Goulding - Goodness Gracious"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] 1HP FOOTBALL"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] SHOOTING RANGE"
+	{
+		"chi"		"** **"
+	}
+	"[MAP] TERRORISTS WIN!"
+	{
+		"chi"		"** **"
+	}
+	"[MAP] COUNTER TERRORISTS WIN!"
+	{
+		"chi"		"** **"
+	}
+	"[MAP] 1 V 1 DEAGLE"
+	{
+		"chi"		"** **"
+	}
+	"@[MUSIC] Taylor Swift - Shake It Off"
+	{
+		"chi"		"** **"
+	}
+	"@[MUSIC] Watsky- Never Let it Die"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] GOAL!!!!"
+	{
+		"chi"		"** **"
+	}
+	"@[MUSIC] Kool & The Gang - Get Down On It"
+	{
+		"chi"		"** **"
+	}
+	"@[MUSIC] Ed Sheeran - I See Fire (Kygo Remix)"
+	{
+		"chi"		"** **"
+	}
+	"@[MUSIC] MGMT - Electric Feel (DallasK Remix)"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] SLIDE"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Conveyers disabled"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] TUNNEL VISION"
+	{
+		"chi"		"** **"
+	}
+	"@[MUSIC] Cazzette feat. The High - Sleepless"
+	{
+		"chi"		"** **"
+	}
+	"@[MUSIC] Avicii ft. Robbie Williams - The Days"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] SKEET"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] WALLHACKS"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] 50HP KNIFE"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] VIP"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] [Objective] - Eliminate both of the enemies VIPs!"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] ONE TERRORIST VIP REMAINING!"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] ONE COUNTER-TERRORIST VIP REMAINING!"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Both COUNTER-TERRORIST VIPs have been killed!"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] HEADSHOT PISTOL"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] AFK KILLER IMMINENT"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] CORRIDOR"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Ceiling breaking in 5 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"@[MUSIC] Kid Cudi - Pursuit Of Happiness ft. MGMT"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] EXPLOSIVE BALLS"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] START!"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Knife Damage Enabled"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] SURVIVAL"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Game starting in 10 seconds.."
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Game starting in 5 seconds.."
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] BROWN - 11 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] PINK - 13 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] PURPLE - 13 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] BLUE - 7 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] ORANGE - 5 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] CYAN - 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Map ending...."
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] KNIFE"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] You may now cross-over"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] PORTAL SLIDE"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Weapons supply in 5 seconds..."
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] FALL DAMAGE is DISABLED"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] BombSite Unlocked"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Shotguns enabled in 5 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] AIRDROP"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] You can now go up the middle!"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] KILLER BALLS"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] 3...."
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] 2...."
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] 1...."
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"36527"
+	}
+	"@[MAP] GREEN - 5 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] WHITE - 5 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] The sniping team can now leave the awping area!"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Both TERRORIST VIPs have been killed!"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Teleport triggers DISABLED!"
+	{
+		"chi"		"** **"
+	}
+	"[MAP] 40 Seconds."
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] YELLOW - 8 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] RED - 5 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Knife Damage Enabled In 10 Seconds"
+	{
+		"chi"		"** **"
+	}
+}

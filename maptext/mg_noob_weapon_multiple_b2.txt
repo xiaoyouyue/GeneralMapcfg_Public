@@ -1,0 +1,199 @@
+"Console_T"
+{
+	"**Map By noob**"
+	{
+		"chi"		"** **"
+	}
+	"**Have Fun**"
+	{
+		"chi"		"** **"
+	}
+	"**Randomly selecting the Map**"
+	{
+		"chi"		"** **"
+	}
+	"**Snow**"
+	{
+		"chi"		"** **"
+	}
+	"**m4a1_silencer**"
+	{
+		"chi"		"** **"
+	}
+	"**HeadShoot Mode Disable**"
+	{
+		"chi"		"** **"
+	}
+	"**90 second Off Fog**"
+	{
+		"chi"		"** **"
+	}
+	"**warehouse**"
+	{
+		"chi"		"** **"
+	}
+	"**Cz75**"
+	{
+		"chi"		"** **"
+	}
+	"**xm1014**"
+	{
+		"chi"		"** **"
+	}
+	"**HeadShoot Mode Enable**"
+	{
+		"chi"		"** **"
+	}
+	"**taser**"
+	{
+		"chi"		"** **"
+	}
+	"**Hp:35**"
+	{
+		"chi"		"** **"
+	}
+	"**Ak47**"
+	{
+		"chi"		"** **"
+	}
+	"**Cave**"
+	{
+		"chi"		"** **"
+	}
+	"**island**"
+	{
+		"chi"		"** **"
+	}
+	"**Hp:100**"
+	{
+		"chi"		"** **"
+	}
+	"**Spawn**"
+	{
+		"chi"		"** **"
+	}
+	"**UMP45**"
+	{
+		"chi"		"** **"
+	}
+	"**Hp:65**"
+	{
+		"chi"		"** **"
+	}
+	"**Dev(Buy)**"
+	{
+		"chi"		"** **"
+	}
+	"**usp_silencer**"
+	{
+		"chi"		"** **"
+	}
+	"**Mag7**"
+	{
+		"chi"		"** **"
+	}
+	"**Nova**"
+	{
+		"chi"		"** **"
+	}
+	"**Aug**"
+	{
+		"chi"		"** **"
+	}
+	"**SSg08**"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"49250"
+	}
+	"**Sg556**"
+	{
+		"chi"		"** **"
+	}
+	"**Bizon**"
+	{
+		"chi"		"** **"
+	}
+	"**Tec9**"
+	{
+		"chi"		"** **"
+	}
+	"**Snow-2**"
+	{
+		"chi"		"** **"
+	}
+	"**m249**"
+	{
+		"chi"		"** **"
+	}
+	"**MP9**"
+	{
+		"chi"		"** **"
+	}
+	"**revolver**"
+	{
+		"chi"		"** **"
+	}
+	"**Awp**"
+	{
+		"chi"		"** **"
+	}
+	"**p2000**"
+	{
+		"chi"		"** **"
+	}
+	"**Got all the gold, so unlock the hidden level**"
+	{
+		"chi"		"** **"
+	}
+	"**Somebody wins**"
+	{
+		"chi"		"** **"
+	}
+	"**glock**"
+	{
+		"chi"		"** **"
+	}
+	"**P250**"
+	{
+		"chi"		"** **"
+	}
+	"**g3sg1**"
+	{
+		"chi"		"** **"
+	}
+	"**Galilar**"
+	{
+		"chi"		"** **"
+	}
+	"**MAC10**"
+	{
+		"chi"		"** **"
+	}
+	"**m4a4**"
+	{
+		"chi"		"** **"
+	}
+	"**Fn57**"
+	{
+		"chi"		"** **"
+	}
+	"**Negev**"
+	{
+		"chi"		"** **"
+	}
+	"**P90**"
+	{
+		"chi"		"** **"
+	}
+	"**FAMAS**"
+	{
+		"chi"		"** **"
+	}
+	"**Scar20**"
+	{
+		"chi"		"** **"
+	}
+}

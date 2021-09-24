@@ -1,0 +1,7 @@
+"Console_T"
+{
+	"spawn kill enabled"
+	{
+		"chi"		"** **"
+	}
+}

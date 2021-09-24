@@ -1,0 +1,187 @@
+"Console_T"
+{
+	"<<< THE TEMPLE ENTRANCE IS NOW OPEN >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< SHORTCUT IS NOW AVAILABLE FROM SPAWN >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The Room of Sacrifices has been satisfied >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The first crystal has been found >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Seven remain hidden >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< FINDING A CRYSTAL ENABLED THE ALTAR! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The Wheels of Water have been crossed >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The second crystal speaks of secrets >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Six remain silent >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The Rising Fires have been outran >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The third crystal awakes to the world >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Five remain dreaming >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The Sewers Secret has been found >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The fourth crystal glows with power >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Four remain in shadows >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<  The Elevating Spirit has been lifted >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The fifth crystal pulses with energy >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Three remain forgotten >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The Chains of Serpentis have been unraveled >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The sixth crystal satiates its hunger >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Two remain hollow >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The Infinite Paths have been walked >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The seventh crystal becomes a vessel >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< She only needs one more >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The Rooms of Deception have been solved >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The last crystal has spoken! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The secret shall be revealed! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< ALL CRYSTALS HAVE BEEN FOUND! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< GRAB YOUR WEAPONS AND GET READY >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< TELEPORTING EVERYONE TO MEDUSAS CHAMBER IN 15 SECONDS >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< CONGRATULATIONS! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< YOU DEFEATED MEDUSA AND CONQUERED THE SERPENTIS TEMPLE! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< YOU ARE TRUE HEROES OF LEGEND! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Thanks for playing! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Map made by Kaemon & Luffaren >>>"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"13165"
+	}
+	"地图修复koyostripper版本:01:01"
+	{
+		"chi"		"** **"
+	}
+	"1"
+	{
+		"chi"		"** **"
+	}
+	"2"
+	{
+		"chi"		"** **"
+	}
+	"3"
+	{
+		"chi"		"** **"
+	}
+	"4"
+	{
+		"chi"		"** **"
+	}
+	"5"
+	{
+		"chi"		"** **"
+	}
+	"-1"
+	{
+		"chi"		"** **"
+	}
+	"地图修复koyostripper日期3.11"
+	{
+		"chi"		"** **"
+	}
+	"毒气室禁用手电（通过后恢复）"
+	{
+		"chi"		"** **"
+	}
+	"手电筒恢复"
+	{
+		"chi"		"** **"
+	}
+}

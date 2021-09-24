@@ -1,0 +1,27 @@
+"Console_T"
+{
+	"***Criado por Joe101 & guilhermealegretti***"
+	{
+		"chi"		"** **"
+	}
+	"AFK Killer Enable 40 Seconds"
+	{
+		"chi"		"** **"
+	}
+	"Try the Luck or..."
+	{
+		"chi"		"** **"
+	}
+	"Vou fazer picadinhos de voce HAHA"
+	{
+		"chi"		"** **"
+	}
+	"Bunny agora"
+	{
+		"chi"		"** **"
+	}
+	"Um dos quatro Botoes abrira a porta"
+	{
+		"chi"		"** **"
+	}
+}

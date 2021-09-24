@@ -1,0 +1,595 @@
+"Weapon-Loot"
+{
+	"盾牌"
+	{
+		"model"					"models/custom_prop/ggc-plg-killzone/shield2/shield3.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"2"
+		"ttt_shiled"   "1"
+		
+		
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	
+	"金钱"
+	{
+		"model"					"models/props/cs_office/cardboard_box03.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"3"
+		
+		"ttt_shop"   "1"
+		
+		
+		"sound" "ui/xp_levelup.wav"
+	}
+	
+	"USP"
+	{
+		"model"					"models/props/cs_office/cardboard_box01.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"usp_silencer"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	
+		
+	"Desert Eagle"
+	{
+		"model"					"models/props/cs_office/cardboard_box01.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"deagle"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+
+
+	"电击枪"
+	{
+		"model"					"models/props/coop_cementplant/coop_military_crate/coop_military_crate.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"taser"
+		"sound" "ui/xp_levelup.wav"
+		
+	}
+
+	"mp5"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"100"
+		"max_spawned"			"5"
+		
+		"weapon"				"mp5sd"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+		"MP9"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"mp9"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+
+
+		"MAC-10"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"mac10"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"MP7"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"mp7"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"PP-Bizon"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"bizon"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"UMP-45"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"ump45"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"P90"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"p90"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"Negev"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"negev"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"M249"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"m249"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	
+
+
+	"AK-47"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"20"
+		"max_spawned"			"2"
+		
+		"weapon"				"ak47"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"M4A4"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"100"
+		"max_spawned"			"2"
+		
+		"weapon"				"m4a1"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"M4A1-S"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"100"
+		"max_spawned"			"3"
+		
+		"weapon"				"m4a1_silencer"
+		"sound" "ui/lobby_notification_joined.wav"
+  }
+  
+
+	
+	"Famas"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"4"
+		
+		"weapon"				"famas"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"AUG"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"1"
+		
+		"weapon"				"aug"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"SG556"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"1"
+		
+		"weapon"				"sg556"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"SSG-08"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"2"
+		
+		"weapon"				"ssg08"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"G3SG1"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"0"
+		
+		"weapon"				"g3sg1"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"SCAR-20"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"0"
+		
+		"weapon"				"scar20"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"Galil-AR"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"3"
+		
+		"weapon"				"galilar"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+
+	
+	
+	//手枪
+	
+
+
+
+	"P250"
+	{
+		"model"					"models/props/cs_office/cardboard_box01.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"10"
+		
+		"weapon"				"p250"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	
+
+	"Fiveseven"
+	{
+		"model"					"models/props/cs_office/cardboard_box01.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"10"
+		
+		"weapon"				"fiveseven"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"CZ75"
+	{
+		"model"					"models/props/cs_office/cardboard_box01.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"10"
+		
+		"weapon"				"cz75a"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"Tec9"
+	{
+		"model"					"models/props/cs_office/cardboard_box01.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"tec9"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"glock"
+	{
+		"model"					"models/props/cs_office/cardboard_box01.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"10"
+		
+		"weapon"				"glock"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	
+	"weapon_revolver"
+	{
+		"model"					"models/props/cs_office/cardboard_box01.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"revolver"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	
+	
+
+
+	//手枪结束
+	
+	
+	
+	"Nova"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"20"
+		
+		"weapon"				"nova"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"Sawed-Off"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"20"
+		
+		"weapon"				"sawedoff"
+	}
+	"XM1014"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"xm1014"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"MAG7"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"mag7"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+
+	"烟雾弹"
+	{
+		"model"					"models/props/coop_cementplant/coop_military_crate/coop_military_crate.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"smoke"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"燃烧弹"
+	{
+		"model"					"models/props/coop_cementplant/coop_military_crate/coop_military_crate.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"10"
+		
+		"weapon"				"incgrenade"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"手雷"
+	{
+		"model"					"models/props/coop_cementplant/coop_military_crate/coop_military_crate.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"10"
+		
+		"weapon"				"hegrenade"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+		
+	"AWP"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"20"
+		"max_spawned"			"1"
+		
+		"weapon"				"awp"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	//"加血针"
+	//{
+	//	"model"					"models/props/coop_cementplant/coop_military_crate/coop_military_crate.mdl"
+		
+	//	"use"					"1"
+	//	"touch"					"1"
+		
+	//	"weight"				"0"
+	//	"round_start_weight"	"5"
+	//	"max_spawned"			"0"
+		
+	//	"weapon"				"healthshot"
+		
+	//	"sound" "ui/xp_levelup.wav"
+	//}
+	
+
+	
+	
+}
+
+

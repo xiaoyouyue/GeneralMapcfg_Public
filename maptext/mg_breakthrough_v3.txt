@@ -1,0 +1,59 @@
+"Console_T"
+{
+	"[BGM]Asnoyozola patrol pass"
+	{
+		"chi"		"** **"
+	}
+	"Mapby:王冠"
+	{
+		"chi"		"** **"
+	}
+	"CT have 30s to prepare"
+	{
+		"chi"		"** **"
+	}
+	"[BGM]Alex Goot,Kurt Hugo Schneider,Alex G - Blank Space"
+	{
+		"chi"		"** **"
+	}
+	"[BGM]Hello Dystopia-Vocalid"
+	{
+		"chi"		"** **"
+	}
+	"[BGM]Yunde kai ite ramato-miku"
+	{
+		"chi"		"** **"
+	}
+	"tp after 30s"
+	{
+		"chi"		"** **"
+	}
+	"释放神经毒素"
+	{
+		"chi"		"** **"
+	}
+	"ship will start after 20s"
+	{
+		"chi"		"** **"
+	}
+	"you kill the dragon!"
+	{
+		"chi"		"** **"
+	}
+	"the wood will break after 15s"
+	{
+		"chi"		"** **"
+	}
+	"20秒后传��关�"
+	{
+		"chi"		"** **"
+	}
+	"the tp will start after 120s"
+	{
+		"chi"		"** **"
+	}
+	"Survive for 90 second"
+	{
+		"chi"		"** **"
+	}
+}

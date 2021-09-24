@@ -1,0 +1,215 @@
+"Console_T"
+{
+	">Game : Desert Eagle<"
+	{
+		"chi"		"** **"
+	}
+	"*3*"
+	{
+		"chi"		"** **"
+	}
+	"*2*"
+	{
+		"chi"		"** **"
+	}
+	"*1*"
+	{
+		"chi"		"** **"
+	}
+	">Fight!<"
+	{
+		"chi"		"** **"
+	}
+	">Game : Greande<"
+	{
+		"chi"		"** **"
+	}
+	">Game : SSG 08<"
+	{
+		"chi"		"** **"
+	}
+	">Game : Underground<"
+	{
+		"chi"		"** **"
+	}
+	">Game : AWP<"
+	{
+		"chi"		"** **"
+	}
+	">Game : Long Jump<"
+	{
+		"chi"		"** **"
+	}
+	">Go!<"
+	{
+		"chi"		"** **"
+	}
+	">Game : Knife<"
+	{
+		"chi"		"** **"
+	}
+	">Game : P250<"
+	{
+		"chi"		"** **"
+	}
+	">Game : Taser<"
+	{
+		"chi"		"** **"
+	}
+	">Game : Shotgun<"
+	{
+		"chi"		"** **"
+	}
+	">Game : Dual Berettas<"
+	{
+		"chi"		"** **"
+	}
+	">Game : Scope AR<"
+	{
+		"chi"		"** **"
+	}
+	">Game : R8 Revovler<"
+	{
+		"chi"		"** **"
+	}
+	">Game : Decoy<"
+	{
+		"chi"		"** **"
+	}
+	">Game : Hell Ladder<"
+	{
+		"chi"		"** **"
+	}
+	">Game : Minor AR<"
+	{
+		"chi"		"** **"
+	}
+	">Game : Boost<"
+	{
+		"chi"		"** **"
+	}
+	">Game : Boost Surf<"
+	{
+		"chi"		"** **"
+	}
+	">Game : Wall Hack<"
+	{
+		"chi"		"** **"
+	}
+	">Game : Negev<"
+	{
+		"chi"		"** **"
+	}
+	">Game : Burn<"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	">Game : 500$ Pistol<"
+	{
+		"chi"		"** **"
+	}
+	">Game : Fog<"
+	{
+		"chi"		"** **"
+	}
+	">Game : Bridge<"
+	{
+		"chi"		"** **"
+	}
+	">Game : Tower<"
+	{
+		"chi"		"** **"
+	}
+	">Game : Push<"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"18924"
+	}
+	"*> Map tested by Colabin, Kami, Revenant Server MG Users <*"
+	{
+		"chi"		"** **"
+	}
+	"*> Map Version : Final <*"
+	{
+		"chi"		"** **"
+	}
+	"*> Special thanks to Revenant Server MG Users! <*"
+	{
+		"chi"		"** **"
+	}
+	"*> Map made by Dus?K <*"
+	{
+		"chi"		"** **"
+	}
+	"*> Map helped by Nande? Ka[X]de!, Potti <*"
+	{
+		"chi"		"** **"
+	}
+	">Game : Spawn Fight<"
+	{
+		"chi"		"** **"
+	}
+	">Game : Free-Fall<"
+	{
+		"chi"		"** **"
+	}
+	">Game : All Weapon Randomizer Fight<"
+	{
+		"chi"		"** **"
+	}
+	"*Select Position...*"
+	{
+		"chi"		"** **"
+	}
+	"*Outside Position Killer in 5s*"
+	{
+		"chi"		"** **"
+	}
+	"*Outside Position Killer On*"
+	{
+		"chi"		"** **"
+	}
+	"*10*"
+	{
+		"chi"		"** **"
+	}
+	"*9*"
+	{
+		"chi"		"** **"
+	}
+	"*8*"
+	{
+		"chi"		"** **"
+	}
+	"*7*"
+	{
+		"chi"		"** **"
+	}
+	"*6*"
+	{
+		"chi"		"** **"
+	}
+	"*5*"
+	{
+		"chi"		"** **"
+	}
+	"*4*"
+	{
+		"chi"		"** **"
+	}
+	"*...*"
+	{
+		"chi"		"** **"
+	}
+	"*Fight!*"
+	{
+		"chi"		"** **"
+	}
+}

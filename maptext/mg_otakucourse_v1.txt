@@ -1,0 +1,23 @@
+"Console_T"
+{
+	"Map by:王冠"
+	{
+		"chi"		"** **"
+	}
+	"Spawnkiller will enable in 30s"
+	{
+		"chi"		"** **"
+	}
+	"K-391 - Back In Time"
+	{
+		"chi"		"** **"
+	}
+	"Reol-Excitation white"
+	{
+		"chi"		"** **"
+	}
+	"miku-Cinderella and Romeo"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,7 @@
+"Console_T"
+{
+	"Welcome to Blank Server Map!"
+	{
+		"chi"		"** **"
+	}
+}

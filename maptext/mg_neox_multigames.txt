@@ -1,0 +1,15 @@
+"Console_T"
+{
+	"*Map by BES*"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"10秒后出生点的板子将会破碎。请尽快站到中间的那根柱子上！"
+	{
+		"chi"		"** **"
+	}
+}

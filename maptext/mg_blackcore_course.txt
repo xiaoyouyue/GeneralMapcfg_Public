@@ -1,0 +1,39 @@
+"Console_T"
+{
+	"| Spawn Killer | 2 minute"
+	{
+		"chi"		"** **"
+	}
+	"Mapa by: | DaYaN :D |"
+	{
+		"chi"		"** **"
+	}
+	"| Spawn Killer | 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"| Spawn Killer | 5 seconds"
+	{
+		"chi"		"** **"
+	}
+	"| Spawn Killer | 4 seconds"
+	{
+		"chi"		"** **"
+	}
+	"| Spawn Killer | 3 seconds"
+	{
+		"chi"		"** **"
+	}
+	"| Spawn Killer | 2 seconds"
+	{
+		"chi"		"** **"
+	}
+	"| Spawn Killer | 1 seconds"
+	{
+		"chi"		"** **"
+	}
+	"| Spawn Killer | ON"
+	{
+		"chi"		"** **"
+	}
+}

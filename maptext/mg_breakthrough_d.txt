@@ -1,0 +1,23 @@
+"Console_T"
+{
+	"Alex Goot,Kurt Hugo Schneider,Alex G - Blank Space"
+	{
+		"chi"		"** **"
+	}
+	"Hello Dystopia-Vocalid"
+	{
+		"chi"		"** **"
+	}
+	"Yunde kai ite ramato-miku"
+	{
+		"chi"		"** **"
+	}
+	"Asnoyozola patrol pass"
+	{
+		"chi"		"** **"
+	}
+	"CT have 30s to prepare"
+	{
+		"chi"		"** **"
+	}
+}

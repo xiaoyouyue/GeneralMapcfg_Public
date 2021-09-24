@@ -1,0 +1,123 @@
+"Console_T"
+{
+	"Map by jirka191"
+	{
+		"chi"		"** **"
+	}
+	"Map ported by sG | Waffles"
+	{
+		"chi"		"** **"
+	}
+	"Race!"
+	{
+		"chi"		"** **"
+	}
+	"Course!"
+	{
+		"chi"		"** **"
+	}
+	"Rotating rope!"
+	{
+		"chi"		"** **"
+	}
+	"10 seconds left to the next level!"
+	{
+		"chi"		"** **"
+	}
+	"Reversing!"
+	{
+		"chi"		"** **"
+	}
+	"Darkness mod!"
+	{
+		"chi"		"** **"
+	}
+	"Survivors were awarded by 10 score points!"
+	{
+		"chi"		"** **"
+	}
+	"Climb!"
+	{
+		"chi"		"** **"
+	}
+	"Somebody won the climb!"
+	{
+		"chi"		"** **"
+	}
+	"Winner has been awarded by 10 score points!"
+	{
+		"chi"		"** **"
+	}
+	"Loosers will be slayed in 2 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Hunt!"
+	{
+		"chi"		"** **"
+	}
+	"Counter-Terrorists are hunters!"
+	{
+		"chi"		"** **"
+	}
+	"Hunters will be released in 20 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Here they come!"
+	{
+		"chi"		"** **"
+	}
+	"Paintball!"
+	{
+		"chi"		"** **"
+	}
+	"Zombie survival!"
+	{
+		"chi"		"** **"
+	}
+	"Counter-Terrorists are zombies!"
+	{
+		"chi"		"** **"
+	}
+	"Zombies will be released in 10 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"knife arena!"
+	{
+		"chi"		"** **"
+	}
+	"Somebody won the race!"
+	{
+		"chi"		"** **"
+	}
+	"Somebody won the course!"
+	{
+		"chi"		"** **"
+	}
+	"Terrorists are zombies!"
+	{
+		"chi"		"** **"
+	}
+	"Terrorists are hunters!"
+	{
+		"chi"		"** **"
+	}
+	"Psycho mod!"
+	{
+		"chi"		"** **"
+	}
+	"Wind mod!"
+	{
+		"chi"		"** **"
+	}
+	"10 seconds left to the end!"
+	{
+		"chi"		"** **"
+	}
+	"10 seconds left to the police arrival!"
+	{
+		"chi"		"** **"
+	}
+}

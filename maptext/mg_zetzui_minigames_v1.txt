@@ -1,0 +1,243 @@
+"Console_T"
+{
+	"Map By Zetzui"
+	{
+		"chi"		"** **"
+	}
+	"@Map by Zetzui"
+	{
+		"chi"		"** **"
+	}
+	"steamcommunity.comidZetzui"
+	{
+		"chi"		"** **"
+	}
+	"@steamcommunity.comidZetzui"
+	{
+		"chi"		"** **"
+	}
+	"@[MINIGAME] 35 SEC FOR RANDOM CHOOSE"
+	{
+		"chi"		"** **"
+	}
+	"[MINIGAME] BHOP-HARD"
+	{
+		"chi"		"** **"
+	}
+	"@[MINIGAME] >>3<<"
+	{
+		"chi"		"** **"
+	}
+	"@[MINIGAME] >>2<<"
+	{
+		"chi"		"** **"
+	}
+	"@[MINIGAME] >>1<<"
+	{
+		"chi"		"** **"
+	}
+	"@[MINIGAME] GOO"
+	{
+		"chi"		"** **"
+	}
+	"@(MINIGAME] TAKING TOO LONG KNIFE!"
+	{
+		"chi"		"** **"
+	}
+	"[MINIGAME] LONGJUMP"
+	{
+		"chi"		"** **"
+	}
+	"[Minigame][>>3<<]"
+	{
+		"chi"		"** **"
+	}
+	"[Minigame][>>2<<]"
+	{
+		"chi"		"** **"
+	}
+	"[Minigame][>>1<<]"
+	{
+		"chi"		"** **"
+	}
+	"[Minigame][>>GOOO<<]"
+	{
+		"chi"		"** **"
+	}
+	"[MINIGAME] STRAFE"
+	{
+		"chi"		"** **"
+	}
+	"[MINIGAME] SLIDE AND KILL"
+	{
+		"chi"		"** **"
+	}
+	"@[MUSIC] Kid Cudi - day n nite"
+	{
+		"chi"		"** **"
+	}
+	"[MINIGAME] SLIDE"
+	{
+		"chi"		"** **"
+	}
+	"@[MINIGAME] SOMEONE WON"
+	{
+		"chi"		"** **"
+	}
+	"[MINIGAME] RACE"
+	{
+		"chi"		"** **"
+	}
+	"[MINIGAME] KNIFE INVISIBLE"
+	{
+		"chi"		"** **"
+	}
+	"@[MUSIC] Foster the People - Pumped up Kicks"
+	{
+		"chi"		"** **"
+	}
+	"[MINIGAME] SURF"
+	{
+		"chi"		"** **"
+	}
+	"@[MINIGAME] FALLDAMAGE ENABLED"
+	{
+		"chi"		"** **"
+	}
+	"[MINIGAME] WAR"
+	{
+		"chi"		"** **"
+	}
+	"@[MUSIC] Bazanji - Runaway"
+	{
+		"chi"		"** **"
+	}
+	"[MINIGAME] HUNTER VS SNIPERS HUNTER[T]"
+	{
+		"chi"		"** **"
+	}
+	"@[MINIGAME] FALL DAMAGE ENABLED"
+	{
+		"chi"		"** **"
+	}
+	"[MINIGAME] HUNTER VS SNIPERS HUNTER[CT]"
+	{
+		"chi"		"** **"
+	}
+	"[MINIGAME] KNIFE2"
+	{
+		"chi"		"** **"
+	}
+	"@[MUSIC] KING Z3US - 21 Pounds"
+	{
+		"chi"		"** **"
+	}
+	"[MINIGAME] SMOKE WAR"
+	{
+		"chi"		"** **"
+	}
+	"[MINIGAME] DODGE"
+	{
+		"chi"		"** **"
+	}
+	"[MINIGAME] BHOP-EASY"
+	{
+		"chi"		"** **"
+	}
+	"[MINIGAME] SOCCER"
+	{
+		"chi"		"** **"
+	}
+	"@[MUSIC] Virtual riot - Idols"
+	{
+		"chi"		"** **"
+	}
+	"[MINIGAME] AWP-MAP2"
+	{
+		"chi"		"** **"
+	}
+	"@[MUSIC] Shahmen - Mark"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"@[MUSIC] Pmac - One"
+	{
+		"chi"		"** **"
+	}
+	"@[MINIGAME] KNIFE IN 30SEC"
+	{
+		"chi"		"** **"
+	}
+	"@[MUSIC] Disclosure - Help Me Lose My Mind (Mazde Remix)"
+	{
+		"chi"		"** **"
+	}
+	"@[MUSIC] TroyBoi - O.G"
+	{
+		"chi"		"** **"
+	}
+	"@[MINIGAME] 30 SEC TELEPORT TO MIDDLE!"
+	{
+		"chi"		"** **"
+	}
+	"@[MINIGAME] 10 SEC TELEPORT TO MIDDLE"
+	{
+		"chi"		"** **"
+	}
+	"@[MUSIC] Twenty one pilots - stressed out (tomsize remix)"
+	{
+		"chi"		"** **"
+	}
+	"@(MUSIC] Daft Punk - Harder, Better, Faster, Stronger"
+	{
+		"chi"		"** **"
+	}
+	"[MINIGAME] KNIFE1"
+	{
+		"chi"		"** **"
+	}
+	"@ GOAL!!!"
+	{
+		"chi"		"** **"
+	}
+	"[MINIGAME] PISTOL-HEADSHOT"
+	{
+		"chi"		"** **"
+	}
+	"[<<Afkiller-Activated>>]"
+	{
+		"chi"		"** **"
+	}
+	"[MINIGAME] AIM-AK47"
+	{
+		"chi"		"** **"
+	}
+	"[MINIGAME] AWP-MAP1"
+	{
+		"chi"		"** **"
+	}
+	"[MINIGAME] SCOUT"
+	{
+		"chi"		"** **"
+	}
+	"@[MINIGAME] KNIFE TIME!!"
+	{
+		"chi"		"** **"
+	}
+	"@[MINIGAME] RANDOM MAP ACTIVATED"
+	{
+		"chi"		"** **"
+	}
+	"@[MINIGAME] MAKING THE MAP EASIER"
+	{
+		"chi"		"** **"
+	}
+	"@[MINIGAME] KNIFE IN 20 SEC"
+	{
+		"chi"		"** **"
+	}
+}

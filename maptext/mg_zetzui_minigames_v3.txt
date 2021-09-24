@@ -1,0 +1,19 @@
+"Console_T"
+{
+	"Map By Zetzui"
+	{
+		"chi"		"** **"
+	}
+	"@Map by Zetzui"
+	{
+		"chi"		"** **"
+	}
+	"steamcommunity.comidZetzui"
+	{
+		"chi"		"** **"
+	}
+	"@steamcommunity.comidZetzui"
+	{
+		"chi"		"** **"
+	}
+}

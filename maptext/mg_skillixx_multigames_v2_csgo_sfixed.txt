@@ -1,0 +1,75 @@
+"Console_T"
+{
+	"@ Map by SkiLLixX!"
+	{
+		"chi"		"** **"
+	}
+	"@ Map made for www.owlbox.de Community!"
+	{
+		"chi"		"** **"
+	}
+	"@ Map from CS:S , this is a transplant version"
+	{
+		"chi"		"** **"
+	}
+	"@ Workshop ID=887902608,Sonya fixed"
+	{
+		"chi"		"** **"
+	}
+	"@ - Aim -"
+	{
+		"chi"		"** **"
+	}
+	"@ - HeadShot Deagle -"
+	{
+		"chi"		"** **"
+	}
+	"@ - Smokebattle -"
+	{
+		"chi"		"** **"
+	}
+	"@ - 1HP Football -"
+	{
+		"chi"		"** **"
+	}
+	"@ GOAL!"
+	{
+		"chi"		"** **"
+	}
+	"@ - AWP -"
+	{
+		"chi"		"** **"
+	}
+	"@ - Iceskate -"
+	{
+		"chi"		"** **"
+	}
+	"@ - Sliderace -"
+	{
+		"chi"		"** **"
+	}
+	"@ - Dodgeball -"
+	{
+		"chi"		"** **"
+	}
+	"@ Kill the enemy Team with the ball!!"
+	{
+		"chi"		"** **"
+	}
+	"@ - Skipping Rope -"
+	{
+		"chi"		"** **"
+	}
+	"@ - Knife -"
+	{
+		"chi"		"** **"
+	}
+	"@ - Grenade -"
+	{
+		"chi"		"** **"
+	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,15 @@
+"Console_T"
+{
+	"制作者：Captain晓晓（导师王冠帮助），人生第1张图enjoy yourself"
+	{
+		"chi"		"** **"
+	}
+	"同好群：101592782"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"12626"
+	}
+}

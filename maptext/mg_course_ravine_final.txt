@@ -1,0 +1,7 @@
+"Console_T"
+{
+	"Map created by gz"
+	{
+		"chi"		"** **"
+	}
+}

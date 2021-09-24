@@ -1,0 +1,7 @@
+"Console_T"
+{
+	"Map by Oskar II Donate for your own text to appear here!"
+	{
+		"chi"		"** **"
+	}
+}

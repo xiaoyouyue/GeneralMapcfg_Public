@@ -1,0 +1,67 @@
+"Console_T"
+{
+	"**Selecting maps and patterns at random**"
+	{
+		"chi"		"** **"
+	}
+	"**The map has been selected and the game is about to begin**"
+	{
+		"chi"		"** **"
+	}
+	"**Bgm:nein**"
+	{
+		"chi"		"** **"
+	}
+	"**Map By Soc**"
+	{
+		"chi"		"** **"
+	}
+	"**Steam:steamcommunity.comidUidsoc**"
+	{
+		"chi"		"** **"
+	}
+	"**Bgm:-opening-**"
+	{
+		"chi"		"** **"
+	}
+	"**Bgm:allu**"
+	{
+		"chi"		"** **"
+	}
+	"**Bgm:Kronos**"
+	{
+		"chi"		"** **"
+	}
+	"**You have 30 seconds to get ready**"
+	{
+		"chi"		"** **"
+	}
+	"**Damage will be done to players outside the cave after 80 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**5**"
+	{
+		"chi"		"** **"
+	}
+	"**4**"
+	{
+		"chi"		"** **"
+	}
+	"**3**"
+	{
+		"chi"		"** **"
+	}
+	"**2**"
+	{
+		"chi"		"** **"
+	}
+	"**1**"
+	{
+		"chi"		"** **"
+	}
+	"**Start**"
+	{
+		"chi"		"** **"
+	}
+}

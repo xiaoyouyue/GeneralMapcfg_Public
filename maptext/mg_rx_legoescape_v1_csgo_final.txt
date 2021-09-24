@@ -1,0 +1,47 @@
+"Console_T"
+{
+	"@ Map by Rix :V"
+	{
+		"chi"		"** **"
+	}
+	"@ Special thanks to broiler"
+	{
+		"chi"		"** **"
+	}
+	"@ Spawn Killer in 5min"
+	{
+		"chi"		"** **"
+	}
+	"@ Spawn Killer in 30s"
+	{
+		"chi"		"** **"
+	}
+	"@ Spawn Killer in 5s"
+	{
+		"chi"		"** **"
+	}
+	"@ Spawn Killer in 4s"
+	{
+		"chi"		"** **"
+	}
+	"@ Spawn Killer in 3s"
+	{
+		"chi"		"** **"
+	}
+	"@ Spawn Killer in 2s"
+	{
+		"chi"		"** **"
+	}
+	"@ Spawn Killer in 1s"
+	{
+		"chi"		"** **"
+	}
+	"@ Spawn Killer Enabled"
+	{
+		"chi"		"** **"
+	}
+	"@ WELL DONE!!! YOU JUST ESCAPED"
+	{
+		"chi"		"** **"
+	}
+}

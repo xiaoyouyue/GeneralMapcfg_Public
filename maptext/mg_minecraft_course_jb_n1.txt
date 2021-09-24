@@ -1,0 +1,31 @@
+"Console_T"
+{
+	"Map created by Jinete Biohazard for CSS"
+	{
+		"chi"		"** **"
+	}
+	"Map edited by Shuzo for CS:GO"
+	{
+		"chi"		"** **"
+	}
+	"Map improved by NeSsOne for you"
+	{
+		"chi"		"** **"
+	}
+	"Explosion in 3 seconds ! Dont move man!"
+	{
+		"chi"		"** **"
+	}
+	"The saddle was found !"
+	{
+		"chi"		"** **"
+	}
+	"The pig was found !"
+	{
+		"chi"		"** **"
+	}
+	":)"
+	{
+		"chi"		"** **"
+	}
+}

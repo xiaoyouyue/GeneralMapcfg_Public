@@ -1,0 +1,7 @@
+"Console_T"
+{
+	"@[Map] Green cristal complete"
+	{
+		"chi"		"** **"
+	}
+}

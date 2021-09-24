@@ -1,0 +1,43 @@
+"Console_T"
+{
+	"LEVEL 1"
+	{
+		"chi"		"** **"
+	}
+	"Map By: Disownedpear"
+	{
+		"chi"		"** **"
+	}
+	"LEVEL 2"
+	{
+		"chi"		"** **"
+	}
+	"LEVEL 3"
+	{
+		"chi"		"** **"
+	}
+	"LEVEL 4"
+	{
+		"chi"		"** **"
+	}
+	"LEVEL 5"
+	{
+		"chi"		"** **"
+	}
+	"LEVEL 6"
+	{
+		"chi"		"** **"
+	}
+	"LEVEL 7"
+	{
+		"chi"		"** **"
+	}
+	"LEVEL 8"
+	{
+		"chi"		"** **"
+	}
+	"FINAL LEVEL"
+	{
+		"chi"		"** **"
+	}
+}

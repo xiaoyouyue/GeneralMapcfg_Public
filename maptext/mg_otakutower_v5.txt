@@ -1,0 +1,43 @@
+"Console_T"
+{
+	"map by 王冠"
+	{
+		"chi"		"** **"
+	}
+	"This is the first time I have made a map. If there are any loopholes and suggestions, please contact me"
+	{
+		"chi"		"** **"
+	}
+	"NGaaaaa!"
+	{
+		"chi"		"** **"
+	}
+	"Shanghai Alice Phantom Group - Border of Life"
+	{
+		"chi"		"** **"
+	}
+	"Shanghai Alice Gensodan - Wwal Magic Library"
+	{
+		"chi"		"** **"
+	}
+	"Mili  world.execute"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"84269"
+	}
+	"感谢死宅提供的帮助�"
+	{
+		"chi"		"** **"
+	}
+	"SharaX - Megalotrousle"
+	{
+		"chi"		"** **"
+	}
+	"Hope Flower"
+	{
+		"chi"		"** **"
+	}
+}

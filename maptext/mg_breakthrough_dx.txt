@@ -1,0 +1,71 @@
+"Console_T"
+{
+	"Hello Dystopia-Vocalid"
+	{
+		"chi"		"** **"
+	}
+	"CT have 30s to prepare"
+	{
+		"chi"		"** **"
+	}
+	"Yunde kai ite ramato-miku"
+	{
+		"chi"		"** **"
+	}
+	"Asnoyozola patrol pass"
+	{
+		"chi"		"** **"
+	}
+	"Alex Goot,Kurt Hugo Schneider,Alex G - Blank Space"
+	{
+		"chi"		"** **"
+	}
+	"level 1 close in 30 second"
+	{
+		"chi"		"** **"
+	}
+	"level 1 close"
+	{
+		"chi"		"** **"
+	}
+	"ship will start after 20s"
+	{
+		"chi"		"** **"
+	}
+	"you kill the dragon!"
+	{
+		"chi"		"** **"
+	}
+	"laser will come in 5 second"
+	{
+		"chi"		"** **"
+	}
+	"level 2 close"
+	{
+		"chi"		"** **"
+	}
+	"the wood will break after 15s"
+	{
+		"chi"		"** **"
+	}
+	"level 3 close in 20 second"
+	{
+		"chi"		"** **"
+	}
+	"level 3 close"
+	{
+		"chi"		"** **"
+	}
+	"the tp will start after 120s"
+	{
+		"chi"		"** **"
+	}
+	"Last tp will start after 15s"
+	{
+		"chi"		"** **"
+	}
+	"Survive for 90 second"
+	{
+		"chi"		"** **"
+	}
+}

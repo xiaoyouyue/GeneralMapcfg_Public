@@ -1,0 +1,39 @@
+"Console_T"
+{
+	"map by tonggu (kiliagaya)"
+	{
+		"chi"		"** **"
+	}
+	"thank by Otaku"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"89252"
+	}
+	"error!!"
+	{
+		"chi"		"** **"
+	}
+	"The battle for the sky tower will begin in 5 seconds."
+	{
+		"chi"		"** **"
+	}
+	"open"
+	{
+		"chi"		"** **"
+	}
+	"飞机大战将在5秒钟后传�?"
+	{
+		"chi"		"** **"
+	}
+	"如果开飞机卡主就反复开直到不卡住为止飞机只能有一个司�?"
+	{
+		"chi"		"** **"
+	}
+	"天空塔争夺战将在5秒后传�?"
+	{
+		"chi"		"** **"
+	}
+}

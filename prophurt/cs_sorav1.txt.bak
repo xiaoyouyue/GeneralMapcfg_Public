@@ -1,0 +1,150 @@
+"Models"
+{
+	"props\cs_assault\pylon"
+	{
+		"en"		"铁柱"
+	}
+	"props\cs_office\cardboard_box01"
+	{
+		"en"		"纸箱"
+	}
+	"props\cs_italy\market_table01"
+	{
+		"en"		"木桌"
+	}
+	"props_foliage\flower_barrel"
+	{
+		"en"		"大花盆"
+	}
+	"props\de_nuke\hr_nuke\metal_crate_001\metal_crate_001_96"
+	{
+		"en"		"大铁箱"
+	}
+	"props\de_nuke\hr_nuke\metal_crate_001\metal_crate_004_32x64"
+	{
+		"en"		"小绿箱"
+	}
+	"props_foliage\urban_tree_giant01_small"
+	{
+		"en"		"树"
+	}
+	"props\de_vertigo\wood_pallet_01_static"
+	{
+		"en"		"木板"
+		"special"		"1"
+	}
+	"props\cs_assault\fencewarehouse_rail_end_b"
+	{
+		"en"		"栏杆"
+	}
+	"props_equipment\firepipe02"
+	{
+		"en"		"红色水管"
+	}
+	"props\cs_office\vending_machine"
+	{
+		"en"		"自动贩卖机"
+	}
+	"props\de_nuke\hr_nuke\nuke_vending_machine\nuke_snack_machine"
+	{
+		"en"		"自动贩卖机2"
+	}
+	"props\de_nuke\hr_nuke\nuke_chair\nuke_chair"
+	{
+		"en"		"椅子"
+	}
+	"props_urban\hotel_halfmoon_table001"
+	{
+		"en"		"半月桌"
+	}
+	"props_interiors\printer"
+	{
+		"en"		"打印机"
+	}
+	"props\cs_office\trash_can"
+	{
+		"en"		"垃圾桶"
+	}
+	"props_foliage\mall_bigleaves_plant01_medium"
+	{
+		"en"		"植物"
+	}
+	"props_interiors\trashcankitchen01"
+	{
+		"en"		"垃圾桶-大"
+	}
+	"props_interiors\toilet"
+	{
+		"en"		"马桶"
+	}
+	"props\cs_office\sofa_chair"
+	{
+		"en"		"沙发"
+	}
+	"props_c17\furnituretable001a_static"
+	{
+		"en"		"圆桌"
+	}
+	"props_unique\coffeemachine01"
+	{
+		"en"		"咖啡机"
+	}
+	"props\de_inferno\furniturecouch001a"
+	{
+		"en"		"沙发-大"
+	}
+	"props\de_dust\dust_food_crates_56"
+	{
+		"en"		"纸箱堆"
+	}
+	"props\de_dust\dust_metal_crate"
+	{
+		"en"		"铁箱"
+	}
+	"props_wasteland\controlroom_chair001a"
+	{
+		"en"		"折叠凳"
+	}
+	"props\de_train\de_train_signalbox_01"
+	{
+		"en"		"变电箱"
+	}
+	"props_interiors\coffee_table_rectangular"
+	{
+		"en"		"矮桌"
+	}
+	"props\cs_militia\paintbucket01"
+	{
+		"en"		"油漆桶"
+	}
+	"props\cs_office\ladder_office"
+	{
+		"en"		"梯子"
+	}
+	"props_interiors\paper_towel_dispenser"
+	{
+		"en"		"厕纸盒"
+	}
+	"chicken\chicken"
+	{
+		"en"		"鸡"
+	}
+	"props\cs_office\fire_extinguisher"
+	{
+		"en"		"灭火器-可挂墙"
+		"special"		"1"
+		"speedlimit" 	"1.0"
+	}
+	"props_interiors\water_cooler"
+	{
+		"en"		"饮水机"
+	}
+	"props\coop_cementplant\coop_whiteboard\coop_whiteboard"
+	{
+		"en"		"白板"
+	}
+	"props_vehicles\humvee"
+	{
+		"en"		"悍马"
+	}
+}

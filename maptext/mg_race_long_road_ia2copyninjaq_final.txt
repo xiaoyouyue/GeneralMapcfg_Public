@@ -1,0 +1,71 @@
+"Console_T"
+{
+	"Music : Poperotiq - Bitch plz"
+	{
+		"chi"		"** **"
+	}
+	"No music"
+	{
+		"chi"		"** **"
+	}
+	"Music : M83 - Midnight city"
+	{
+		"chi"		"** **"
+	}
+	"Music : PSY - Gangnam Style"
+	{
+		"chi"		"** **"
+	}
+	"Music : Just Jack - Basement"
+	{
+		"chi"		"** **"
+	}
+	"Someone want a new race, run with your weapon in 10 seconds !"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"98507"
+	}
+	"Music : Steerner,Kap Slap,Gazzo - Rewind (Steerner Bootleg)"
+	{
+		"chi"		"** **"
+	}
+	"Music : Levianth - Lookdown"
+	{
+		"chi"		"** **"
+	}
+	"!say There are no players left on the track and the round will be forced to end after 90 seconds."
+	{
+		"chi"		"** **"
+	}
+	"Music : Firebeatz & Yozo - Rock To The Rhythm"
+	{
+		"chi"		"** **"
+	}
+	"Music : Lulleaux - Contact"
+	{
+		"chi"		"** **"
+	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
+	"Teleport all players to the battleground after 50 seconds to end the game quickly."
+	{
+		"chi"		"** **"
+	}
+	"Broken after 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Teleport all players to the battleground after 40 seconds to end the game quickly."
+	{
+		"chi"		"** **"
+	}
+	"Broken after Ten seconds."
+	{
+		"chi"		"** **"
+	}
+}

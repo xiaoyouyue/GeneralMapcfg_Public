@@ -1,0 +1,51 @@
+"Console_T"
+{
+	"map by 王冠"
+	{
+		"chi"		"** **"
+	}
+	"[BGM]Mind"
+	{
+		"chi"		"** **"
+	}
+	"[BGM]solar system desco"
+	{
+		"chi"		"** **"
+	}
+	"[BGM]Alex Goot,Kurt Hugo Schneider,Alex G - Blank Space"
+	{
+		"chi"		"** **"
+	}
+	"[BGM]hope to brith"
+	{
+		"chi"		"** **"
+	}
+	"[BGM]Hello Dystopia-Vocalid"
+	{
+		"chi"		"** **"
+	}
+	"[BGM]Eden Landve"
+	{
+		"chi"		"** **"
+	}
+	"[BGM]Rolling in the deep"
+	{
+		"chi"		"** **"
+	}
+	"[BGM]Asnoyozola patrol pass"
+	{
+		"chi"		"** **"
+	}
+	"[BGM]Yunde kai ite ramato-miku"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"28020"
+	}
+	"map by ??????"
+	{
+		"chi"		"** **"
+	}
+}

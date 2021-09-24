@@ -1,0 +1,15 @@
+"Console_T"
+{
+	"Map made by ZONNY - [STEAM_0:1:149587685] | Special Thanks: RAINV & luckan00"
+	{
+		"chi"		"** **"
+	}
+	"Spawnkill enables in 90 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Spawnkill is now enabled!"
+	{
+		"chi"		"** **"
+	}
+}

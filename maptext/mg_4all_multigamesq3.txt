@@ -1,0 +1,199 @@
+"Console_T"
+{
+	"All thanks belongs to www.battleforce.cz game servers"
+	{
+		"chi"		"** **"
+	}
+	"Map created by Sodan Tok"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Climb arena + falldmgOFF"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Race arena + fall=teleport"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Climb arena + falldmgON"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Knife arena 2 + 16hp"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Special arena 2"
+	{
+		"chi"		"** **"
+	}
+	"T hero is... TERMINATOR called ARNIE"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Special arena 1 + AWP"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Weapon arena 3 + AUGSG553 + 200HP"
+	{
+		"chi"		"** **"
+	}
+	"Level created by RICO"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Weapon arena 1 + AK47"
+	{
+		"chi"		"** **"
+	}
+	"5 sec to hide"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Weapon arena 2 + DEAGLE"
+	{
+		"chi"		"** **"
+	}
+	"CT hero is... INVISIBLE MAN called PREDY"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Weapon arena 1 + AK47 + 1HP"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Random"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Weapon arena 1 + SSG08 + 200HP"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Knife arena 2 + 35hp"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Knife arena 3 + 100hp"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Race arena + fall=hurt"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Weapon arena 3 + AK47M4A1 + 125HP"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Knife arena 1 + 100HP"
+	{
+		"chi"		"** **"
+	}
+	"CT hero is... TERMINATOR called ZOMBO"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Weapon arena 2 + BUYZONE + SPEED + 500HP"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Special arena 1 + SSG08"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Weapon arena 3 + AWP + 400HP"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Knife arena 2 + 1hp"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Knife arena 1 + 165HP"
+	{
+		"chi"		"** **"
+	}
+	"CT hero is... CYLON called EYE-BLIK"
+	{
+		"chi"		"** **"
+	}
+	"T hero is... INVISIBLE MAN called BLINDNESS"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Knife arena 1 + 35HP"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Weapon arena 2 + P250 + 1HP"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Race arena + fall=kill"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Knife arena 2 + 66hp"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Weapon arena 2 + SSG08 + 300HP"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Knife arena 3 + 200hp"
+	{
+		"chi"		"** **"
+	}
+	"T hero is... CYLON called NUMBER 13"
+	{
+		"chi"		"** **"
+	}
+	"T hero is... NOBODY called NOOB-WITHOUT-SKILL"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Knife arena 3 + 165hp"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Knife arena 1 + 66HP"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Weapon arena 2 + ELITE + 300HP"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Weapon arena 1 + SSG08"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Knife arena 3 + 66hp"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Weapon arena 2 + BUYZONE"
+	{
+		"chi"		"** **"
+	}
+	"Choosed mode: Weapon arena 2 + SSG08"
+	{
+		"chi"		"** **"
+	}
+	"CT hero is... NOBODY called TOO-LATE-NOOB"
+	{
+		"chi"		"** **"
+	}
+	"TIMELEFT: 30sec"
+	{
+		"chi"		"** **"
+	}
+	"THE END !"
+	{
+		"chi"		"** **"
+	}
+}

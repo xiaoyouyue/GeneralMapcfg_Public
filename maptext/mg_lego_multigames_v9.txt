@@ -1,0 +1,371 @@
+"Console_T"
+{
+	"@[Map] Map ported by Blogger(Dog)botua"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Special thanks to DexKekcuk #13"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Secret room Disable"
+	{
+		"chi"		"**秘密房间未开启**"
+	}
+	"@[Map] Map by The_Prodigy"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Secret room Enable"
+	{
+		"chi"		"**秘密房间启用**"
+	}
+	"@[MAP] KNIFE"
+	{
+		"chi"		"**刀战**"
+	}
+	"@[Map] Random mod..."
+	{
+		"chi"		"**随机**"
+	}
+	"@[Mod] BackStab mod"
+	{
+		"chi"		"**背刺**"
+	}
+	"@[Music] Dropout - Slowly (Two Friends Remix)"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Football 100HP"
+	{
+		"chi"		"**100血足球**"
+	}
+	"@[Music] JayKode - Release (feat. Tima Dee)"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] T Win"
+	{
+		"chi"		"**t赢了**"
+	}
+	"@[Map] Many Rooms"
+	{
+		"chi"		"**喷子+雷**"
+	}
+	"@[Music] Krewella - Alive"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] RandomGame..."
+	{
+		"chi"		"**随机游戏**"
+	}
+	"@[Map] Scout"
+	{
+		"chi"		"**鸟狙**"
+	}
+	"@[Gravity] Random gravity"
+	{
+		"chi"		"**随机重力**"
+	}
+	"@[Gravity] High gravity"
+	{
+		"chi"		"**高重力**"
+	}
+	"@[Mod] Knife 65HP"
+	{
+		"chi"		"**65血刀**"
+	}
+	"@[Music] Diplo - Revolution (Unlike Pluto Remix)"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Skate"
+	{
+		"chi"		"**滑冰**"
+	}
+	"@[Music] Mark Ronson - Uptown Funk ft. Bruno Mars"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Skate v2"
+	{
+		"chi"		"**滑冰v2**"
+	}
+	"@[Map] Spawn fight"
+	{
+		"chi"		"**出生点大战**"
+	}
+	"@[Map] every man for himself"
+	{
+		"chi"		"**是个人战哒！**"
+	}
+	"@[Weapon] Deagle"
+	{
+		"chi"		"**沙鹰**"
+	}
+	"@[Hp] 150"
+	{
+		"chi"		"**150血**"
+	}
+	"@[Map] 2Rooms"
+	{
+		"chi"		"**俩房间互怼**"
+	}
+	"@[Music] Archie - Back Again"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Blind Deagle"
+	{
+		"chi"		"**沙鹰瞎摸**"
+	}
+	"@[Map] Bhop"
+	{
+		"chi"		"**连跳**"
+	}
+	"@[Map] 25 Second"
+	{
+		"chi"		"**25秒**"
+	}
+	"@[Map] Labyrinth"
+	{
+		"chi"		"**黑暗迷宫**"
+	}
+	"@[Music] Charlie Clouser - Dead Silence Theme"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 4 minutes slay"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Weapon USP"
+	{
+		"chi"		"**武器是usp哒！**"
+	}
+	"@[Map] AWP is an illusion"
+	{
+		"chi"		"**AWP是个谎言**"
+	}
+	"@[Map] 3 minutes slay"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 2 minutes slay"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Arman Cekin & Larcy - Taste"
+	{
+		"chi"		"** **"
+	}
+	"@[Weapon] Knife"
+	{
+		"chi"		"**武器是刀哒！**"
+	}
+	"@[Hp] 250"
+	{
+		"chi"		"**250血**"
+	}
+	"@[Map] Skipping Rope"
+	{
+		"chi"		"**跳绳**"
+	}
+	"@[Map] >5<"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >4<"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >3<"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >2<"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >1<"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Imagine Dragons - Demons (Dzeko & Torres Remix)"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >Go!<"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Speed Jumps"
+	{
+		"chi"		"**旋转跳**"
+	}
+	"@[Map] Football 1HP"
+	{
+		"chi"		"**杀人足球**"
+	}
+	"@[MAP] AWP"
+	{
+		"chi"		"**大狙**"
+	}
+	"@[Map] Grenades"
+	{
+		"chi"		"**手雷**"
+	}
+	"@[Map] Long Jump v2"
+	{
+		"chi"		"**长跳v2**"
+	}
+	"@[Weapon] Awp"
+	{
+		"chi"		"**武器是awp哒！**"
+	}
+	"@[Hp] 200"
+	{
+		"chi"		"**200血**"
+	}
+	"@[Map] Scout v2"
+	{
+		"chi"		"**鸟狙v2**"
+	}
+	"@[Mod] Knife 1HP"
+	{
+		"chi"		"**1血刀战**"
+	}
+	"@[Map] Weapon Deagle"
+	{
+		"chi"		"**武器是沙鹰哒！**"
+	}
+	"@[Map] Long Jump"
+	{
+		"chi"		"**长跳**"
+	}
+	"@[Map] Blind Deagle v2"
+	{
+		"chi"		"**沙鹰瞎摸v2**"
+	}
+	"@[Map] Shotgun"
+	{
+		"chi"		"**喷子**"
+	}
+	"@[Gravity] Low gravity"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Weapon P250"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] CT Win"
+	{
+		"chi"		"** **"
+	}
+	"@[Gravity] Normal gravity"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] AWP v2"
+	{
+		"chi"		"** **"
+	}
+	"@[Weapon] M4A1"
+	{
+		"chi"		"** **"
+	}
+	"@[Hp] 300"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Weapon Glock-18"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 30 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Weapon Elite"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Weapon Tec-9"
+	{
+		"chi"		"** **"
+	}
+	"@[Weapon] AK-47"
+	{
+		"chi"		"** **"
+	}
+	"@[Hp] 500"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 1 minute slay"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 30 seconds slay"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 10 seconds slay"
+	{
+		"chi"		"** **"
+	}
+	"@ TimeLimit!"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Time out"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"23086"
+	}
+	"@[Map] Map ported by Blogger(Dog)vedeshka"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Alan Walker - Alone (WildVibes Remix)"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Imagine Dragons - Thunder"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Unlike Pluto feat. Mike Taylor � Everything Black (Original Mix)"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Klaas � Sean Finn - Can You Feel It (Klaas Remix)"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Imagine Dragons - Believer (Kaskade Remix)"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] The Chainsmoker � Roses (Uberjakd & Dimatik Bootleg)"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] ATL-Dance"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Time limit"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] TimeLimit"
+	{
+		"chi"		"** **"
+	}
+}

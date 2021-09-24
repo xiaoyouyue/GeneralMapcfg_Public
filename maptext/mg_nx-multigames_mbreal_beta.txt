@@ -1,0 +1,75 @@
+"Console_T"
+{
+	"| This map isnt finished ... Dont forget to look at GameBanana for map updates ! |"
+	{
+		"chi"		"** **"
+	}
+	"| Knife has been selected ! |"
+	{
+		"chi"		"** **"
+	}
+	"| Guns has been selected ! |"
+	{
+		"chi"		"** **"
+	}
+	"| You have 15 seconds to choose a weapon. |"
+	{
+		"chi"		"** **"
+	}
+	"| Soccer has been selected ! |"
+	{
+		"chi"		"** **"
+	}
+	"| GOOOOOOAAAL ! |"
+	{
+		"chi"		"** **"
+	}
+	"| Battle Team Royale has been selected ! |"
+	{
+		"chi"		"** **"
+	}
+	"| You have 50 seconds to find your weapons and prepare to fight ! |"
+	{
+		"chi"		"** **"
+	}
+	"| The first team who kill the other win ! |"
+	{
+		"chi"		"** **"
+	}
+	"| Wait .. We can kill our team ? |"
+	{
+		"chi"		"** **"
+	}
+	"| Ok ... |"
+	{
+		"chi"		"** **"
+	}
+	"| Shotguns has been selected ! |"
+	{
+		"chi"		"** **"
+	}
+	"| VolleyBall has been selected ! |"
+	{
+		"chi"		"** **"
+	}
+	"| Jump Rope has been selected ! |"
+	{
+		"chi"		"** **"
+	}
+	"| It starts in 8 seconds ! |"
+	{
+		"chi"		"** **"
+	}
+	"| No one else in the Jump Rope ... |"
+	{
+		"chi"		"** **"
+	}
+	"| We have a winner ! |"
+	{
+		"chi"		"** **"
+	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,259 @@
+"Console_T"
+{
+	"**Map By noob**"
+	{
+		"chi"		"** **"
+	}
+	"**Its my first map**"
+	{
+		"chi"		"** **"
+	}
+	"**Random map**"
+	{
+		"chi"		"** **"
+	}
+	"**5**"
+	{
+		"chi"		"** **"
+	}
+	"**4**"
+	{
+		"chi"		"** **"
+	}
+	"**3**"
+	{
+		"chi"		"** **"
+	}
+	"**2**"
+	{
+		"chi"		"** **"
+	}
+	"**1**"
+	{
+		"chi"		"** **"
+	}
+	"**GO**"
+	{
+		"chi"		"** **"
+	}
+	"**After 30 seconds Break**"
+	{
+		"chi"		"** **"
+	}
+	"**T Win!!**"
+	{
+		"chi"		"** **"
+	}
+	"**Kill Brush In 45**"
+	{
+		"chi"		"** **"
+	}
+	"**Kill AFK in 15 second**"
+	{
+		"chi"		"** **"
+	}
+	"**START**"
+	{
+		"chi"		"** **"
+	}
+	"**CT Win!!**"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"12632"
+	}
+	"**SteamID:steamcommunity.comiduid1478963**"
+	{
+		"chi"		"** **"
+	}
+	"**If you find map Bug, you can contact the map author,Thank**"
+	{
+		"chi"		"** **"
+	}
+	"**AFK Kill In 60second**"
+	{
+		"chi"		"** **"
+	}
+	"**Kill All in 2minutes**"
+	{
+		"chi"		"** **"
+	}
+	"**Win,Teleport All in 7second**"
+	{
+		"chi"		"** **"
+	}
+	"**45 second Kill All**"
+	{
+		"chi"		"** **"
+	}
+	"**This is my first map**"
+	{
+		"chi"		"** **"
+	}
+	"**Thank you for play this map**"
+	{
+		"chi"		"** **"
+	}
+	"**AFK Kill In 73second**"
+	{
+		"chi"		"** **"
+	}
+	"**Disable Push In 65second**"
+	{
+		"chi"		"** **"
+	}
+	"**Water Open**"
+	{
+		"chi"		"** **"
+	}
+	"**Kill ALL in 100 second**"
+	{
+		"chi"		"** **"
+	}
+	"**Scar20**"
+	{
+		"chi"		"** **"
+	}
+	"**Knife[65HP]**"
+	{
+		"chi"		"** **"
+	}
+	"**Mag7**"
+	{
+		"chi"		"** **"
+	}
+	"**Grenade**"
+	{
+		"chi"		"** **"
+	}
+	"**Ak47**"
+	{
+		"chi"		"** **"
+	}
+	"**Nova**"
+	{
+		"chi"		"** **"
+	}
+	"**Deagle**"
+	{
+		"chi"		"** **"
+	}
+	"**Awp**"
+	{
+		"chi"		"** **"
+	}
+	"**Islands[taser]**"
+	{
+		"chi"		"** **"
+	}
+	"**revolver**"
+	{
+		"chi"		"** **"
+	}
+	"**Skating**"
+	{
+		"chi"		"** **"
+	}
+	"**Knife[100Hp]**"
+	{
+		"chi"		"** **"
+	}
+	"**Tec-9**"
+	{
+		"chi"		"** **"
+	}
+	"**Aug**"
+	{
+		"chi"		"** **"
+	}
+	"**50Kill**"
+	{
+		"chi"		"** **"
+	}
+	"**Do not use Bug in team mode**"
+	{
+		"chi"		"** **"
+	}
+	"**Islands[Knife]**"
+	{
+		"chi"		"** **"
+	}
+	"**M4a1-S**"
+	{
+		"chi"		"** **"
+	}
+	"**m4a4**"
+	{
+		"chi"		"** **"
+	}
+	"**70Kill**"
+	{
+		"chi"		"** **"
+	}
+	"**Knife[35Hp]**"
+	{
+		"chi"		"** **"
+	}
+	"**Laser[noob Mode]**"
+	{
+		"chi"		"** **"
+	}
+	"**Laser[pro Mode]**"
+	{
+		"chi"		"** **"
+	}
+	"**xm1014**"
+	{
+		"chi"		"** **"
+	}
+	"**SSg08**"
+	{
+		"chi"		"** **"
+	}
+	"**Knife**"
+	{
+		"chi"		"** **"
+	}
+	"**Sg556**"
+	{
+		"chi"		"** **"
+	}
+	"**sawedoff**"
+	{
+		"chi"		"** **"
+	}
+	"**Cz75**"
+	{
+		"chi"		"** **"
+	}
+	"**60Kill**"
+	{
+		"chi"		"** **"
+	}
+	"**taser**"
+	{
+		"chi"		"** **"
+	}
+	"**elite**"
+	{
+		"chi"		"** **"
+	}
+	"**P250**"
+	{
+		"chi"		"** **"
+	}
+	"**Usp-S**"
+	{
+		"chi"		"** **"
+	}
+	"**Fn57**"
+	{
+		"chi"		"** **"
+	}
+	"**T to kill enemies 50 Win 5second Give weapon**"
+	{
+		"chi"		"** **"
+	}
+}

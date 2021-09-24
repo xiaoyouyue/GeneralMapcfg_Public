@@ -1,0 +1,139 @@
+"Console_T"
+{
+	"@Map version 1.1"
+	{
+		"chi"		"** **"
+	}
+	"@Map by Gunman"
+	{
+		"chi"		"** **"
+	}
+	"@Choose game Headshot"
+	{
+		"chi"		"** **"
+	}
+	"@Oops.."
+	{
+		"chi"		"** **"
+	}
+	"@Random choosing..."
+	{
+		"chi"		"** **"
+	}
+	"@Choose game Speedjump"
+	{
+		"chi"		"** **"
+	}
+	"@Jump 60 seconds last"
+	{
+		"chi"		"** **"
+	}
+	"@Battle 30 seconds last"
+	{
+		"chi"		"** **"
+	}
+	"@Choose game TrulySkate"
+	{
+		"chi"		"** **"
+	}
+	"@Area push in 90 secs"
+	{
+		"chi"		"** **"
+	}
+	"@Choose game Nade"
+	{
+		"chi"		"** **"
+	}
+	"@Choose game BombMan"
+	{
+		"chi"		"** **"
+	}
+	"@Choose game Rope skipping"
+	{
+		"chi"		"** **"
+	}
+	"@60 seconds last"
+	{
+		"chi"		"** **"
+	}
+	"5.."
+	{
+		"chi"		"** **"
+	}
+	"4.."
+	{
+		"chi"		"** **"
+	}
+	"3.."
+	{
+		"chi"		"** **"
+	}
+	"2.."
+	{
+		"chi"		"** **"
+	}
+	"1.."
+	{
+		"chi"		"** **"
+	}
+	"@Choose game Speedrun"
+	{
+		"chi"		"** **"
+	}
+	"@Choose game Maze"
+	{
+		"chi"		"** **"
+	}
+	"@Choose game ssg08+knife"
+	{
+		"chi"		"** **"
+	}
+	"@Oh.."
+	{
+		"chi"		"** **"
+	}
+	"@Choose game AWP"
+	{
+		"chi"		"** **"
+	}
+	"@Choose game AK47"
+	{
+		"chi"		"** **"
+	}
+	"@Choose game Knife1v1"
+	{
+		"chi"		"** **"
+	}
+	"@Now choose new players..."
+	{
+		"chi"		"** **"
+	}
+	"@Battle last 50 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@Now choose a new player..."
+	{
+		"chi"		"** **"
+	}
+	"@Choose game Soccer"
+	{
+		"chi"		"** **"
+	}
+	"@Goal !!!"
+	{
+		"chi"		"** **"
+	}
+	"@Choose game Skate"
+	{
+		"chi"		"** **"
+	}
+	"@Pushing.."
+	{
+		"chi"		"** **"
+	}
+	"@Area push again in 30secs"
+	{
+		"chi"		"** **"
+	}
+}

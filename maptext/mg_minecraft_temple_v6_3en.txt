@@ -1,0 +1,35 @@
+"Console_T"
+{
+	"@[Steve] STOP!!!!!!!!!"
+	{
+		"chi"		"** **"
+	}
+	"CHECKPOINT ACTIVED"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Boss fight 15 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 2 Minutes"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] One minute"
+	{
+		"chi"		"** **"
+	}
+	"[Steve] Elevator start in 15 seconds"
+	{
+		"chi"		"** **"
+	}
+	"[Steve] Elevator start in 5 seconds"
+	{
+		"chi"		"** **"
+	}
+	"[Steve] Toxic cubes broken"
+	{
+		"chi"		"** **"
+	}
+}

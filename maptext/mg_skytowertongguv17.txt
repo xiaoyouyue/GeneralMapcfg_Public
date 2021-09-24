@@ -1,0 +1,11 @@
+"Console_T"
+{
+	"map by tonggu (kiliagaya)"
+	{
+		"chi"		"** **"
+	}
+	"thank by Otaku"
+	{
+		"chi"		"** **"
+	}
+}

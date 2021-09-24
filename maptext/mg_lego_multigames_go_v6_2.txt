@@ -1,0 +1,283 @@
+"Console_T"
+{
+	"@[Map] Map ported by Blogger(Dog)"
+	{
+		"chi"		"**地图由Blogger(Dog)搬运  翻译:拉姆**"
+	}
+	"@[Map] Special thanks to DexKekcuk #13"
+	{
+		"chi"		"**特别感谢 DexKekcuk #13**"
+	}
+	"@[Map] Secret room Disable"
+	{
+		"chi"		"**彩蛋房间禁用**"
+	}
+	"@[Map] Map by TheProdigy"
+	{
+		"chi"		"**地图由TheProdigy制作**"
+	}
+	"@[Map] Secret room Enable"
+	{
+		"chi"		"**彩蛋房正在开启**"
+	}
+	"@[Map] Skate v2"
+	{
+		"chi"		"**滑冰刀人V2**"
+	}
+	"@[Music] JayKode - Release (feat. Tima Dee)"
+	{
+		"chi"		"**音乐JayKode - Release (feat. Tima Dee)**"
+	}
+	"@[Map] Scout"
+	{
+		"chi"		"**鸟狙**"
+	}
+	"@[Gravity] Random gravity"
+	{
+		"chi"		"**选择重力模式**"
+	}
+	"@[Gravity] High gravity"
+	{
+		"chi"		"**高重力**"
+	}
+	"@[Music] Dropout - Slowly (Two Friends Remix)"
+	{
+		"chi"		"**音乐 Dropout - Slowly (Two Friends Remix) **"
+	}
+	"@[Map] Blind Deagle"
+	{
+		"chi"		"**穿墙沙鹰 **"
+	}
+	"@[Music] Archie - Back Again"
+	{
+		"chi"		"**音乐 Archie - Back Again**"
+	}
+	"@[Map] Football 1HP"
+	{
+		"chi"		"**1血足球 **"
+	}
+	"@[Map] Skate"
+	{
+		"chi"		"**滑冰刀人 **"
+	}
+	"@[Map] Skipping Rope"
+	{
+		"chi"		"**快乐跳绳 记得开场站在正确的一边**"
+	}
+	"@[Map] >5<"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >4<"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >3<"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >2<"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >1<"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >Go!<"
+	{
+		"chi"		"**开始**"
+	}
+	"@[Music] Arman Cekin & Larcy - Taste"
+	{
+		"chi"		"**音乐 Arman Cekin & Larcy - Taste **"
+	}
+	"@[Map] T Win"
+	{
+		"chi"		"**恐怖分子胜利**"
+	}
+	"@[Map] Labyrinth"
+	{
+		"chi"		"**厕所风云 **"
+	}
+	"@[Music] Charlie Clouser - Dead Silence Theme"
+	{
+		"chi"		"**音乐 Charlie Clouser - Dead Silence Theme **"
+	}
+	"@[MAP] KNIFE"
+	{
+		"chi"		"**刀战 **"
+	}
+	"@[Map] Random mod..."
+	{
+		"chi"		"**随机选图 **"
+	}
+	"@[Mod] BackStab mod"
+	{
+		"chi"		"**背刺模式开启 **"
+	}
+	"@[Music] Krewella - Alive"
+	{
+		"chi"		"**音乐 Krewella - Alive **"
+	}
+	"@[Map] CT Win"
+	{
+		"chi"		"**反恐精英胜利 **"
+	}
+	"@[Map] Speed Jumps"
+	{
+		"chi"		"**快速旋转跳**"
+	}
+	"@[Music] Imagine Dragons - Demons (Dzeko & Torres Remix)"
+	{
+		"chi"		"**音乐 Imagine Dragons - Demons (Dzeko & Torres Remix) **"
+	}
+	"@[Map] 25 Second"
+	{
+		"chi"		"**25秒 **"
+	}
+	"@[Map] Long Jump v2"
+	{
+		"chi"		"**长跳V2 **"
+	}
+	"@[Map] Spawn fight"
+	{
+		"chi"		"**出生点二五仔随机枪支混战 **"
+	}
+	"@[Map] every man for himself"
+	{
+		"chi"		"**只有一个人能站到最后**"
+	}
+	"@[Weapon] M4A1"
+	{
+		"chi"		"** **"
+	}
+	"@[Hp] 300"
+	{
+		"chi"		"**300血**"
+	}
+	"@[Map] AWP v2"
+	{
+		"chi"		"**awp狙击V2**"
+	}
+	"@[Map] Bhop"
+	{
+		"chi"		"**连跳**"
+	}
+	"@[Map] Grenades"
+	{
+		"chi"		"**手雷 只有从最上面那个缝里面才能丢过去**"
+	}
+	"@[Map] 2Rooms"
+	{
+		"chi"		"**2间小房子  awp可以穿透两边窗户 手雷禁用**"
+	}
+	"@[Music] Diplo - Revolution (Unlike Pluto Remix)"
+	{
+		"chi"		"**音乐 Diplo - Revolution (Unlike Pluto Remix) **"
+	}
+	"@[Map] Scout v2"
+	{
+		"chi"		"**鸟狙V2**"
+	}
+	"@[Gravity] Low gravity"
+	{
+		"chi"		"**低重力模式**"
+	}
+	"@[Weapon] Knife"
+	{
+		"chi"		"**刀战**"
+	}
+	"@[Hp] 250"
+	{
+		"chi"		"**250血**"
+	}
+	"@[Map] 30 seconds"
+	{
+		"chi"		"**30秒**"
+	}
+	"@[Map] TimeLimit"
+	{
+		"chi"		"**时间剩余**"
+	}
+	"@[Map] Long Jump"
+	{
+		"chi"		"**长跳**"
+	}
+	"@[Map] Many Rooms"
+	{
+		"chi"		"**开门送温暖**"
+	}
+	"@[Music] Mark Ronson - Uptown Funk ft. Bruno Mars"
+	{
+		"chi"		"**音乐 Mark Ronson - Uptown Funk ft. Bruno Mars **"
+	}
+	"@[Map] Blind Deagle v2"
+	{
+		"chi"		"**穿墙沙鹰V2**"
+	}
+	"@[Mod] Knife 65HP"
+	{
+		"chi"		"**65血刀战**"
+	}
+	"@[Weapon] Awp"
+	{
+		"chi"		"**狙击枪**"
+	}
+	"@[Hp] 200"
+	{
+		"chi"		"**200血**"
+	}
+	"@[Weapon] Deagle"
+	{
+		"chi"		"**沙鹰**"
+	}
+	"@[Hp] 150"
+	{
+		"chi"		"**150血**"
+	}
+	"@[Weapon] AK-47"
+	{
+		"chi"		"**AK47**"
+	}
+	"@[Hp] 500"
+	{
+		"chi"		"**500血**"
+	}
+	"@[Mod] Knife 1HP"
+	{
+		"chi"		"**1血刀战**"
+	}
+	"@[Map] Shotgun"
+	{
+		"chi"		"**对抗喷子 **"
+	}
+	"@[Map] RandomGame..."
+	{
+		"chi"		"**随机模式**"
+	}
+	"@[MAP] AWP"
+	{
+		"chi"		"**awp**"
+	}
+	"@[Map] Football 100HP"
+	{
+		"chi"		"**100血足球？？？踢一年？？？**"
+	}
+	"@[Gravity] Normal gravity"
+	{
+		"chi"		"**正常重力**"
+	}
+	"@[Map] 30 seconds slay"
+	{
+		"chi"		"**30秒后处死**"
+	}
+	"@[Map] Time limit"
+	{
+		"chi"		"**时间剩余**"
+	}
+	"@ TimeLimit!"
+	{
+		"chi"		"**时间剩余**"
+	}
+}

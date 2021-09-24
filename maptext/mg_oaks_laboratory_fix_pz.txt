@@ -1,0 +1,63 @@
+"Console_T"
+{
+	"You have exactly 140 seconds left to safely exit the building!"
+	{
+		"chi"		"** **"
+	}
+	"Only 40 seconds left! Hurry up!"
+	{
+		"chi"		"** **"
+	}
+	"Find a way to activate the entrance lightspot on the roof!"
+	{
+		"chi"		"** **"
+	}
+	"Hurry up! Clocks ticking..."
+	{
+		"chi"		"** **"
+	}
+	"Entrance Spotlight Activated"
+	{
+		"chi"		"** **"
+	}
+	"Leave as fast as possible!"
+	{
+		"chi"		"** **"
+	}
+	"Oaks Laboratory opened!"
+	{
+		"chi"		"** **"
+	}
+	"Jump in the truck on your right! Hurry up!"
+	{
+		"chi"		"** **"
+	}
+	"Well-done on saving the world without letting the virus escape!"
+	{
+		"chi"		"** **"
+	}
+	"Special thanks to zaCade - Kaemon - LilHa - [SG] Paul - Acehigh - ZwiebelBitch"
+	{
+		"chi"		"** **"
+	}
+	"Thanks for playing. Hope you enjoyed it."
+	{
+		"chi"		"** **"
+	}
+	"Map made by ProfessorOak"
+	{
+		"chi"		"** **"
+	}
+	"Biohazard radiation spreading around the world"
+	{
+		"chi"		"** **"
+	}
+	"infecting every living creature and the environment."
+	{
+		"chi"		"** **"
+	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
+}

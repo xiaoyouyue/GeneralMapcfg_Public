@@ -1,0 +1,7 @@
+"Console_T"
+{
+	"[Map] Map by 哔哩哔哩-风流倜傥你杰森, Escape MOD by Dazai Nerau."
+	{
+		"chi"		"** **"
+	}
+}

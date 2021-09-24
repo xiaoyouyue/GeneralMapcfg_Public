@@ -1,0 +1,107 @@
+"Console_T"
+{
+	"@[MAP]  Map made by Reapr"
+	{
+		"chi"		"**地图制作：Reapr 地图翻译：Ex_cKo **"
+	}
+	"@[MAP] AWP"
+	{
+		"chi"		"**AWP **"
+	}
+	"@[MAP] KNIFE"
+	{
+		"chi"		"**刀 **"
+	}
+	"@[Map] Skipping Rope"
+	{
+		"chi"		"**跳绳 **"
+	}
+	"@[Map] Skate"
+	{
+		"chi"		"**滑冰 **"
+	}
+	"@[MAP] MAZE NOVA"
+	{
+		"chi"		"**喷子 **"
+	}
+	"@[MAP] STRAFE"
+	{
+		"chi"		"**扫射 **"
+	}
+	"@[MAP] MAZE M249"
+	{
+		"chi"		"**M249 **"
+	}
+	"@[MAP] LONGJUMP"
+	{
+		"chi"		"**长跳 **"
+	}
+	"@[MAP] 65HP KNIFE ARENA"
+	{
+		"chi"		"**65血 刀 **"
+	}
+	"@[Map] Bhop"
+	{
+		"chi"		"**连跳 **"
+	}
+	"@[MAP] GRAVITY SCOUT"
+	{
+		"chi"		"**重力鸟狙 **"
+	}
+	"@[MAP] KNIFE ARENA"
+	{
+		"chi"		"**刀 **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"54513"
+	}
+	"[Map] KNIFE ARENA"
+	{
+		"chi"		"** **"
+	}
+	"[Map] GRAVITY SCOUT"
+	{
+		"chi"		"** **"
+	}
+	"[Map] SKIPPING ROPE"
+	{
+		"chi"		"** **"
+	}
+	"[Map] MAZE M249"
+	{
+		"chi"		"** **"
+	}
+	"[Map] AWP"
+	{
+		"chi"		"** **"
+	}
+	"[MAP] STRAFE"
+	{
+		"chi"		"** **"
+	}
+	"[Map] BHOP"
+	{
+		"chi"		"** **"
+	}
+	"[Map] 35HP KNIFE ARENA"
+	{
+		"chi"		"** **"
+	}
+	"[Map] SCOUT"
+	{
+		"chi"		"** **"
+	}
+	"[Map] MAZE NOVA"
+	{
+		"chi"		"** **"
+	}
+	"[Map] SKATE"
+	{
+		"chi"		"** **"
+	}
+	"[Map] LONGJUMP"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,131 @@
+"Models"
+{
+	"props\de_vostok\flower_barrel_snow_static"
+	{
+		"en"		"栏杆"
+		"fakemodelfix"		"1"
+		"special"		"1"
+	}
+	"props\de_austria\snow\rock_snow_003"
+	{
+		"en"		"石块"
+		"fakemodelfix"		"1"
+	}
+	"cs_italy\italy_signs_dnp"
+	{
+		"en"		"禁止停车"
+	}
+	"props\de_austria\misc\flag_003"
+	{
+		"en"		"裤子"
+		"fakemodelfix"		"1"
+		"special"		"1"
+	}
+	"props\de_nuke\truck_nuke"
+	{
+		"en"		"货车"
+	}
+	"props\de_house\swat_van_generic"
+	{
+		"en"		"swat警车"
+		"special"		"1"
+	}
+	"props\de_austria\doors\door_003"
+	{
+		"en"		"绿门"
+	}
+	"props\de_austria\misc\streetlight_001"
+	{
+		"en"		"路灯"
+	}
+	"props\gg_vietnam\ammobox_stack"
+	{
+		"en"		"木箱"
+	}
+	"props\de_austria\foliage\tree_snow_001"
+	{
+		"en"		"树"
+	}
+	"props\de_austria\pillars\pillar_snow_002"
+	{
+		"en"		"梯子"
+		"fakemodelfix"		"1"
+	}
+	"props\de_austria\signs\raffael_001"
+	{
+		"en"		"字"
+		"special"		"1"
+	}
+	"props\de_austria\misc\trashcan_001"
+	{
+		"en"		"垃圾桶"
+	}
+	"props\de_austria\foliage\ivy_snow_002"
+	{
+		"en"		"灌木"
+	}
+	"props\de_austria\misc\planter_002"
+	{
+		"en"		"石阶"
+	}
+	"props\de_austria\misc\display_cabinet2"
+	{
+		"en"		"告示板"
+		"special"		"1"
+	}
+	"props_interiors\table_picnic"
+	{
+		"en"		"木椅子"
+	}
+	"props_wasteland\prison_switchbox001a"
+	{
+		"en"		"线管"
+		"special"		"1"
+	}
+	"props\de_inferno\inferno_fence_02"
+	{
+		"en"		"木板"
+		"special"		"1"
+	}
+	"props\de_austria\pillars\pillar_church_001"
+	{
+		"en"		"石柱"
+	}
+	"props\de_austria\misc\crate_001"
+	{
+		"en"		"木箱"
+	}
+	"props\cs_office\crate_office_indoor_64"
+	{
+		"en"		"箱子"
+	}
+	"props\de_nuke\hr_nuke\nuke_ventilation_exhaust\nuke_outdoor_vent_exhaust_smallb"
+	{
+		"en"		"出风口"
+		"special"		"1"
+	}
+	"props\de_austria\misc\fountain_001"
+	{
+		"en"		"石基"
+	}
+	"props\de_austria\signs\cafe_001"
+	{
+		"en"		"标志CAFF"
+		"special"		"1"
+	}
+	"props_urban\light_fixture01"
+	{
+		"en"		"灯"
+		"special"		"1"
+	}
+	"props\cs_militia\militiarock02"
+	{
+		"en"		"石块2"
+	}
+	"props\gg_vietnam\cloth02"
+	{
+		"en"		"遮挡物"
+		"fakemodelfix"		"1"
+		"special"		"1"
+	}
+}

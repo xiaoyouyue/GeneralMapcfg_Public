@@ -1,0 +1,191 @@
+"Console_T"
+{
+	"[Music : Vexento - I Love Mondays]"
+	{
+		"chi"		"** **"
+	}
+	"[Map by Laiken]"
+	{
+		"chi"		"** **"
+	}
+	"[Music : Vexento - Happiness]"
+	{
+		"chi"		"** **"
+	}
+	"[DEAGLE]"
+	{
+		"chi"		"** **"
+	}
+	"[3]"
+	{
+		"chi"		"** **"
+	}
+	"[2]"
+	{
+		"chi"		"** **"
+	}
+	"[1]"
+	{
+		"chi"		"** **"
+	}
+	"[Music : Vexento - Never Letting Go]"
+	{
+		"chi"		"** **"
+	}
+	"[DROP BALL]"
+	{
+		"chi"		"** **"
+	}
+	"[Music : Vexento - Sunrise]"
+	{
+		"chi"		"** **"
+	}
+	"[BHOP]"
+	{
+		"chi"		"** **"
+	}
+	"[Music : Vexento - Mango Breeze]"
+	{
+		"chi"		"** **"
+	}
+	"[CLIMB]"
+	{
+		"chi"		"** **"
+	}
+	"[Someone ended! Everyone will be teleported in 15 seconds...]"
+	{
+		"chi"		"** **"
+	}
+	"[SURF]"
+	{
+		"chi"		"** **"
+	}
+	"[COOP RACE]"
+	{
+		"chi"		"** **"
+	}
+	"[RACE]"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"24188"
+	}
+	"[Music : Vexento - Worlds Away]"
+	{
+		"chi"		"** **"
+	}
+	"[AK]"
+	{
+		"chi"		"** **"
+	}
+	"[Music : Vexento - Home]"
+	{
+		"chi"		"** **"
+	}
+	"[Counter Terrorists won! Everyone will be teleported in 5 seconds...]"
+	{
+		"chi"		"** **"
+	}
+	"[Deadly Insertion]"
+	{
+		"chi"		"** **"
+	}
+	"[Each team must press the other team s button]"
+	{
+		"chi"		"** **"
+	}
+	"[RISING RAMBLE]"
+	{
+		"chi"		"** **"
+	}
+	"[You have 90 seconds]"
+	{
+		"chi"		"** **"
+	}
+	"[60 seconds remaining]"
+	{
+		"chi"		"** **"
+	}
+	"[30 seconds remaining]"
+	{
+		"chi"		"** **"
+	}
+	"[KNIFE -> 35HP]"
+	{
+		"chi"		"** **"
+	}
+	"[AWP]"
+	{
+		"chi"		"** **"
+	}
+	"[Terrorists won! Everyone will be teleported in 5 seconds...]"
+	{
+		"chi"		"** **"
+	}
+	"[SPEED RACE]"
+	{
+		"chi"		"** **"
+	}
+	"[You have 40 seconds to finish the level]"
+	{
+		"chi"		"** **"
+	}
+	"[20 seconds remaining]"
+	{
+		"chi"		"** **"
+	}
+	"[10 seconds remaining]"
+	{
+		"chi"		"** **"
+	}
+	"[Times up]"
+	{
+		"chi"		"** **"
+	}
+	"[KNIFE -> 100HP]"
+	{
+		"chi"		"** **"
+	}
+	"[CROUCH & JUMP]"
+	{
+		"chi"		"** **"
+	}
+	"30 seconds remaining!"
+	{
+		"chi"		"** **"
+	}
+	"15 seconds remaining!"
+	{
+		"chi"		"** **"
+	}
+	"5..."
+	{
+		"chi"		"** **"
+	}
+	"4..."
+	{
+		"chi"		"** **"
+	}
+	"3..."
+	{
+		"chi"		"** **"
+	}
+	"2..."
+	{
+		"chi"		"** **"
+	}
+	"1..."
+	{
+		"chi"		"** **"
+	}
+	"Times up"
+	{
+		"chi"		"** **"
+	}
+	"[Respawn disabled]"
+	{
+		"chi"		"** **"
+	}
+}

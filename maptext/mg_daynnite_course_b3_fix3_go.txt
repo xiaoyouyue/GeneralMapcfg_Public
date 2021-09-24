@@ -1,0 +1,27 @@
+"Console_T"
+{
+	"@ -Disabling spawn in 35 seconds-"
+	{
+		"chi"		"** **"
+	}
+	"@ -Map created by aM-"
+	{
+		"chi"		"** **"
+	}
+	"@ -Map created for DayNNite clan-"
+	{
+		"chi"		"** **"
+	}
+	"@ -Disabling spawn in 5 seconds-"
+	{
+		"chi"		"** **"
+	}
+	"@ -Respawn has been disabled-"
+	{
+		"chi"		"** **"
+	}
+	"@ Player has finished the map!"
+	{
+		"chi"		"** **"
+	}
+}

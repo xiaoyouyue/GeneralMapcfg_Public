@@ -1,0 +1,11 @@
+"Console_T"
+{
+	"| AFK KILLER | Zostanie wlaczony za 10 sekund"
+	{
+		"chi"		"** **"
+	}
+	"| AFK KILLER | Zostal wlaczony"
+	{
+		"chi"		"** **"
+	}
+}

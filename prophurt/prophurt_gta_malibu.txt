@@ -1,0 +1,183 @@
+"Models"
+{
+	"props_urban\streetlight001"
+	{
+		"en"		"路灯"
+	}
+	"props_street\firehydrant"
+	{
+		"en"		"消防栓"
+	}
+	"props_junk\trashcluster01a"
+	{
+		"en"		"垃圾堆"
+	}
+	"props_junk\trashcluster01a_corner"
+	{
+		"en"		"小垃圾堆"
+	}
+	"props_junk\dumpster_2"
+	{
+		"en"		"垃圾箱"
+	}
+	"props_unique\atm01"
+	{
+		"en"		"ATM"
+	}
+	"props_equipment\phone_booth"
+	{
+		"en"		"电话亭"
+	}
+	"props_street\newspaper_dispensers"
+	{
+		"en"		"上海垃圾桶"
+	}
+	"props_foliage\tree_palm_dust"
+	{
+		"en"		"大树"
+	}
+	"props_foliage\urban_palm01"
+	{
+		"en"		"小树"
+	}
+	"props_urban\hotel_chair001"
+	{
+		"en"		"黄色沙发"
+	}
+	"dimidrol\furniture\table_cod4_08"
+	{
+		"en"		"桌子"
+	}
+	"props_urban\ashtray_stand001"
+	{
+		"en"		"大型烟灰缸"
+	}
+	"props\cs_office\sofa_chair"
+	{
+		"en"		"小真皮沙发"
+	}
+	"props\cs_office\sofa"
+	{
+		"en"		"大真皮沙发"
+	}
+	"props_foliage\urban_pot_bigplant01"
+	{
+		"en"		"盆栽"
+	}
+	"props_downtown\booth01"
+	{
+		"en"		"舞厅座椅"
+	}
+	"props_interiors\water_cooler"
+	{
+		"en"		"饮水机"
+	}
+	"props\cs_assault\meter"
+	{
+		"en"		"收费杆"
+	}
+	"props\de_vertigo\tool_lockbox_closed"
+	{
+		"en"		"关闭的铁箱"
+	}
+	"props\de_vertigo\tool_lockbox_open"
+	{
+		"en"		"打开的铁箱"
+	}
+	"props\cs_assault\washer_box"
+	{
+		"en"		"纸箱"
+	}
+	"props\cs_militia\boxes_garage_lower"
+	{
+		"en"		"纸箱堆"
+	}
+	"props\cs_office\shelves_metal2"
+	{
+		"en"		"铁架"
+	}
+	"props\cs_militia\sawhorse"
+	{
+		"en"		"长条凳"
+	}
+	"props_street\bus_stop"
+	{
+		"en"		"公交车站"
+	}
+	"props_urban\bench001"
+	{
+		"en"		"长椅"
+	}
+	"props_fortifications\orange_cone001_reference"
+	{
+		"en"		"雪糕筒"
+	}
+	"props_fortifications\police_barrier001_128_reference"
+	{
+		"en"		"警用围栏"
+	}
+	"tiggomods\gta\vc\coach"
+	{
+		"en"		"巴士"
+	}
+	"tiggomods\gta\vc\rancher"
+	{
+		"en"		"黑色高级车"
+	}
+	"tiggomods\gta\vc\pheonix"
+	{
+		"en"		"白色跑车"
+	}
+	"tiggomods\gta\vc\infernus"
+	{
+		"en"		"黄色跑车"
+	}
+	"tiggomods\gta\vc\gangbur"
+	{
+		"en"		"五菱宏光"
+	}
+	"tiggomods\gta\vc\stinger"
+	{
+		"en"		"昏睡战车"
+	}
+	"tiggomods\gta\vc\police"
+	{
+		"en"		"警车"
+	}
+	"tiggomods\gta\vc\enforcer"
+	{
+		"en"		"警用装甲车"
+	}
+	"tiggomods\gta\vc\lovefist"
+	{
+		"en"		"劳斯莱斯"
+	}
+	"props\cs_office\fire_extinguisher"
+	{
+		"en"		"灭火器"
+		"special"		"1"
+		"speedlimit" 	"1.0"
+	}
+	"chicken\chicken"
+	{
+		"en"		"鸡"
+	}
+	"props_interiors\paper_tray"
+	{
+		"en"		"文件盒"
+	}
+	"props_fortifications\traffic_barrier001"
+	{
+		"en"		"路障"
+	}
+	"props_junk\wood_pallet001a"
+	{
+		"en"		"木板"
+		"special"		"1"
+	}
+	"props\cs_assault\wirepipe"
+	{
+		"en"		"大线管"
+		"special"		"1"
+	}
+}

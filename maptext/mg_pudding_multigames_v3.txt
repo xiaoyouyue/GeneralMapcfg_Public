@@ -1,0 +1,271 @@
+"Console_T"
+{
+	"->Map by Tenshi & Akatsuki. Texture help by Color"
+	{
+		"chi"		"** **"
+	}
+	"**Choose your game in 20 seconds**"
+	{
+		"chi"		"** **"
+	}
+	">>SuperRun<<"
+	{
+		"chi"		"** **"
+	}
+	"**Idea by 劍琳**"
+	{
+		"chi"		"** **"
+	}
+	">>Deagle 1 vs 1 - 100HP<<"
+	{
+		"chi"		"** **"
+	}
+	"**You have 20 seconds every time**"
+	{
+		"chi"		"** **"
+	}
+	"->Music : OMFG - Hello"
+	{
+		"chi"		"** **"
+	}
+	">>Time Over<<"
+	{
+		"chi"		"** **"
+	}
+	"**1vs1 mode has been prohibited**"
+	{
+		"chi"		"** **"
+	}
+	">>Hegrenade<<"
+	{
+		"chi"		"** **"
+	}
+	"**Press buttons to get hegrenade**"
+	{
+		"chi"		"** **"
+	}
+	"->Music : れをる,ギガP - No title"
+	{
+		"chi"		"** **"
+	}
+	">>Vampire<<"
+	{
+		"chi"		"** **"
+	}
+	"**You are losing your life**"
+	{
+		"chi"		"** **"
+	}
+	"**Shoot emeny to add your health**"
+	{
+		"chi"		"** **"
+	}
+	"->Music : TomLeevis - The Top (Original Mix)"
+	{
+		"chi"		"** **"
+	}
+	">>Knife - 35HP<<"
+	{
+		"chi"		"** **"
+	}
+	"->Music : 天游 -  A Boat Beneath a Sunny Sky"
+	{
+		"chi"		"** **"
+	}
+	"**Random Game**"
+	{
+		"chi"		"** **"
+	}
+	">>Where is my Pudding???<<"
+	{
+		"chi"		"** **"
+	}
+	"->Music : Pegboard Nerds - Swamp Thing"
+	{
+		"chi"		"** **"
+	}
+	">>Choose your answer in 5 seconds<<"
+	{
+		"chi"		"** **"
+	}
+	"**Start Knife**"
+	{
+		"chi"		"** **"
+	}
+	">>Deagle 1 vs 1 - HS<<"
+	{
+		"chi"		"** **"
+	}
+	"->Music : Pitbull,Kesha - Timber"
+	{
+		"chi"		"** **"
+	}
+	"->Music : Crush 40 - I Am... All Of Me"
+	{
+		"chi"		"** **"
+	}
+	">>Pudding Bomb!!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>SMG<<"
+	{
+		"chi"		"** **"
+	}
+	"**MP5-SD**"
+	{
+		"chi"		"** **"
+	}
+	">>Pistol<<"
+	{
+		"chi"		"** **"
+	}
+	"**Choose your pistol in 20 seconds**"
+	{
+		"chi"		"** **"
+	}
+	">>Ak47<<"
+	{
+		"chi"		"** **"
+	}
+	"->Music : Loser - 米津玄師"
+	{
+		"chi"		"** **"
+	}
+	"->Music : Martin Tungevaag - Wicked Wonderland (Radio Edit)"
+	{
+		"chi"		"** **"
+	}
+	">>Laser Beam<<"
+	{
+		"chi"		"** **"
+	}
+	"**UMP45**"
+	{
+		"chi"		"** **"
+	}
+	">>Shotgun<<"
+	{
+		"chi"		"** **"
+	}
+	"->Music : M83 - Midnight City"
+	{
+		"chi"		"** **"
+	}
+	"->Music : Pendulum - Immunize - Feat. Liam Howlett"
+	{
+		"chi"		"** **"
+	}
+	"**P90**"
+	{
+		"chi"		"** **"
+	}
+	"->Music : Rob Dougan - Clubbed To Death (Kurayamino Mix)"
+	{
+		"chi"		"** **"
+	}
+	"->Music : Krewella - Come And Get It (Razihel Remix)"
+	{
+		"chi"		"** **"
+	}
+	"->Music : The wanted - Glad you came"
+	{
+		"chi"		"** **"
+	}
+	">>Bhop<<"
+	{
+		"chi"		"** **"
+	}
+	"**Time Over**"
+	{
+		"chi"		"** **"
+	}
+	"->Music : Glee Cast - Uptown Funk (Glee Cast Version)"
+	{
+		"chi"		"** **"
+	}
+	">>AWP<<"
+	{
+		"chi"		"** **"
+	}
+	">>Soccer<<"
+	{
+		"chi"		"** **"
+	}
+	"**START**"
+	{
+		"chi"		"** **"
+	}
+	">>T Win!!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>Skate<<"
+	{
+		"chi"		"** **"
+	}
+	">>Teleport PC<<"
+	{
+		"chi"		"** **"
+	}
+	"->Music : Pendulum - Witchcraft"
+	{
+		"chi"		"** **"
+	}
+	"->Music : れをる,ギガP - drop pop candy"
+	{
+		"chi"		"** **"
+	}
+	"->Music : Reol - LUVORATORRRRRY!"
+	{
+		"chi"		"** **"
+	}
+	">>CT Win!!!<<"
+	{
+		"chi"		"** **"
+	}
+	"->Music : Earth, Wind & Fire - September"
+	{
+		"chi"		"** **"
+	}
+	"->Music : ACDC - Highway to Hell"
+	{
+		"chi"		"** **"
+	}
+	">>Knife - 100HP<<"
+	{
+		"chi"		"** **"
+	}
+	"->Music : Madeon - Pop Culture"
+	{
+		"chi"		"** **"
+	}
+	">>M4A1-S<<"
+	{
+		"chi"		"** **"
+	}
+	">>Knife 1 vs 1 - 100HP<<"
+	{
+		"chi"		"** **"
+	}
+	"**MP9**"
+	{
+		"chi"		"** **"
+	}
+	"**MP7**"
+	{
+		"chi"		"** **"
+	}
+	"**MAC10**"
+	{
+		"chi"		"** **"
+	}
+	"**PP-Bizon**"
+	{
+		"chi"		"** **"
+	}
+	"**A player finished**"
+	{
+		"chi"		"** **"
+	}
+}

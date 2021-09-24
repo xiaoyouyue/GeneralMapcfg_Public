@@ -1,0 +1,31 @@
+"Console_T"
+{
+	"spawn killer after 30s"
+	{
+		"chi"		"** **"
+	}
+	"[BGM]Eden Landve"
+	{
+		"chi"		"** **"
+	}
+	"map by 王冠"
+	{
+		"chi"		"** **"
+	}
+	"[BGM]solar system desco"
+	{
+		"chi"		"** **"
+	}
+	"[BGM]Mind"
+	{
+		"chi"		"** **"
+	}
+	"[BGM]hope to brith"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"97024"
+	}
+}

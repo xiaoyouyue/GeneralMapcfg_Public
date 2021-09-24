@@ -1,0 +1,11 @@
+"Console_T"
+{
+	"Start the Course by going to the Computer and pressing E"
+	{
+		"chi"		"** **"
+	}
+	"Map Made by Enivoke"
+	{
+		"chi"		"** **"
+	}
+}

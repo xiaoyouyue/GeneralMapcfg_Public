@@ -1,0 +1,7 @@
+"Console_T"
+{
+	"AFK killer will turn on in 10 seconds"
+	{
+		"chi"		"** **"
+	}
+}

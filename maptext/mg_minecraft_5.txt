@@ -1,0 +1,291 @@
+"Console_T"
+{
+	"@[Map] >>> |Warmup round| <<<"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Start map after 60 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Start map after 30 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Start map after 15 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Warmup round end"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Map made by Blogger(Dog)"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Special thanks skorpion"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >>> |LEVEL 1| <<<"
+	{
+		"chi"		">>>第一关开始~<<<"
+	}
+	"@[Map] Respawn Enabled"
+	{
+		"chi"		"**复活结束**"
+	}
+	"@[Map] Player pick item torch"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Player pick item Pickaxe"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Player pick item Axe"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Player picked item Pickaxe Diamond"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Boss fight 15 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Respawn disabled"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Boss used fire"
+	{
+		"chi"		"**青苔石上着火啦！**"
+	}
+	"@[Map] Boss used ice"
+	{
+		"chi"		"**站在青苔石上！**"
+	}
+	"@[Map] Boss used push right"
+	{
+		"chi"		"**BOSS带着吹风机从你右边吹你！**"
+	}
+	"@[Map] Boss used push left"
+	{
+		"chi"		"**BOSS带着吹风机从你左边吹你！**"
+	}
+	"@[Map] Boss used Push"
+	{
+		"chi"		"**BOSS想让你们亲近它，赶快丑拒！**"
+	}
+	"@[Map] He is dead RUN!!!"
+	{
+		"chi"		"**NMSL，快跑！**"
+	}
+	"@[Map] 2 Minutes"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Player picked item TNT"
+	{
+		"chi"		"**玩家取得TNT**"
+	}
+	"you will die"
+	{
+		"chi"		"**你他妈的才要死了！**"
+	}
+	"@[Map] One minute"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Level 1 complete"
+	{
+		"chi"		"**第一关通过！**"
+	}
+	"@[Map] >>> |LEVEL 2| <<<"
+	{
+		"chi"		">>>第二关开始...<<<"
+	}
+	"@[Map] Boss battle 30 seconds"
+	{
+		"chi"		"**BOSS将在30秒后出现**"
+	}
+	"@[Map] AFK teleport in 5 seconds"
+	{
+		"chi"		"**挂机玩家5秒后传送。**"
+	}
+	"@[Map] Balrog used left sword SIT IN THE MIDDLE OF THE ARENA!!!"
+	{
+		"chi"		"**和墙壁上的火把平行并蹲下。**"
+	}
+	"@[Map] Balrog used mid sword lower JUMP IN 3 SECONDS!!!"
+	{
+		"chi"		"**3秒以后跳蹲~**"
+	}
+	"@[Map] Balrog use left and right sword"
+	{
+		"chi"		"**BOSS出两刀，先跳后蹲！**"
+	}
+	"@[Map] Balrog used mid sword RUN TO LEFT!!!"
+	{
+		"chi"		"**BOSS横刀斩，跑到左边去！**"
+	}
+	"@[Map] Balrog use left sword JUMP IN 2 SECONDS!!!!"
+	{
+		"chi"		"**BOSS左边出刀，2秒以后跳蹲！**"
+	}
+	"@[Map] Balrog use right sword SIT DOWN!!!"
+	{
+		"chi"		"**右边出刀，蹲下！**"
+	}
+	"@[Map] Balrog use mid sword SIT DOWN!!!"
+	{
+		"chi"		"**正面出刀，蹲下！**"
+	}
+	"@[Map] Balrog use tnt"
+	{
+		"chi"		"**BOSS很高兴并打算送你TNT~**"
+	}
+	"@[Map] Level 2 complete"
+	{
+		"chi"		"**第二关通过！**"
+	}
+	"@[Map] >>> |LEVEL 3| <<<"
+	{
+		"chi"		">>>最后一关！<<<"
+	}
+	"@[Map] AFK teleport in 15 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Door open in 10 seconds"
+	{
+		"chi"		"**门将在10秒后打开。**"
+	}
+	"@[Map] VERY WELL!!!"
+	{
+		"chi"		"**尔门大奉le**"
+	}
+	"@[Map] 5 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Activate all the crystals"
+	{
+		"chi"		"**去收集所有的紫色冰棒。**"
+	}
+	"@[Map] The second crystal is activated"
+	{
+		"chi"		"**第二个紫色冰棒归位。**"
+	}
+	"@[Map] Fourth crystal activated"
+	{
+		"chi"		"**第四个紫色冰棒归位。**"
+	}
+	"@[Map] The third crystal is activated"
+	{
+		"chi"		"**第三个紫色冰棒归位。**"
+	}
+	"@[Map] The first crystal is activated"
+	{
+		"chi"		"**第一个紫色冰棒归位。**"
+	}
+	"@[Map] All the crystals are activated"
+	{
+		"chi"		"**所有的冰棒都归位了，草！**"
+	}
+	"@[Map] Take a gun and go to the teleporter"
+	{
+		"chi"		"**拿了枪以后去往岩浆**"
+	}
+	"@[Map] Bosses are using dynamite, BEWARE"
+	{
+		"chi"		"**boss要丢王炸了**"
+	}
+	"@[Map] Bosses break the glass, ALL GONE FROM THE GLASS"
+	{
+		"chi"		"**玻璃马上变成国产了**"
+	}
+	"@[Map] Balrog Using the left-right sword, ALL of the center!!!"
+	{
+		"chi"		"**大黑龙左右放光，正中间躲避**"
+	}
+	"@[Map] Bosses are using ice mid, All left the plates!!!"
+	{
+		"chi"		"**石头上面有冰棒**"
+	}
+	"@[Map] Bosses use fire ALL GONE FROM THE EDGE!!!"
+	{
+		"chi"		"**边缘OB**"
+	}
+	"@[Map] Professor uses a central sword, ALL in the left and right!!!"
+	{
+		"chi"		"**教授正面放刀！**"
+	}
+	"@[Map] Balrog use mid swords, All in the left and right!!!"
+	{
+		"chi"		"**黑龙要发剑了，左右两边散开。**"
+	}
+	"@[Map] The spider uses a push"
+	{
+		"chi"		"**蜘蛛它娘的要嗝屁了，快贴柱子。**"
+	}
+	"@[Map] Professor Using the left-right sword, ALL of the center!!!"
+	{
+		"chi"		"**教授要放贱了，正中央敬礼，**"
+	}
+	"@[Map] 30 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Steve] All bosses killed"
+	{
+		"chi"		"**所有BOSS都嗝屁了。**"
+	}
+	"@[Steve] well done"
+	{
+		"chi"		"**干的真他娘的不错！**"
+	}
+	"@[Steve] what the?"
+	{
+		"chi"		"**他妈的这是什么啊？**"
+	}
+	"@[Steve] oh shit need to get out of here as quickly as possible to grab the crystal and run"
+	{
+		"chi"		"**我屮艸芔茻，要把这东西交给史蒂夫，去尼玛的黑龙跳刀！**"
+	}
+	"@[Steve] faster"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] RUN!!!"
+	{
+		"chi"		"** **"
+	}
+	"@[Steve] STOP!!!!!!!!!"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] People lost"
+	{
+		"chi"		"** **"
+	}
+	"@[Steve] Good work friends"
+	{
+		"chi"		"**干得好小混球！**"
+	}
+	"@[Notch] and now let us out of here"
+	{
+		"chi"		"** **"
+	}
+	"@[Blogger(Dog)] Thanks for playing"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Map by Blogger(Dog)"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,7 @@
+"Console_T"
+{
+	"--map by biggles [STEAM_0:1:4928562]--"
+	{
+		"chi"		"** **"
+	}
+}

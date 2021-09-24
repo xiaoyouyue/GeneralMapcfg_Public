@@ -1,0 +1,23 @@
+"Console_T"
+{
+	"***Spawn Killer Activates in 45 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Spawn Killer Activates in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Spawn Killer Activates in 5 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Spawn Killer is now Active***"
+	{
+		"chi"		"** **"
+	}
+	"***QQ Corner Being Neutralised in 5 seconds***"
+	{
+		"chi"		"** **"
+	}
+}

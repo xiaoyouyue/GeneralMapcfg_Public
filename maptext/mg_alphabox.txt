@@ -1,0 +1,215 @@
+"Console_T"
+{
+	"[Map] A player is choosing the game! You have 20 seconds."
+	{
+		"chi"		"** **"
+	}
+	"[Map] Spinning Blade!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] 3"
+	{
+		"chi"		"** **"
+	}
+	"[Map] 2"
+	{
+		"chi"		"** **"
+	}
+	"[Map] 1"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Begin!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Music: Twitch Music 5"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Wallhax!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Wallhax map 1 (Last team standing)"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Wallhax gears: USP-S only!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Music: Eminem - Moms Spaghetti"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Sky Awp!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] SkyAWP map 1 (Last team standing)"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Vollynades!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Begin! Dont fall off the platform!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Music: CSGO - Decoy Remix"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Music: CS:GO Ninjas in Pyjamas - Who We Are"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Novaskate!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Music: DJSnake - Middle"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Novaskate will end in 60 seconds.."
+	{
+		"chi"		"** **"
+	}
+	"[Map] Lavarun!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] 3.."
+	{
+		"chi"		"** **"
+	}
+	"[Map] 2.."
+	{
+		"chi"		"** **"
+	}
+	"[Map] 1.."
+	{
+		"chi"		"** **"
+	}
+	"[Map] Music: MDK & Neowing - Boss Rush"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Winners fight!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Basketball! Throw the decoy into the basketballnet."
+	{
+		"chi"		"** **"
+	}
+	"[Map] Wallhax gears: AK-47, Kevlar & Helmet!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Music: Lil Wayne, Wiz Khalifa & Imagine Dragons w Logic & Ty Dolla $ign ft X Ambassadors - Sucker for Pain"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Wallhax gears: M4A4, Kevlar & Helmet!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] SkyAWP map 2 (Last team standing)"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Music: A-Ha - Take On Me"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Player picks random!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Music: MDK - Jelly Castle"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Sudden death!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Wallhax map 3 (Last team standing)"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Wallhax gears: Glock-18!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Music: Daft Labeouf - Harder, Better, Faster, Do it"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Music: Imagine Dragons - Friction"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Music: Gabe the halls"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Music: Fall Out Boy - Novacaine"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Terrorist Wins!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] A random game has been chosen."
+	{
+		"chi"		"** **"
+	}
+	"[Map] Wallhax gears: M4A1-S, Kevlar & Helmet!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Wallhax map 2 (Last man standing)"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Basketball will end in 60 seconds.."
+	{
+		"chi"		"** **"
+	}
+	"[Map] SkyAwp ends in 60 seconds.."
+	{
+		"chi"		"** **"
+	}
+	"[Map] SkyAwp ends in 5 seconds.."
+	{
+		"chi"		"** **"
+	}
+	"[Map] Counter-Terrorist Wins!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Novaskate will end in 5 seconds.."
+	{
+		"chi"		"** **"
+	}
+	"[Map] Times Up!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Basketball will end in 5 seconds.."
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"15372"
+	}
+}

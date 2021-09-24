@@ -1,0 +1,291 @@
+"Console_T"
+{
+	"[GROUP] makesMGgreatAgain"
+	{
+		"chi"		"** **"
+	}
+	"[AFK] Vote Randomizer 1min"
+	{
+		"chi"		"** **"
+	}
+	"[MAP] mg_Skilled_or_Lucky_Multigames"
+	{
+		"chi"		"** **"
+	}
+	"[MAP] Made by Dus?K"
+	{
+		"chi"		"** **"
+	}
+	"[SERVER] Revenant Server MiniGame"
+	{
+		"chi"		"** **"
+	}
+	"[GAME] 200 IQ Hegrenade"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] Besomorph & Drama B - Stature"
+	{
+		"chi"		"** **"
+	}
+	"[WEAPON] Hegrenade"
+	{
+		"chi"		"** **"
+	}
+	"*3*"
+	{
+		"chi"		"** **"
+	}
+	"*2*"
+	{
+		"chi"		"** **"
+	}
+	"*1*"
+	{
+		"chi"		"** **"
+	}
+	"*Fight!*"
+	{
+		"chi"		"** **"
+	}
+	"[FEAT] olofmeister"
+	{
+		"chi"		"** **"
+	}
+	"[GAME] Boostmeister"
+	{
+		"chi"		"** **"
+	}
+	"[WEAPON] SSG 08"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] Kerli - Savages"
+	{
+		"chi"		"** **"
+	}
+	"[FEAT] Stewie2K"
+	{
+		"chi"		"** **"
+	}
+	"[GAME] Smoke Criminal"
+	{
+		"chi"		"** **"
+	}
+	"[WEAPON] Smoke & Taser"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] AJR - Burn The House Down"
+	{
+		"chi"		"** **"
+	}
+	"[FEAT] mOE"
+	{
+		"chi"		"** **"
+	}
+	"[GAME] Word.exe"
+	{
+		"chi"		"** **"
+	}
+	"[WEAPON] M4A4"
+	{
+		"chi"		"** **"
+	}
+	"[FEAT] Snax"
+	{
+		"chi"		"** **"
+	}
+	"[GAME] Pasha London School"
+	{
+		"chi"		"** **"
+	}
+	"[WEAPON] MAG-7"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] Unlike Pluto ft. Mike Taylor - Everything Black"
+	{
+		"chi"		"** **"
+	}
+	"[FEAT] Shroud"
+	{
+		"chi"		"** **"
+	}
+	"[GAME] King of Reddit"
+	{
+		"chi"		"** **"
+	}
+	"[WEAPON] AWP&Tec-9&Knife"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] Skan & Krale - No Glory (feat. M.I.M.E & Drama B)"
+	{
+		"chi"		"** **"
+	}
+	"*Ground Breaking in 10 sec*"
+	{
+		"chi"		"** **"
+	}
+	"*Ground Breaking*"
+	{
+		"chi"		"** **"
+	}
+	"[WEAPON] AWP"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] Jacob Lee - Demons"
+	{
+		"chi"		"** **"
+	}
+	"[FEAT] ScreaM"
+	{
+		"chi"		"** **"
+	}
+	"[GAME] EDShot Machine"
+	{
+		"chi"		"** **"
+	}
+	"[WEAPON] AK-47"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] EDShot Machine (feat. Thorin)"
+	{
+		"chi"		"** **"
+	}
+	"[FEAT] pashaBiceps"
+	{
+		"chi"		"** **"
+	}
+	"[GAME] My Friends"
+	{
+		"chi"		"** **"
+	}
+	"[WEAPON] Dual Berettas"
+	{
+		"chi"		"** **"
+	}
+	"[FEAT] NiKo"
+	{
+		"chi"		"** **"
+	}
+	"[GAME] Dinked"
+	{
+		"chi"		"** **"
+	}
+	"[WEAPON] Desert Eagle"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] LAYTO - Little Poor Me"
+	{
+		"chi"		"** **"
+	}
+	"[GAME] 1vs1 Knife"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] Bryce Fox - Horns (STeLOUSE Remix)"
+	{
+		"chi"		"** **"
+	}
+	"[WEAPON] Knife"
+	{
+		"chi"		"** **"
+	}
+	"[FEAT] freakazoid"
+	{
+		"chi"		"** **"
+	}
+	"[GAME] Spawn Fight"
+	{
+		"chi"		"** **"
+	}
+	"[WEAPON] All Weapon Randomizer"
+	{
+		"chi"		"** **"
+	}
+	"[FEAT] jasonR"
+	{
+		"chi"		"** **"
+	}
+	"[GAME] All Weapon Randomizer Fight"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] Ween - Ocean Man"
+	{
+		"chi"		"** **"
+	}
+	"*Select Position in 20 sec*"
+	{
+		"chi"		"** **"
+	}
+	"*Outside Position Killer in 5 sec*"
+	{
+		"chi"		"** **"
+	}
+	"*Outside Position Killer On*"
+	{
+		"chi"		"** **"
+	}
+	"*10*"
+	{
+		"chi"		"** **"
+	}
+	"*9*"
+	{
+		"chi"		"** **"
+	}
+	"*8*"
+	{
+		"chi"		"** **"
+	}
+	"*7*"
+	{
+		"chi"		"** **"
+	}
+	"*6*"
+	{
+		"chi"		"** **"
+	}
+	"*5*"
+	{
+		"chi"		"** **"
+	}
+	"*4*"
+	{
+		"chi"		"** **"
+	}
+	"*...*"
+	{
+		"chi"		"** **"
+	}
+	"*Knife Equipped in 10 sec*"
+	{
+		"chi"		"** **"
+	}
+	"*Knife Equipped*"
+	{
+		"chi"		"** **"
+	}
+	"[WEAPON] AWP&Tec-9"
+	{
+		"chi"		"** **"
+	}
+	"*Wall Breaking in 10 sec*"
+	{
+		"chi"		"** **"
+	}
+	"*Wall Breaking*"
+	{
+		"chi"		"** **"
+	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
+}

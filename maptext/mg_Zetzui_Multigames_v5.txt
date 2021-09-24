@@ -1,0 +1,31 @@
+"Console_T"
+{
+	"Map By Zetzui"
+	{
+		"chi"		"** **"
+	}
+	"@Map by Zetzui"
+	{
+		"chi"		"** **"
+	}
+	"steamcommunity.comidZetzui"
+	{
+		"chi"		"** **"
+	}
+	"@steamcommunity.comidZetzui"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"51094"
+	}
+	"120"
+	{
+		"chi"		"** **"
+	}
+	"120秒后开启限速并关闭推力以加快游戏节奏。"
+	{
+		"chi"		"** **"
+	}
+}

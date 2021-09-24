@@ -1,0 +1,67 @@
+"Console_T"
+{
+	"@[Steve] STOP!!!!!!!!!"
+	{
+		"chi"		"**史蒂夫：快停下！！**"
+	}
+	"CHECKPOINT ACTIVED"
+	{
+		"chi"		"**检查点已激活**"
+	}
+	"@[Map] Boss fight 15 seconds"
+	{
+		"chi"		"**BOSS战将在15秒后到来**"
+	}
+	"@[Map] 2 Minutes"
+	{
+		"chi"		"**剩余两分钟**"
+	}
+	"@[Map] One minute"
+	{
+		"chi"		"**剩余一分钟**"
+	}
+	"[Steve] Elevator start in 15 seconds"
+	{
+		"chi"		"**电梯还有15秒启动**"
+	}
+	"Steve: Soon it will break right side arena"
+	{
+		"chi"		"**史蒂夫：很快他将会打破右边的竞技场**"
+	}
+	"[Steve] Toxic cubes broken"
+	{
+		"chi"		"**剧毒立方体已毁坏**"
+	}
+	"Steve: Soon it will break left side arena"
+	{
+		"chi"		"**史蒂夫：很快他将会打破左边的竞技场**"
+	}
+	"[Steve] Health cubes broken"
+	{
+		"chi"		"**生命立方体已毁坏**"
+	}
+	"[Steve] Elevator start in 5 seconds"
+	{
+		"chi"		"**电梯将在5秒后启动**"
+	}
+	"@[Map] VERY WELL!!!"
+	{
+		"chi"		"**很好！！**"
+	}
+	"@[Map] 5 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 30 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] People lost"
+	{
+		"chi"		"**人类迷失了..**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"62985"
+	}
+}

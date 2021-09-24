@@ -1,0 +1,7 @@
+"Console_T"
+{
+	"Created by: Masi + Keplyx"
+	{
+		"chi"		"** **"
+	}
+}

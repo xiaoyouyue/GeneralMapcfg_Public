@@ -1,0 +1,7 @@
+"Console_T"
+{
+	"Map By Jinete Biohazard"
+	{
+		"chi"		"** **"
+	}
+}

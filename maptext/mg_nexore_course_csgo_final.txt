@@ -1,0 +1,43 @@
+"Console_T"
+{
+	">> Map By .:| NeXoRe <<"
+	{
+		"chi"		"** **"
+	}
+	">> Ported by kolkazadrot <<"
+	{
+		"chi"		"** **"
+	}
+	">> STEAM_0:0:91814764 <<"
+	{
+		"chi"		"** **"
+	}
+	">> SpawnKill 30 seconds <<"
+	{
+		"chi"		"** **"
+	}
+	">> 5 seconds <<"
+	{
+		"chi"		"** **"
+	}
+	">> 4 seconds <<"
+	{
+		"chi"		"** **"
+	}
+	">> 3 seconds <<"
+	{
+		"chi"		"** **"
+	}
+	">> 2 seconds <<"
+	{
+		"chi"		"** **"
+	}
+	">> 1 second <<"
+	{
+		"chi"		"** **"
+	}
+	">> SpawnKill Activated <<"
+	{
+		"chi"		"** **"
+	}
+}

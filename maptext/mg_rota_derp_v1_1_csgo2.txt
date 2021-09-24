@@ -1,0 +1,31 @@
+"Console_T"
+{
+	"***CHECKPOINT TRIGGERED***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU DID IT***"
+	{
+		"chi"		"** **"
+	}
+	"***CONGRATULATIONS***"
+	{
+		"chi"		"** **"
+	}
+	"***CHECKPOINT DISABLED***"
+	{
+		"chi"		"** **"
+	}
+	"***JUMP DOWN INTO THE ABYSS TO END YOUR JOURNEY***"
+	{
+		"chi"		"** **"
+	}
+	"***MAP MADE BY LUFFAREN***"
+	{
+		"chi"		"** **"
+	}
+	"***THANKS FOR PLAYING***"
+	{
+		"chi"		"** **"
+	}
+}

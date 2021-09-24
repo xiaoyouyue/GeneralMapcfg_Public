@@ -1,0 +1,47 @@
+"Console_T"
+{
+	"*** Mapa Portado por Hallucinogenic Troll! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Se queres que seja modificado, vai a PTFun.net ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Spawn Rape in 40 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Mapa Portado para o CS:GO pela Comunidade PTFun!  ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Spawn Rape in 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Spawn Rape Enabled] ***"
+	{
+		"chi"		"** **"
+	}
+	"[player has finished the first challenge - added 100 points - moved to the bonus challenge]"
+	{
+		"chi"		"** **"
+	}
+	"[hardcore]"
+	{
+		"chi"		"** **"
+	}
+	"[player has finished the first challenge - added 100 points - moved to the luck challenge]"
+	{
+		"chi"		"** **"
+	}
+	"[player has finished the luck challenge - added 100 points - congratulations!!!]"
+	{
+		"chi"		"** **"
+	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
+}

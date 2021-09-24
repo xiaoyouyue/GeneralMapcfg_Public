@@ -1,0 +1,79 @@
+"Console_T"
+{
+	"map by xXm0nschd4Xx and Delta Sports clan"
+	{
+		"chi"		"** **"
+	}
+	"awp"
+	{
+		"chi"		"** **"
+	}
+	"<3>"
+	{
+		"chi"		"** **"
+	}
+	"<2>"
+	{
+		"chi"		"** **"
+	}
+	"<1>"
+	{
+		"chi"		"** **"
+	}
+	"<GO>"
+	{
+		"chi"		"** **"
+	}
+	"SKATE"
+	{
+		"chi"		"** **"
+	}
+	"Nade"
+	{
+		"chi"		"** **"
+	}
+	"SMOKE-GLASS"
+	{
+		"chi"		"** **"
+	}
+	"TETRIS"
+	{
+		"chi"		"** **"
+	}
+	"Slide"
+	{
+		"chi"		"** **"
+	}
+	"TRAMPOLINE"
+	{
+		"chi"		"** **"
+	}
+	"ROPE-MOVE"
+	{
+		"chi"		"** **"
+	}
+	"<5>"
+	{
+		"chi"		"** **"
+	}
+	"<4>"
+	{
+		"chi"		"** **"
+	}
+	"CLIMB"
+	{
+		"chi"		"** **"
+	}
+	"random"
+	{
+		"chi"		"** **"
+	}
+	"SCOUT"
+	{
+		"chi"		"** **"
+	}
+	"KNIFE"
+	{
+		"chi"		"** **"
+	}
+}

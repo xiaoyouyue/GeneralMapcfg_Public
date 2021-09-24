@@ -1,0 +1,23 @@
+"Console_T"
+{
+	">> SPAWN kill in 30 seconds <<"
+	{
+		"chi"		"** **"
+	}
+	">> Map By ShroXx^^ <<"
+	{
+		"chi"		"** **"
+	}
+	">> Map Ported By Ganter1234 <<"
+	{
+		"chi"		"** **"
+	}
+	">> SPAWN kill Activated <<"
+	{
+		"chi"		"** **"
+	}
+	">>>press on the middle interface (keyboard) to open<<<"
+	{
+		"chi"		"** **"
+	}
+}

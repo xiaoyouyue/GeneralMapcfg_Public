@@ -1,0 +1,71 @@
+"Console_T"
+{
+	"--> Map By ScHoOuFi <--"
+	{
+		"chi"		"** **"
+	}
+	"--> Avicii - This is So Good <--"
+	{
+		"chi"		"** **"
+	}
+	"--> Spawn Kill <--"
+	{
+		"chi"		"** **"
+	}
+	"--> O_o 1 <--"
+	{
+		"chi"		"** **"
+	}
+	"--> Trouver tous les boutons pour debloquer le bonus 1 O_o <--"
+	{
+		"chi"		"** **"
+	}
+	"--> O_o 2 <--"
+	{
+		"chi"		"** **"
+	}
+	"--> Avicii - Love <--"
+	{
+		"chi"		"** **"
+	}
+	"--> Pas de temps <--"
+	{
+		"chi"		"** **"
+	}
+	"--> Mais attention aux jambes O_o <--"
+	{
+		"chi"		"** **"
+	}
+	"--> 50 :( <--"
+	{
+		"chi"		"** **"
+	}
+	"--> Nannnnnnnnnnnn <--"
+	{
+		"chi"		"** **"
+	}
+	"--> O_o 3 <--"
+	{
+		"chi"		"** **"
+	}
+	"--> O_o 4 <--"
+	{
+		"chi"		"** **"
+	}
+	"--> O_o 5 <--"
+	{
+		"chi"		"** **"
+	}
+	"--> Bouton 1 Deverrouiller O_o <--"
+	{
+		"chi"		"** **"
+	}
+	"--> Bonus 1 Deverrouiller O_o <--"
+	{
+		"chi"		"** **"
+	}
+	"--> O_o <--"
+	{
+		"chi"		"** **"
+	}
+}

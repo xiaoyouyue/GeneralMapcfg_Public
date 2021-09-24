@@ -1,0 +1,87 @@
+"Console_T"
+{
+	">> Skate <<"
+	{
+		"chi"		"** **"
+	}
+	">> 3 <<"
+	{
+		"chi"		"** **"
+	}
+	">> 2 <<"
+	{
+		"chi"		"** **"
+	}
+	">> 1 <<"
+	{
+		"chi"		"** **"
+	}
+	">> GO <<"
+	{
+		"chi"		"** **"
+	}
+	">> Simon Says <<"
+	{
+		"chi"		"** **"
+	}
+	">> Knife unlock in 90 secondes <<"
+	{
+		"chi"		"** **"
+	}
+	">> FFA <<"
+	{
+		"chi"		"** **"
+	}
+	">> Deagle Only HS <<"
+	{
+		"chi"		"** **"
+	}
+	">> Race <<"
+	{
+		"chi"		"** **"
+	}
+	">> Scout <<"
+	{
+		"chi"		"** **"
+	}
+	">> BHOP <<"
+	{
+		"chi"		"** **"
+	}
+	">> BreakWall <<"
+	{
+		"chi"		"** **"
+	}
+	"You have 40 seconds for create your base."
+	{
+		"chi"		"** **"
+	}
+	">> Weapons Unlock <<"
+	{
+		"chi"		"** **"
+	}
+	">> Climb <<"
+	{
+		"chi"		"** **"
+	}
+	">> Smoke <<"
+	{
+		"chi"		"** **"
+	}
+	">> Knife 35hp <<"
+	{
+		"chi"		"** **"
+	}
+	">> AWP <<"
+	{
+		"chi"		"** **"
+	}
+	">> HE <<"
+	{
+		"chi"		"** **"
+	}
+	">> Knife unlock <<"
+	{
+		"chi"		"** **"
+	}
+}

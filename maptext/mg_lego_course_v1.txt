@@ -1,0 +1,79 @@
+"Console_T"
+{
+	">Ported by: Broiler<"
+	{
+		"chi"		"** **"
+	}
+	">Map by: AleXXT | Dr.mINI<"
+	{
+		"chi"		"** **"
+	}
+	">Spawn-Protection: 60sec<"
+	{
+		"chi"		"** **"
+	}
+	">Spawn-Protection: 5sec<"
+	{
+		"chi"		"** **"
+	}
+	">Spawn-Protection: enabled<"
+	{
+		"chi"		"** **"
+	}
+	">Finish reached<"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"10562"
+	}
+	"*** Map by The_Prodigy ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Map ported to CS:GO by Hallucinogenic Troll ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Spawn Protection will be enabled in 40 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 4 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 3 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 2 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 1 second ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Spawn Protection Enabled! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Ported to CS:GO by Hallucinogenic Troll ***"
+	{
+		"chi"		"** **"
+	}
+}

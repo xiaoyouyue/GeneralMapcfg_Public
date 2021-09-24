@@ -1,0 +1,275 @@
+"Console_T"
+{
+	"*** Round restarting in 15 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"Map made by Cuniczek and Darnias"
+	{
+		"chi"		"** **"
+	}
+	"*** Round restarting in 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Map starting ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Welcome to Aer Fabula ***"
+	{
+		"chi"		"** **"
+	}
+	"We will be arriving at the train station soon."
+	{
+		"chi"		"** **"
+	}
+	"..."
+	{
+		"chi"		"** **"
+	}
+	"It looks like... something happened there."
+	{
+		"chi"		"** **"
+	}
+	"We should go in there and look what happened."
+	{
+		"chi"		"** **"
+	}
+	"Explore this island. Maybe we can find something useful."
+	{
+		"chi"		"** **"
+	}
+	"Be careful."
+	{
+		"chi"		"** **"
+	}
+	"It looks like there is some kind of core in the tower that crashed into this island!"
+	{
+		"chi"		"** **"
+	}
+	"Try look for something useful and try destroy the core in the tower!"
+	{
+		"chi"		"** **"
+	}
+	"WHOLE ISLAND IS COLLAPSING!"
+	{
+		"chi"		"** **"
+	}
+	"WE MUST ESCAPE IMMEDIATELY"
+	{
+		"chi"		"** **"
+	}
+	"Train is leaving!"
+	{
+		"chi"		"** **"
+	}
+	"Hmmmm... It looks like that the CLOUD tankers are empty."
+	{
+		"chi"		"** **"
+	}
+	"Quest: Refill the tankers with clouds!"
+	{
+		"chi"		"** **"
+	}
+	"*** Checkpoint saved ***"
+	{
+		"chi"		"** **"
+	}
+	"Look for instructions in main building."
+	{
+		"chi"		"** **"
+	}
+	"Reconnect in case you cannot see the clouds."
+	{
+		"chi"		"** **"
+	}
+	"Maybe we can find something useful to make progress with."
+	{
+		"chi"		"** **"
+	}
+	"This C4 thingy looks like a parachute. Maybe if we jump off the island we wont die! Worth a try!"
+	{
+		"chi"		"** **"
+	}
+	"*** Checkpoint loaded and saved ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Checkpoint 2 loaded ***"
+	{
+		"chi"		"** **"
+	}
+	"It looks like this is our stop."
+	{
+		"chi"		"** **"
+	}
+	"Find way to another islands."
+	{
+		"chi"		"** **"
+	}
+	"Whoah."
+	{
+		"chi"		"** **"
+	}
+	"What the hell happend here?"
+	{
+		"chi"		"** **"
+	}
+	"Look around for weapons!"
+	{
+		"chi"		"** **"
+	}
+	"Watch out! Something is coming through the portal!"
+	{
+		"chi"		"** **"
+	}
+	"We should go into the portal and explore the other side!"
+	{
+		"chi"		"** **"
+	}
+	"What the fuck is this place?!"
+	{
+		"chi"		"** **"
+	}
+	"*** Checkpoint enabled and saved ***"
+	{
+		"chi"		"** **"
+	}
+	"Look... These buttons in the distance."
+	{
+		"chi"		"** **"
+	}
+	"*** Checkpoint 3 loaded ***"
+	{
+		"chi"		"** **"
+	}
+	"*** A button has been pressed ***"
+	{
+		"chi"		"** **"
+	}
+	"*** All buttons have been pressed ***"
+	{
+		"chi"		"** **"
+	}
+	"Whoah. Isnt this this the majestic creature called Lenny?"
+	{
+		"chi"		"** **"
+	}
+	"Try to be quiet. We dont want to wake it up."
+	{
+		"chi"		"** **"
+	}
+	"Lenny: Whats this."
+	{
+		"chi"		"** **"
+	}
+	"Lenny: What kind of ugly creature is interrupting me from my lovely sleep."
+	{
+		"chi"		"** **"
+	}
+	"Lenny: Arent you some sort of... what was that called... Hooman?"
+	{
+		"chi"		"** **"
+	}
+	"Lenny: You look very tired. I know exactly what you need! A cup of hot tea."
+	{
+		"chi"		"** **"
+	}
+	"Lenny: Follow"
+	{
+		"chi"		"** **"
+	}
+	"Lenny: Hoomans follow."
+	{
+		"chi"		"** **"
+	}
+	"Lenny: Whats wrong with this door?"
+	{
+		"chi"		"** **"
+	}
+	"Lenny: Hold on Im gonna fix it."
+	{
+		"chi"		"** **"
+	}
+	"Lenny: There we go."
+	{
+		"chi"		"** **"
+	}
+	"Lenny: That door was not even needed."
+	{
+		"chi"		"** **"
+	}
+	"Lenny: You know what time it is?"
+	{
+		"chi"		"** **"
+	}
+	"Lenny: Its tea o clock!"
+	{
+		"chi"		"** **"
+	}
+	"Lenny: You dare to touch my mug?!"
+	{
+		"chi"		"** **"
+	}
+	"Lenny: What did you do to my tea?!"
+	{
+		"chi"		"** **"
+	}
+	"Lenny: Well... it doesnt matter. Its okay. Dont feel bad."
+	{
+		"chi"		"** **"
+	}
+	"Lenny: Im gonna touch you too... with love."
+	{
+		"chi"		"** **"
+	}
+	"Lenny: You will never want to leave this room. Although Im afraid you wont even be able to."
+	{
+		"chi"		"** **"
+	}
+	"Lenny: Hi"
+	{
+		"chi"		"** **"
+	}
+	"Lenny: Here taste dis."
+	{
+		"chi"		"** **"
+	}
+	"Lenny: Wut u doing? U wanna escape?"
+	{
+		"chi"		"** **"
+	}
+	"*** Checkpoint 4 loaded ***"
+	{
+		"chi"		"** **"
+	}
+	"Lenny: You did it hoomans."
+	{
+		"chi"		"** **"
+	}
+	"Lenny: You very hurt my feelings."
+	{
+		"chi"		"** **"
+	}
+	"Lenny: Excuse me I have to go."
+	{
+		"chi"		"** **"
+	}
+	"Lenny: And you should too... hoomans."
+	{
+		"chi"		"** **"
+	}
+	"Congratulations you won the map!"
+	{
+		"chi"		"** **"
+	}
+	"地图汉化:koyo"
+	{
+		"chi"		"** **"
+	}
+	"*** Checkpoint 1 loaded ***"
+	{
+		"chi"		"** **"
+	}
+}

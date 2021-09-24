@@ -1,0 +1,15 @@
+"Console_T"
+{
+	"Ghost mode by Dazai Nerau."
+	{
+		"chi"		"** **"
+	}
+	"Type !lang to change language, type !help to see available commands."
+	{
+		"chi"		"** **"
+	}
+	"Map by 哔哩哔哩-风流倜傥你杰森."
+	{
+		"chi"		"** **"
+	}
+}

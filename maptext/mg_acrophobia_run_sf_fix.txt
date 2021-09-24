@@ -1,0 +1,111 @@
+"Console_T"
+{
+	"<<<Mg_Acrophobia_Run is made by Eugenio *Motanum* Roman>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Contact me at eugenio.motanum91@gmail.com>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<This map was Sponsored by SCA Clan>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<AFK Killer activated in 30 seconds!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Fix  by kolkazadrot>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<AFK Killer now activated>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Playing Heavy Tetris arrengments by Motanum>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Playing Axiom Greed (Slow) by Motanum>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Winner has chosen Bhop!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Teleporting all in 5 seconds>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Bhop to the other side before the oposing team!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<You have 30 seconds!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Winners Win: Executing losers!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<3!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<2!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<1!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Congratulations Winners!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Round is now restarting!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Playing Paintbox by Pendragon>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Winner has chosen Rat Race!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Get to the other side before the oposing team!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<You have 40 seconds!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Playing Yakety Sax by Spider Rich and Boots Randolph>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Playing Dragon Ball Battle Theme>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Noone Won Race!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Locking buttons and restarting the rounds>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Playing El Panadero by Tin Tan>>>"
+	{
+		"chi"		"** **"
+	}
+}

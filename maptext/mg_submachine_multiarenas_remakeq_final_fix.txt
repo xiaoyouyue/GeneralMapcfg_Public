@@ -1,0 +1,19 @@
+"Console_T"
+{
+	"Spawn fight! MAC-10 for all players!"
+	{
+		"chi"		"** **"
+	}
+	"Fan will stop after 60 seconds."
+	{
+		"chi"		"** **"
+	}
+	"Fan stopped."
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"27855"
+	}
+}

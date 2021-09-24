@@ -1,0 +1,19 @@
+"Console_T"
+{
+	"En unos minutos se hara de noche..."
+	{
+		"chi"		"** **"
+	}
+	"In a few minutes will be at night..."
+	{
+		"chi"		"** **"
+	}
+	"Bloqueo Quitado (Robot y Heli)"
+	{
+		"chi"		"** **"
+	}
+	"Lock Removed (Robot and Heli)"
+	{
+		"chi"		"** **"
+	}
+}

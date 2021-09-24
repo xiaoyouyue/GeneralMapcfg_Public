@@ -1,0 +1,79 @@
+"Console_T"
+{
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"34523"
+	}
+	"Music: Y2K,Mark Johns - Night Wine"
+	{
+		"chi"		"** **"
+	}
+	"Music: Glacier - Nurture"
+	{
+		"chi"		"** **"
+	}
+	"Nade"
+	{
+		"chi"		"** **"
+	}
+	"awp"
+	{
+		"chi"		"** **"
+	}
+	"Knife"
+	{
+		"chi"		"**刀战**"
+	}
+	"shotgun"
+	{
+		"chi"		"**喷子**"
+	}
+	"Music: Rameses B - Mountains"
+	{
+		"chi"		"** **"
+	}
+	"Music: Cuebrick,Karra - Smoke and Fire"
+	{
+		"chi"		"** **"
+	}
+	"Slide"
+	{
+		"chi"		"**滑行**"
+	}
+	"If no one reaches the finish line after 160 seconds there will be a knife battle."
+	{
+		"chi"		"** **"
+	}
+	"Music: Sinners Heist - Antidote"
+	{
+		"chi"		"** **"
+	}
+	"Race"
+	{
+		"chi"		"**赛跑**"
+	}
+	"Pistol"
+	{
+		"chi"		"**手枪**"
+	}
+	"ssg08"
+	{
+		"chi"		"**鸟狙**"
+	}
+	"Music: Blitz Kids - Run For Cover"
+	{
+		"chi"		"** **"
+	}
+	"Music: Madame Buttons,Syn Cole Feat. Madame Buttons - Miami 82"
+	{
+		"chi"		"** **"
+	}
+	"Iceskate"
+	{
+		"chi"		"** **"
+	}
+}

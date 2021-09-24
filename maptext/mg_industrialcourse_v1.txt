@@ -1,0 +1,7 @@
+"Console_T"
+{
+	"Youve completed my map. Thanks for playing!"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,179 @@
+"Console_T"
+{
+	"**Map by: Koga73 (STEAM_0:0:39320522)**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: Race**"
+	{
+		"chi"		"** **"
+	}
+	"**5**"
+	{
+		"chi"		"** **"
+	}
+	"**4**"
+	{
+		"chi"		"** **"
+	}
+	"**3**"
+	{
+		"chi"		"** **"
+	}
+	"**2**"
+	{
+		"chi"		"** **"
+	}
+	"**1**"
+	{
+		"chi"		"** **"
+	}
+	"**GO!**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: Escape**"
+	{
+		"chi"		"** **"
+	}
+	"**A Winner has been Found!**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: BHOP**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: Gangstaz**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: Buy Poolday**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: P90 Hunting**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: Box Fortress**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: AWP War**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: AWP Platform**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: Deagle**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: Glock Headshot**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: Moon Knife**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: HE Grenades**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: Shotgun Showdown**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: Scoutzknivez**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: AK Towers**"
+	{
+		"chi"		"** **"
+	}
+	"**Find a place to Hide!**"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"79203"
+	}
+	"**Gamemode: Battle Royale FFA**"
+	{
+		"chi"		"** **"
+	}
+	"**You have 15 seconds to choose!**"
+	{
+		"chi"		"** **"
+	}
+	"**Teleports are Active!**"
+	{
+		"chi"		"** **"
+	}
+	"**Boost & Ramps Removed!**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: Deagle (Normal)**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: Deagle (HS)**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: Zeus Arena**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: Battle Royale (FFA)**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: Battle Royale (Teams)**"
+	{
+		"chi"		"** **"
+	}
+	"**A ghost has entered! Dont touch it!**"
+	{
+		"chi"		"** **"
+	}
+	"**Weapons refreshed**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: PlantDefuse**"
+	{
+		"chi"		"** **"
+	}
+	"**Remember to buy your weapons!**"
+	{
+		"chi"		"** **"
+	}
+	"**Bombsite B has been opened!**"
+	{
+		"chi"		"** **"
+	}
+	"**Bombsite A has been opened!**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: AWP Platform (Lasers)**"
+	{
+		"chi"		"** **"
+	}
+	"**Gamemode: AWP Platform (Normal)**"
+	{
+		"chi"		"** **"
+	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
+}

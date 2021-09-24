@@ -1,0 +1,7 @@
+"Console_T"
+{
+	"MAP CREE PAR ZBATATA ET NOPE POUR NoSkillNoFrag"
+	{
+		"chi"		"** **"
+	}
+}

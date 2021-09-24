@@ -1,0 +1,119 @@
+"Console_T"
+{
+	"Map by Raphi"
+	{
+		"chi"		"** **"
+	}
+	">> HalfRide <<"
+	{
+		"chi"		">>>半侧push<<<"
+	}
+	">> Free Fall <<"
+	{
+		"chi"		">>>自由落体<<<"
+	}
+	"[Raphi] Times up."
+	{
+		"chi"		"**时间到（到底部变一滴血）**"
+	}
+	">> AWP <<"
+	{
+		"chi"		"** **"
+	}
+	">> Knife Arena <<"
+	{
+		"chi"		">>>刀战<<<"
+	}
+	">> Smoke <<"
+	{
+		"chi"		">>>烟雾弹大战<<<"
+	}
+	">> Face 2 Face <<"
+	{
+		"chi"		">>>亲嘴滑行<<<"
+	}
+	">> VolleyBall <<"
+	{
+		"chi"		"** **"
+	}
+	">> Grenade <<"
+	{
+		"chi"		">>>手雷<<<"
+	}
+	">> Wagon <<"
+	{
+		"chi"		">>>撞火车刀战<<<"
+	}
+	">> You have 50 sec to get more speed <<"
+	{
+		"chi"		"** **"
+	}
+	">> Long Jump <<"
+	{
+		"chi"		">>>长跳<<<"
+	}
+	">> The best will win in 30 sec <<"
+	{
+		"chi"		"** **"
+	}
+	">> 5 sec left <<"
+	{
+		"chi"		"** **"
+	}
+	">> 4 <<"
+	{
+		"chi"		"** **"
+	}
+	">> 3 <<"
+	{
+		"chi"		"** **"
+	}
+	">> 2 <<"
+	{
+		"chi"		"** **"
+	}
+	">> 1 <<"
+	{
+		"chi"		"** **"
+	}
+	">> Teleporting.. <<"
+	{
+		"chi"		"** **"
+	}
+	">> Football <<"
+	{
+		"chi"		">>>足球<<<"
+	}
+	">> Balance <<"
+	{
+		"chi"		"** **"
+	}
+	">> BHOP <<"
+	{
+		"chi"		">>>连跳<<<"
+	}
+	">> GG WP<<"
+	{
+		"chi"		"** **"
+	}
+	">> Slide <<"
+	{
+		"chi"		">>>滑行<<<"
+	}
+	"GOOOOOAAAAAAL!!!"
+	{
+		"chi"		"**Ruaaaaaaaaaaaaaaaaaaaaaaaaa！**"
+	}
+	"[Raphi] Times up !!"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
+}

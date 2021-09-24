@@ -1,0 +1,14 @@
+"Console_T"
+{
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_hammerid hammerid"
+		}
+	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
+}

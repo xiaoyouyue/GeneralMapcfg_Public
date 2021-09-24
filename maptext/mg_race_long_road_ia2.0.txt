@@ -1,0 +1,27 @@
+"Console_T"
+{
+	"Music : Poperotiq - Bitch plz"
+	{
+		"chi"		"** **"
+	}
+	"No music"
+	{
+		"chi"		"** **"
+	}
+	"Music : M83 - Midnight city"
+	{
+		"chi"		"** **"
+	}
+	"Music : PSY - Gangnam Style"
+	{
+		"chi"		"** **"
+	}
+	"Music : Just Jack - Basement"
+	{
+		"chi"		"** **"
+	}
+	"Someone want a new race, run with your weapon in 10 seconds !"
+	{
+		"chi"		"** **"
+	}
+}

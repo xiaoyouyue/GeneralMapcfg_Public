@@ -1,0 +1,267 @@
+"Console_T"
+{
+	"@[Map] Map ported by Blogger(Dog)"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Map made by Arcaninesy"
+	{
+		"chi"		"** **"
+	}
+	"@[Game] Shotguns [Plus Signs]"
+	{
+		"chi"		"**喷子**"
+	}
+	"@[Music] Marshmello - Alone"
+	{
+		"chi"		"** **"
+	}
+	"@[Game] Knife [Backstab]"
+	{
+		"chi"		"**刀(背刺)**"
+	}
+	"Locked against repetition."
+	{
+		"chi"		"** **"
+	}
+	"@[Music] The Script - Hall of Fame ft. will.i.am"
+	{
+		"chi"		"** **"
+	}
+	"@[Game] Pushcircle [No Buy]"
+	{
+		"chi"		"**滑行(捡枪)**"
+	}
+	"@[Music] Alan Walker - Faded"
+	{
+		"chi"		"** **"
+	}
+	"@[Game] Bunnyhop Battle"
+	{
+		"chi"		"**连跳拿枪**"
+	}
+	"You have one minute."
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Rich Edwards - Where Ill Be Waiting"
+	{
+		"chi"		"** **"
+	}
+	"30 seconds remaining."
+	{
+		"chi"		"** **"
+	}
+	"Three"
+	{
+		"chi"		"** **"
+	}
+	"Two"
+	{
+		"chi"		"** **"
+	}
+	"One"
+	{
+		"chi"		"** **"
+	}
+	"Good luck!"
+	{
+		"chi"		"** **"
+	}
+	"Map by Arcaninesy"
+	{
+		"chi"		"** **"
+	}
+	"@[Game] Snipers"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] AFK KILLER"
+	{
+		"chi"		"** **"
+	}
+	"@[Game] Buy"
+	{
+		"chi"		"**购买**"
+	}
+	"@[Music] Vicetone - Nevada (feat. Cozi Zuehlsdorff)"
+	{
+		"chi"		"** **"
+	}
+	"@[Game] Trains"
+	{
+		"chi"		"**火车**"
+	}
+	"Random!"
+	{
+		"chi"		"**随机**"
+	}
+	"@[Game] Blind Elites"
+	{
+		"chi"		"**瞎摸双枪**"
+	}
+	"@[Music] Halsey - New Americana (OLWIK Deep House Remix)"
+	{
+		"chi"		"** **"
+	}
+	"@[Game] Knife"
+	{
+		"chi"		"**刀**"
+	}
+	"@[Game] Iceskate"
+	{
+		"chi"		"**滑冰**"
+	}
+	"@[Game] Cannon Surf [Knives]"
+	{
+		"chi"		"**加农炮(刀)**"
+	}
+	"@[Game] Snipers [Small]"
+	{
+		"chi"		"** **"
+	}
+	"@[Game] Boostknife"
+	{
+		"chi"		"**滑行刀战**"
+	}
+	"@[Music] Calvin Harris - Feel So Close"
+	{
+		"chi"		"** **"
+	}
+	"@[Game] Defuse"
+	{
+		"chi"		"**购买2**"
+	}
+	"@[Music] Imagine Dragons - Radioactive"
+	{
+		"chi"		"** **"
+	}
+	"@[Game] Iceskate [Backstab]"
+	{
+		"chi"		"**滑冰(背刺)**"
+	}
+	"@[Game] Pushcircle [Buy]"
+	{
+		"chi"		"**滑行(购买)**"
+	}
+	"@[Game] Boostknife [Backstab]"
+	{
+		"chi"		"**滑翔刀战(背刺)**"
+	}
+	"Cannon Surf [Shotguns]"
+	{
+		"chi"		"**加农炮(喷子)人多有bug**"
+	}
+	"@[Game] 1v1 [Knife]"
+	{
+		"chi"		"**1v1(刀)**"
+	}
+	"@[Game] 1v1 [Deagle]"
+	{
+		"chi"		"**1v1(沙鹰)**"
+	}
+	"No remaining players to teleport. Dividing walls have been broken."
+	{
+		"chi"		"** **"
+	}
+	"Cannons disabled in ten seconds."
+	{
+		"chi"		"**加农炮将在十秒后失效**"
+	}
+	"Cannons disabled."
+	{
+		"chi"		"**加农炮失效**"
+	}
+	"@[Game] Blind Deagle"
+	{
+		"chi"		"**瞎摸沙鹰**"
+	}
+	"@[Game] Arena [M4A1]"
+	{
+		"chi"		"**战场(A1)**"
+	}
+	"Headshot mode enabled."
+	{
+		"chi"		"** **"
+	}
+	"@[Game] Arena [Shotguns]"
+	{
+		"chi"		"**战场(喷子)**"
+	}
+	"Headshotbackstab mode enabled."
+	{
+		"chi"		"**爆头模式开启**"
+	}
+	"@[Game] Arena [USP]"
+	{
+		"chi"		"**战场(usp)**"
+	}
+	"Cover disappears in 30 seconds."
+	{
+		"chi"		"**掩护将在30秒后消失**"
+	}
+	"Cover disappears in 10 seconds."
+	{
+		"chi"		"**掩护将在10秒后消失**"
+	}
+	"Cover disappears in 3 seconds."
+	{
+		"chi"		"**掩护将在3秒后消失**"
+	}
+	"Cover disappears in 2 seconds."
+	{
+		"chi"		"**掩护将在2秒后消失**"
+	}
+	"Cover disappears in 1 second."
+	{
+		"chi"		"**掩护将在1秒后消失**"
+	}
+	"@[Game] Arena [MP7]"
+	{
+		"chi"		"**战场(MP7)**"
+	}
+	"@[Game] Arena [Scouts]"
+	{
+		"chi"		"**战场(鸟狙)**"
+	}
+	"@[Game] Shotguns [Boxes]"
+	{
+		"chi"		"**喷子(箱子)**"
+	}
+	"Boxes disappear in 30 seconds."
+	{
+		"chi"		"**箱子将在30秒后消失**"
+	}
+	"Boxes disappear in 10 seconds."
+	{
+		"chi"		"**箱子将在10秒后消失**"
+	}
+	"@[Game] Arena [Elites]"
+	{
+		"chi"		"**战场(双枪)**"
+	}
+	"Boxes disappear in 3 seconds."
+	{
+		"chi"		"**箱子将在3秒后消失**"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"Boxes disappear in 2 seconds."
+	{
+		"chi"		"**箱子将在2秒后消失**"
+	}
+	"Boxes disappear in 1 second."
+	{
+		"chi"		"** **"
+	}
+	"@20秒后不选择一张小游戏的话将会随机选择一个小游戏。"
+	{
+		"chi"		"** **"
+	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
+}

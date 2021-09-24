@@ -1,0 +1,163 @@
+"Console_T"
+{
+	"地图修复koyostripper日期3.13"
+	{
+		"chi"		"** **"
+	}
+	"<<< THE TEMPLE ENTRANCE IS NOW OPEN >>>"
+	{
+		"chi"		"** **"
+	}
+	"毒气室禁用手电（通过后恢复）"
+	{
+		"chi"		"** **"
+	}
+	"手电筒恢复"
+	{
+		"chi"		"** **"
+	}
+	"<<< SHORTCUT IS NOW AVAILABLE FROM SPAWN >>>"
+	{
+		"chi"		"** **"
+	}
+	"1"
+	{
+		"chi"		"** **"
+	}
+	"2"
+	{
+		"chi"		"** **"
+	}
+	"3"
+	{
+		"chi"		"** **"
+	}
+	"4"
+	{
+		"chi"		"** **"
+	}
+	"5"
+	{
+		"chi"		"** **"
+	}
+	"<<< The Room of Sacrifices has been satisfied >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The Rising Fires have been outran >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The Rooms of Deception have been solved >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The Infinite Paths have been walked >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The Sewers Secret has been found >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<  The Elevating Spirit has been lifted >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The Wheels of Water have been crossed >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The Chains of Serpentis have been unraveled >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< ALL CRYSTALS HAVE BEEN FOUND! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< TELEPORTING EVERYONE TO MEDUSAS CHAMBER IN 15 SECONDS >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< CONGRATULATIONS! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< YOU DEFEATED MEDUSA AND CONQUERED THE SERPENTIS TEMPLE! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< YOU ARE TRUE HEROES OF LEGEND! >>>"
+	{
+		"chi"		"** **"
+	}
+	"地图：-美杜莎神庙- 作者：-luffaren&kaemon- stripper修复：koyo 版本日期：202145"
+	{
+		"chi"		"** **"
+	}
+	"<<< 神殿的大门正缓缓打开... >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 通向神殿中心的捷径已开放.. >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 火山关卡已通过（终点触发者加一百杀敌分数） >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 献祭关卡已通过（终点触发者加一百杀敌分数） >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 鬼打墙关卡已通过（终点触发者加一百杀敌分数） >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 大迷宫关卡已通过（终点触发者加一百杀敌分数） >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 下水道关卡已通过（终点触发者加一百杀敌分数） >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<  升降轮盘关卡已通过（终点触发者加一百杀敌分数） >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 锁链关卡已通过（终点触发者加一百杀敌分数） >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 水车关卡已通过（终点触发者加一百杀敌分数） >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 祝贺你们！ >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 你们击败了美杜莎并且征服了这座巨蛇神殿！ >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 你们是真正的传奇英雄! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 感谢你们游玩本地图! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 地图作者： Kaemon(卡萌) & Luffaren(卤粉) >>>"
+	{
+		"chi"		"** **"
+	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,47 @@
+"Console_T"
+{
+	"Made by hype - STEAM_0:1:26363656"
+	{
+		"chi"		"** **"
+	}
+	"Welcome to mg_hype"
+	{
+		"chi"		"** **"
+	}
+	"Song - Everlasting - By:Colin K."
+	{
+		"chi"		"** **"
+	}
+	"Song - Float On - By:Modest Mouse"
+	{
+		"chi"		"** **"
+	}
+	"Song - Harmony - By:Runescape"
+	{
+		"chi"		"** **"
+	}
+	"Song - Apparently - By:J. Cole"
+	{
+		"chi"		"** **"
+	}
+	"Song - In Too Deep - By:Sum41"
+	{
+		"chi"		"** **"
+	}
+	"Song - Bullet Train ~ By:Stephen Swartz"
+	{
+		"chi"		"** **"
+	}
+	"Song - When You Were Young - By:The Killers"
+	{
+		"chi"		"** **"
+	}
+	"Song - Lotus - By:Philter"
+	{
+		"chi"		"** **"
+	}
+	"Song - Miami By: Will Smith"
+	{
+		"chi"		"** **"
+	}
+}

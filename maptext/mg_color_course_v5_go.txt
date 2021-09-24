@@ -1,0 +1,19 @@
+"Console_T"
+{
+	"*** Undefined Gaming Minigames | 8.2.122.124:27015 ***"
+	{
+		"chi"		"** **"
+	}
+	"Map made by xGrandx"
+	{
+		"chi"		"** **"
+	}
+	"**Map made by xGrandx**"
+	{
+		"chi"		"** **"
+	}
+	"Steam Name: Powerdudes"
+	{
+		"chi"		"** **"
+	}
+}

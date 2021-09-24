@@ -1,0 +1,27 @@
+"Console_T"
+{
+	"spawn killer after 30s"
+	{
+		"chi"		"** **"
+	}
+	"[BGM]Eden Landve"
+	{
+		"chi"		"** **"
+	}
+	"map by 王冠"
+	{
+		"chi"		"** **"
+	}
+	"[BGM]hope to brith"
+	{
+		"chi"		"** **"
+	}
+	"[BGM]Mind"
+	{
+		"chi"		"** **"
+	}
+	"[BGM]solar system desco"
+	{
+		"chi"		"** **"
+	}
+}

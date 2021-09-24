@@ -1,0 +1,31 @@
+"Console_T"
+{
+	"--> Map Created By Fuzzy <--"
+	{
+		"chi"		"** **"
+	}
+	"--> Spawn Killer Enabled In 30 Seconds <--"
+	{
+		"chi"		"** **"
+	}
+	"[Now Playing | WATSKY - Moral Of The Story]"
+	{
+		"chi"		"** **"
+	}
+	"[Now Playing | Gorillaz - Clint Eastwood]"
+	{
+		"chi"		"** **"
+	}
+	"[Now Playing | twenty one pilots - Stressed Out]"
+	{
+		"chi"		"** **"
+	}
+	"[Now Playing | Ludacris - Grass Is Always Greener]"
+	{
+		"chi"		"** **"
+	}
+	"hi"
+	{
+		"chi"		"** **"
+	}
+}

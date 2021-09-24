@@ -1,0 +1,23 @@
+"Console_T"
+{
+	"Respawn enabled!"
+	{
+		"chi"		"** **"
+	}
+	"Map by Benja_Sonne"
+	{
+		"chi"		"** **"
+	}
+	"AFK killer activates in 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Respawn disabled!"
+	{
+		"chi"		"** **"
+	}
+	"AFK killer has been activated!"
+	{
+		"chi"		"** **"
+	}
+}

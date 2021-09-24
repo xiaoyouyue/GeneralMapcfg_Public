@@ -1,0 +1,23 @@
+"Console_T"
+{
+	"*** Press E on a wall to gain a Nade ***"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"37956"
+	}
+	"Ts are not allowed to enter the ¡®One-way wall¡¯ zone."
+	{
+		"chi"		"** **"
+	}
+	"If CT press the button on T-spawn one way wall, the wall will be visible after 5 seconds."
+	{
+		"chi"		"** **"
+	}
+	"Theres no Terrorist in the T spawn. The damage zone will be activated after 15 seconds in case of CT camping."
+	{
+		"chi"		"** **"
+	}
+}

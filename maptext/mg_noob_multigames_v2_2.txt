@@ -1,0 +1,115 @@
+"Console_T"
+{
+	"**Map By Noob**"
+	{
+		"chi"		"** **"
+	}
+	"**Dice**"
+	{
+		"chi"		"** **"
+	}
+	"**10 second**"
+	{
+		"chi"		"** **"
+	}
+	"**Knife[35Hp]**"
+	{
+		"chi"		"** **"
+	}
+	"**5**"
+	{
+		"chi"		"** **"
+	}
+	"**4**"
+	{
+		"chi"		"** **"
+	}
+	"**3**"
+	{
+		"chi"		"** **"
+	}
+	"**2**"
+	{
+		"chi"		"** **"
+	}
+	"**1**"
+	{
+		"chi"		"** **"
+	}
+	"**START**"
+	{
+		"chi"		"** **"
+	}
+	"**Wall**"
+	{
+		"chi"		"** **"
+	}
+	"**Grenades**"
+	{
+		"chi"		"** **"
+	}
+	"**castle[Buy]**"
+	{
+		"chi"		"** **"
+	}
+	"**Skate**"
+	{
+		"chi"		"** **"
+	}
+	"**castle[Random]**"
+	{
+		"chi"		"** **"
+	}
+	"**Beach volleyball**"
+	{
+		"chi"		"** **"
+	}
+	"**CT win**"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"19031"
+	}
+	"**Knife[100Hp]**"
+	{
+		"chi"		"** **"
+	}
+	"**Knife**"
+	{
+		"chi"		"** **"
+	}
+	"**T win**"
+	{
+		"chi"		"** **"
+	}
+	"**If you find  Bug, please contact the authors Steam**"
+	{
+		"chi"		"** **"
+	}
+	"**You have 20 seconds to chooes the game**"
+	{
+		"chi"		"** **"
+	}
+	"**Random**"
+	{
+		"chi"		"** **"
+	}
+	"**weapon**"
+	{
+		"chi"		"** **"
+	}
+	"**Arena**"
+	{
+		"chi"		"** **"
+	}
+	"**Give Knife**"
+	{
+		"chi"		"** **"
+	}
+	"**Knife[65Hp]**"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,39 @@
+"Console_T"
+{
+	"Song Playing: Sweater Weather"
+	{
+		"chi"		"** **"
+	}
+	"Song Playing: What a Wonderful World"
+	{
+		"chi"		"** **"
+	}
+	"Map made by Pinkie Pie"
+	{
+		"chi"		"** **"
+	}
+	"Ported by sG | Waffles"
+	{
+		"chi"		"** **"
+	}
+	"Song playing: Danza Kaduro"
+	{
+		"chi"		"** **"
+	}
+	"Song playing: I Just Cant Deny"
+	{
+		"chi"		"** **"
+	}
+	"Song playing: Careless Whisper"
+	{
+		"chi"		"** **"
+	}
+	"Someone has finished!"
+	{
+		"chi"		"** **"
+	}
+	"20 more seconds!"
+	{
+		"chi"		"** **"
+	}
+}

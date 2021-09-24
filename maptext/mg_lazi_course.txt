@@ -1,0 +1,20 @@
+"Console_T"
+{
+	"chi"		"** **"
+	"<mg_lazi_course>"
+	{
+		"chi"		"** **"
+	}
+	">Map made by Bliv<"
+	{
+		"chi"		"** **"
+	}
+	">Dedicated to Lazi<"
+	{
+		"chi"		"** **"
+	}
+	"<Spawn Killer Enabled>"
+	{
+		"chi"		"** **"
+	}
+}

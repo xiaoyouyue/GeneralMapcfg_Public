@@ -1,0 +1,23 @@
+"Console_T"
+{
+	"If you like this map, I hope you can find this map and support it in the  workshop"
+	{
+		"chi"		"** **"
+	}
+	"Map By Danes"
+	{
+		"chi"		"** **"
+	}
+	"[Music] The Prodigy - Voodoo People (Pendulum Mix)"
+	{
+		"chi"		"** **"
+	}
+	"[Music] X-Ray Dog - String Tek"
+	{
+		"chi"		"** **"
+	}
+	"[Music]  Deja Vu"
+	{
+		"chi"		"** **"
+	}
+}

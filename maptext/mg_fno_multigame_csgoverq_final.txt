@@ -1,0 +1,75 @@
+"Console_T"
+{
+	"@Map by FNEUW"
+	{
+		"chi"		"** **"
+	}
+	"YOUVE CHOSEN [BHOP]"
+	{
+		"chi"		"** **"
+	}
+	"Turn on the auto bunnyhop after 30 seconds."
+	{
+		"chi"		"** **"
+	}
+	"YOUVE CHOSEN [SLIDE]"
+	{
+		"chi"		"** **"
+	}
+	"Turn on the auto bunnyhop after 20 seconds."
+	{
+		"chi"		"** **"
+	}
+	"YOUVE CHOSEN [RACE]"
+	{
+		"chi"		"** **"
+	}
+	"YOUVE CHOSEN [CLIMB]"
+	{
+		"chi"		"** **"
+	}
+	"YOUVE CHOSEN [TETRIS]"
+	{
+		"chi"		"** **"
+	}
+	"YOUVE CHOSEN [KNIFE]"
+	{
+		"chi"		"** **"
+	}
+	"[RANDOM]"
+	{
+		"chi"		"** **"
+	}
+	"YOUVE CHOSEN [BUY]"
+	{
+		"chi"		"** **"
+	}
+	"YOUVE CHOSEN [ICESKATE]"
+	{
+		"chi"		"** **"
+	}
+	"YOUVE CHOSEN [SMOKE]"
+	{
+		"chi"		"** **"
+	}
+	"BONUS MAP - [DEAGLE HS]"
+	{
+		"chi"		"** **"
+	}
+	"timelimit"
+	{
+		"chi"		"** **"
+	}
+	"YOUVE CHOSEN [AWP]"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"11275"
+	}
+	"Start automatic jump after 30 seconds."
+	{
+		"chi"		"** **"
+	}
+}

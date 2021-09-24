@@ -1,0 +1,11 @@
+"Console_T"
+{
+	"Map by 哔哩哔哩-风流倜傥你杰森."
+	{
+		"chi"		"** **"
+	}
+	"Ghost mode by Dazai Nerau."
+	{
+		"chi"		"** **"
+	}
+}
