@@ -1,0 +1,2 @@
+sm_restrict molotov 10 both;
+sm_restrict incgrenade 10 both;
