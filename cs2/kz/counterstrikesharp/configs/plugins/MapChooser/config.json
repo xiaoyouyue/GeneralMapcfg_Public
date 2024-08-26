@@ -1,0 +1,20 @@
+{
+    "VoteStartTime": 3.0,
+    "AllowExtend": true,
+    "ExtendTimeStep": 18.0,
+    "ExtendLimit": 100,
+    "ExcludeMaps":  5,
+    "IncludeMaps": 5,
+    "IncludeCurrent": false,
+    "DontChangeRTV": true,
+    "VoteDuration": 15.0,
+    "IgnoreSpec": true,
+    "AllowRtv": true,
+    "RTVPercent": 0.5,
+    "RTVDelay": 1.0,
+    "SteamWorkShopCollectionId": "3218424661",
+    "AutoDownload": true,
+    "UseSteamWorkShopCollectionId": true,
+    "SteamWorkShopCollectionIdAutoUpdateMaps": true,
+    "EnforceTimeLimit": true
+}
