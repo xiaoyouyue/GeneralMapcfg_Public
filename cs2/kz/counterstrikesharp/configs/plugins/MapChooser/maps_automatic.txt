@@ -1,0 +1,409 @@
+"Maplist"
+{
+	"KZ_HUB"
+	{
+		"workshop_id"		"3070220367"
+		"enabled"		"1"
+		"filename"		"KZ_HUB"
+		"updatedname"		"KZ_HUB"
+	}
+	"kz_grotto"
+	{
+		"workshop_id"		"3121168339"
+		"enabled"		"1"
+		"filename"		"kz_grotto"
+		"updatedname"		"kz_grotto"
+	}
+	"kz_checkmate"
+	{
+		"workshop_id"		"3070194623"
+		"enabled"		"1"
+		"filename"		"kz_checkmate"
+		"updatedname"		"kz_checkmate"
+	}
+	"kz_igneous"
+	{
+		"workshop_id"		"3102712799"
+		"enabled"		"1"
+		"filename"		"kz_igneous"
+		"updatedname"		"kz_igneous"
+	}
+	"kz_phamous"
+	{
+		"workshop_id"		"3104579274"
+		"enabled"		"1"
+		"filename"		"kz_phamous"
+		"updatedname"		"kz_phamous"
+	}
+	"kz_serfdom"
+	{
+		"workshop_id"		"3162361624"
+		"enabled"		"1"
+		"filename"		"kz_serfdom"
+		"updatedname"		"kz_serfdom"
+	}
+	"test submission"
+	{
+		"workshop_id"		"3121030590"
+		"enabled"		"1"
+		"filename"		"test submission"
+		"updatedname"		"test submission"
+	}
+	"kz_sxb2_biewan"
+	{
+		"workshop_id"		"3076000218"
+		"enabled"		"1"
+		"filename"		"kz_sxb2_biewan"
+		"updatedname"		"kz_sxb2_biewan"
+	}
+	"kz_sxb2_surfaintkz"
+	{
+		"workshop_id"		"3107580148"
+		"enabled"		"1"
+		"filename"		"kz_sxb2_surfaintkz"
+		"updatedname"		"kz_sxb2_surfaintkz"
+	}
+	"kz_sxb2_poi"
+	{
+		"workshop_id"		"3107676358"
+		"enabled"		"1"
+		"filename"		"kz_sxb2_poi"
+		"updatedname"		"kz_sxb2_poi"
+	}
+	"kz_sxb2_cxz"
+	{
+		"workshop_id"		"3083714192"
+		"enabled"		"1"
+		"filename"		"kz_sxb2_cxz"
+		"updatedname"		"kz_sxb2_cxz"
+	}
+	"kz_communityjump3"
+	{
+		"workshop_id"		"3202427394"
+		"enabled"		"1"
+		"filename"		"kz_communityjump3"
+		"updatedname"		"kz_communityjump3"
+	}
+	"kz_dog"
+	{
+		"workshop_id"		"3071622478"
+		"enabled"		"1"
+		"filename"		"kz_dog"
+		"updatedname"		"kz_dog"
+	}
+	"kz_leto_v2"
+	{
+		"workshop_id"		"3070830826"
+		"enabled"		"1"
+		"filename"		"kz_leto_v2"
+		"updatedname"		"kz_leto_v2"
+	}
+	"kz_bhop_Sunset_"
+	{
+		"workshop_id"		"3116829308"
+		"enabled"		"1"
+		"filename"		"kz_bhop_Sunset_"
+		"updatedname"		"kz_bhop_Sunset_"
+	}
+	"kz_tranquility"
+	{
+		"workshop_id"		"3085685607"
+		"enabled"		"1"
+		"filename"		"kz_tranquility"
+		"updatedname"		"kz_tranquility"
+	}
+	"kz_victoria"
+	{
+		"workshop_id"		"3086304337"
+		"enabled"		"1"
+		"filename"		"kz_victoria"
+		"updatedname"		"kz_victoria"
+	}
+	"kz_colors"
+	{
+		"workshop_id"		"3160120310"
+		"enabled"		"1"
+		"filename"		"kz_colors"
+		"updatedname"		"kz_colors"
+	}
+	"kz_cg_lighthops"
+	{
+		"workshop_id"		"3211915934"
+		"enabled"		"1"
+		"filename"		"kz_cg_lighthops"
+		"updatedname"		"kz_cg_lighthops"
+	}
+	"kz_xmas2023"
+	{
+		"workshop_id"		"3124558836"
+		"enabled"		"1"
+		"filename"		"kz_xmas2023"
+		"updatedname"		"kz_xmas2023"
+	}
+	"kz_labour"
+	{
+		"workshop_id"		"3164403123"
+		"enabled"		"1"
+		"filename"		"kz_labour"
+		"updatedname"		"kz_labour"
+	}
+	"kz_niche"
+	{
+		"workshop_id"		"3160291769"
+		"enabled"		"1"
+		"filename"		"kz_niche"
+		"updatedname"		"kz_niche"
+	}
+	"kz_ehcivec_final"
+	{
+		"workshop_id"		"3082213334"
+		"enabled"		"1"
+		"filename"		"kz_ehcivec_final"
+		"updatedname"		"kz_ehcivec_final"
+	}
+	"kz_rc_stonehenge"
+	{
+		"workshop_id"		"3072219045"
+		"enabled"		"1"
+		"filename"		"kz_rc_stonehenge"
+		"updatedname"		"kz_rc_stonehenge"
+	}
+	"kz_alfama"
+	{
+		"workshop_id"		"3237967740"
+		"enabled"		"1"
+		"filename"		"kz_alfama"
+		"updatedname"		"kz_alfama"
+	}
+	"kz_sxb2_makabaka"
+	{
+		"workshop_id"		"3240801191"
+		"enabled"		"1"
+		"filename"		"kz_sxb2_makabaka"
+		"updatedname"		"kz_sxb2_makabaka"
+	}
+	"kz_ladderhell"
+	{
+		"workshop_id"		"3236545332"
+		"enabled"		"1"
+		"filename"		"kz_ladderhell"
+		"updatedname"		"kz_ladderhell"
+	}
+	"kz_sxb_onlyslide"
+	{
+		"workshop_id"		"3235790896"
+		"enabled"		"1"
+		"filename"		"kz_sxb_onlyslide"
+		"updatedname"		"kz_sxb_onlyslide"
+	}
+	"kz_ladderdespair"
+	{
+		"workshop_id"		"3234811937"
+		"enabled"		"1"
+		"filename"		"kz_ladderdespair"
+		"updatedname"		"kz_ladderdespair"
+	}
+	"kz_ambition"
+	{
+		"workshop_id"		"3231632688"
+		"enabled"		"1"
+		"filename"		"kz_ambition"
+		"updatedname"		"kz_ambition"
+	}
+	"kz_bhop_lego"
+	{
+		"workshop_id"		"3231517132"
+		"enabled"		"1"
+		"filename"		"kz_bhop_lego"
+		"updatedname"		"kz_bhop_lego"
+	}
+	"kz_lust"
+	{
+		"workshop_id"		"3218634538"
+		"enabled"		"1"
+		"filename"		"kz_lust"
+		"updatedname"		"kz_lust"
+	}
+	"kz_kiwi_hym"
+	{
+		"workshop_id"		"3083938271"
+		"enabled"		"1"
+		"filename"		"kz_kiwi_hym"
+		"updatedname"		"kz_kiwi_hym"
+	}
+	"kz_consequence"
+	{
+		"workshop_id"		"3250581189"
+		"enabled"		"1"
+		"filename"		"kz_consequence"
+		"updatedname"		"kz_consequence"
+	}
+	"kz_variety"
+	{
+		"workshop_id"		"3250132197"
+		"enabled"		"1"
+		"filename"		"kz_variety"
+		"updatedname"		"kz_variety"
+	}
+	"kz_misaka"
+	{
+		"workshop_id"		"3249152112"
+		"enabled"		"1"
+		"filename"		"kz_misaka"
+		"updatedname"		"kz_misaka"
+	}
+	"kz_inui"
+	{
+		"workshop_id"		"3248925340"
+		"enabled"		"1"
+		"filename"		"kz_inui"
+		"updatedname"		"kz_inui"
+	}
+	"kz_rc_femboy"
+	{
+		"workshop_id"		"3241944666"
+		"enabled"		"1"
+		"filename"		"kz_rc_femboy"
+		"updatedname"		"kz_rc_femboy"
+	}
+	"kz_hb_7864"
+	{
+		"workshop_id"		"3256277396"
+		"enabled"		"1"
+		"filename"		"kz_hb_7864"
+		"updatedname"		"kz_hb_7864"
+	}
+	"kz_superstructure"
+	{
+		"workshop_id"		"3266838066"
+		"enabled"		"1"
+		"filename"		"kz_superstructure"
+		"updatedname"		"kz_superstructure"
+	}
+	"kz_paradise"
+	{
+		"workshop_id"		"3276365521"
+		"enabled"		"1"
+		"filename"		"kz_paradise"
+		"updatedname"		"kz_paradise"
+	}
+	"kz_skytower"
+	{
+		"workshop_id"		"3276311176"
+		"enabled"		"1"
+		"filename"		"kz_skytower"
+		"updatedname"		"kz_skytower"
+	}
+	"kz_ghs"
+	{
+		"workshop_id"		"3278824777"
+		"enabled"		"0"
+		"filename"		"kz_ghs"
+		"updatedname"		"kz_ghs"
+	}
+	"kz_sketchie"
+	{
+		"workshop_id"		"3277779156"
+		"enabled"		"1"
+		"filename"		"kz_sketchie"
+		"updatedname"		"kz_sketchie"
+	}
+	"kz_sxb_sc_collapse"
+	{
+		"workshop_id"		"3277307618"
+		"enabled"		"1"
+		"filename"		"kz_sxb_sc_collapse"
+		"updatedname"		"kz_sxb_sc_collapse"
+	}
+	"kz_sonder"
+	{
+		"workshop_id"		"3276936665"
+		"enabled"		"1"
+		"filename"		"kz_sonder"
+		"updatedname"		"kz_sonder"
+	}
+	"kz_WazupSpencer[0.8]"
+	{
+		"workshop_id"		"3276767694"
+		"enabled"		"0"
+		"filename"		"kz_WazupSpencer[0.8]"
+		"updatedname"		"kz_WazupSpencer[0.8]"
+	}
+	"kz_sxb2_whoisadgod"
+	{
+		"workshop_id"		"3275804057"
+		"enabled"		"0"
+		"filename"		"kz_sxb2_whoisadgod"
+		"updatedname"		"kz_sxb2_whoisadgod"
+	}
+	"kz_bd_its_mygo"
+	{
+		"workshop_id"		"3285279291"
+		"enabled"		"1"
+		"filename"		"kz_bd_its_mygo"
+		"updatedname"		"kz_bd_its_mygo"
+	}
+	"kz_haki_v2"
+	{
+		"workshop_id"		"3280439252"
+		"enabled"		"1"
+		"filename"		"kz_haki_v2"
+		"updatedname"		"kz_haki_v2"
+	}
+	"kz_dam"
+	{
+		"workshop_id"		"3280262338"
+		"enabled"		"1"
+		"filename"		"kz_dam"
+		"updatedname"		"kz_dam"
+	}
+	"kz_Maybe(Test)"
+	{
+		"workshop_id"		"3279308686"
+		"enabled"		"1"
+		"filename"		"kz_Maybe(Test)"
+		"updatedname"		"kz_Maybe(Test)"
+	}
+	"kz_hb_mute"
+	{
+		"workshop_id"		"3159507211"
+		"enabled"		"1"
+		"filename"		"kz_hb_mute"
+		"updatedname"		"kz_hb_mute"
+	}
+	"kz_variety_fix"
+	{
+		"workshop_id"		"3286019495"
+		"enabled"		"1"
+		"filename"		"kz_variety_fix"
+		"updatedname"		"kz_variety_fix"
+	}
+	"kz_moonlight"
+	{
+		"workshop_id"		"3287653784"
+		"enabled"		"1"
+		"filename"		"kz_moonlight"
+		"updatedname"		"kz_moonlight"
+	}
+	"kz_deuxme"
+	{
+		"workshop_id"		"3291309096"
+		"enabled"		"1"
+		"filename"		"kz_deuxme"
+		"updatedname"		"kz_deuxme"
+	}
+	"kz_train"
+	{
+		"workshop_id"		"3290473039"
+		"enabled"		"1"
+		"filename"		"kz_train"
+		"updatedname"		"kz_train"
+	}
+	"kz_rome"
+	{
+		"workshop_id"		"3294243116"
+		"enabled"		"1"
+		"filename"		"kz_rome"
+		"updatedname"		"kz_rome"
+	}
+}
