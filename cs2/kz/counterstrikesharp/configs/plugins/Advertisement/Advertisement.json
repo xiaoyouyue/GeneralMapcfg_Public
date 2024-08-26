@@ -1,51 +1,55 @@
 {
   "PrintToCenterHtml": false,
-  "WelcomeMessage": {
-    "MessageType": 0,
-    "Message": "Welcome, {BLUE}{PLAYERNAME}",
-    "DisplayDelay": 5
-  },
   "Ads": [
     {
       "Interval": 65,
       "Messages": [
         {
-          "Chat": "{RED}!store{DEFAULT} 购买使用皮肤 {LIME}!inv{LIGHTRED}打开商店个人库存 (如果您想装备皮肤!inv更合适)  {OLIVE}社区论坛地址:{LIME}bbs.upkk.{LIME}c{LIGHTRED}o{LIME}m"
-        }
-      ]
-    },
-    {
-      "Interval": 50,
-      "Messages": [
-        {
-          "Chat": "{RED}!store 购买使用皮肤{LIME}!inv 打开商店个人库存 {PURPLE}!yd 地图名 预定地图 !hide 隐藏玩家 控制台输入  {LIGHTPURPLE}snd_musicvolume 0 将关闭地图音乐 snd_musicvolume 0.5则将音量减少一半 snd_voipvolume 2 提高语音音量 游戏设置-启用开发者控制台后按~"
+          "Chat": "{ads_1}"
         },
         {
-          "Chat": "{LIME}当前时间: {RED}{TIME} {PURPLE}当前地图: {RED}{MAP}"
-        }
-      ]
-    },
-    {
-      "Interval": 80,
-      "Messages": [
+          "Chat": "{ads_2}"
+        },
         {
-          "Chat": "{RED}[X社区] {BLUE}请勿 卡麦、喧哗，违者将受到管理员处罚！ "
+          "Chat": "{ads_3}"
+        },
+        {
+          "Chat": "{ads_4}"
         }
       ]
     }
   ],
   "Panel": null,
   "DefaultLang": "CN",
+  "MessageType": 0,
   "LanguageMessages": {
-    "map_name": {
-      "RU": "\u0422\u0435\u043A\u0443\u0449\u0430\u044F \u043A\u0430\u0440\u0442\u0430: {MAP}",
-      "US": "Current map: {MAP}",
-      "CN": "{LIME}当前时间: {RED}{TIME} {PURPLE}当前地图: {RED}{MAP}"
+    "ads_1": {
+      "CN": "{RED}[X社区] {LIME}!store {DEFAULT}购买使用皮肤 {LIME}!inv {DEFAULT}打开商店个人库存 (如果您想装备皮肤!inv更合适)",
+      "US": "{RED}[X Community] {LIME}!store {DEFAULT}to buy and use skins {LIME}!inv {DEFAULT}to open your inventory (use !inv to equip skins)",
+      "TW": "{RED}[X社區] {LIME}!store {DEFAULT}購買使用皮膚 {LIME}!inv {DEFAULT}打開商店個人庫存 (如果您想裝備皮膚!inv更合適)",
+      "JP": "{RED}[Xコミュニティ] {LIME}!store {DEFAULT}スキンを購入して使用するには、{LIME}!inv {DEFAULT}インベントリを開きます (スキンを装備するには、!inv を使用します)",
+      "KR": "{RED}[X 커뮤니티] {LIME}!store {DEFAULT}스킨을 구매하고 사용하려면 {LIME}!inv {DEFAULT}인벤토리를 열려면 (스킨을 장착하려면 !inv 를 사용하십시오)"
     },
-    "current_time": {
-      "RU": "{GRAY}\u0422\u0435\u043A\u0443\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F: {RED}{TIME}",
-      "US": "{GRAY}Current time: {RED}{TIME}",
-      "CN": "{LIME}当前时间: {RED}{TIME} 当前地图: {RED}{MAP}"
+    "ads_2": {
+      "CN": "{RED}[X社区] {LIME}当前时间: {RED}{TIME} {PURPLE}当前地图: {RED}{MAP}",
+      "US": "{RED}[X Community] {LIME}Current time: {RED}{TIME} {PURPLE}Current map: {RED}{MAP}",
+      "TW": "{RED}[X社區] {LIME}當前時間: {RED}{TIME} {PURPLE}當前地圖: {RED}{MAP}",
+      "JP": "{RED}[Xコミュニティ] {LIME}現在の時間: {RED}{TIME} {PURPLE}現在のマップ: {RED}{MAP}",
+      "KR": "{RED}[X 커뮤니티] {LIME}현재 시간: {RED}{TIME} {PURPLE}현재 맵: {RED}{MAP}"
+    },
+    "ads_3": {
+      "CN": "{RED}[X社区] {PURPLE}欢迎加入X社区僵尸逃跑QQ群：{LIGHTPURPLE}606809103 {PURPLE}萌新玩家请访问官方论坛 {ORANGE}bbs.upkk.com {PURPLE}交流讨论游戏相关内容，并查看社区规则与最新活动。",
+      "US": "{RED}[X Community] {PURPLE}Join the X Community Zombie Escape QQ group: {LIGHTPURPLE}606809103 {PURPLE}New players, please visit the official forum {ORANGE}bbs.upkk.com {PURPLE}for discussions and to check the community rules and latest events.",
+      "TW": "{RED}[X社區] {PURPLE}歡迎加入X社區殭屍逃跑QQ群：{LIGHTPURPLE}606809103 {PURPLE}新玩家請訪問官方論壇 {ORANGE}bbs.upkk.com {PURPLE}進行討論並查看社區規則和最新活動。",
+      "JP": "{RED}[Xコミュニティ] {PURPLE}XコミュニティゾンビエスケープQQグループに参加してください：{LIGHTPURPLE}606809103 {PURPLE}新しいプレイヤーは、公式フォーラム{ORANGE}bbs.upkk.com {PURPLE}を訪れて、議論し、コミュニティルールと最新のイベントを確認してください。",
+      "KR": "{RED}[X 커뮤니티] {PURPLE}X 커뮤니티 좀비 탈출 QQ 그룹에 가입하세요: {LIGHTPURPLE}606809103 {PURPLE}새로운 플레이어는 공식 포럼 {ORANGE}bbs.upkk.com {PURPLE}을 방문하여 토론하고 커뮤니티 규칙과 최신 이벤트를 확인하세요."
+    },
+    "ads_4": {
+      "CN": "{RED}[X社区] {LIME}按Z,X键（默认无线电按键）使用快捷指令 例如存点等功能",
+      "US": "{RED}[X Community] {LIME}Press Z,X (default radio key) to use quick commands",
+      "TW": "{RED}[X社區] {LIME}按Z,X鍵（默認無線電鍵）使用快捷指令",
+      "JP": "{RED}[Xコミュニティ] {LIME}Zキー（デフォルトのラジオキー）を押してクイックコマンドを使用します",
+      "KR": "{RED}[X 커뮤니티] {LIME}단축 명령을 사용하려면 Z 키 (기본 무전 키)를 누르세요."
     }
   },
   "MapsName": {
