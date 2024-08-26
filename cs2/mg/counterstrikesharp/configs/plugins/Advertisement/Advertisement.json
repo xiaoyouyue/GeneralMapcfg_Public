@@ -47,7 +47,7 @@
       "TW": "{RED}[X社區] {LIME}當前時間: {RED}{TIME} {PURPLE}當前地圖: {RED}{MAP}",
       "JP": "{RED}[Xコミュニティ] {LIME}現在の時間: {RED}{TIME} {PURPLE}現在のマップ: {RED}{MAP}",
       "KR": "{RED}[X 커뮤니티] {LIME}현재 시간: {RED}{TIME} {PURPLE}현재 맵: {RED}{MAP}"
-    }
+    },
     "ads_3": {
       "CN": "{RED}[X社区] {LIME}不喜欢当前地图？聊天框输入 {LIGHTPURPLE}!RTV 快捷指令进行投票更换!",
       "US": "{RED}[X Community] {LIME}Don't like the current map? Type {LIGHTPURPLE}!RTV",
