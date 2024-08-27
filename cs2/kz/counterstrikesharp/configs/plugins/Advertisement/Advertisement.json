@@ -15,6 +15,9 @@
         },
         {
           "Chat": "{ads_4}"
+        },
+        {
+          "Chat": "{ads_5}"
         }
       ]
     }
@@ -50,7 +53,15 @@
       "TW": "{RED}[X社區] {LIME}按Z,X鍵（默認無線電鍵）使用快捷指令",
       "JP": "{RED}[Xコミュニティ] {LIME}Zキー（デフォルトのラジオキー）を押してクイックコマンドを使用します",
       "KR": "{RED}[X 커뮤니티] {LIME}단축 명령을 사용하려면 Z 키 (기본 무전 키)를 누르세요."
-    }
+    },
+    "ads_5": {
+      "CN": "服务器会自动在 {LIME}早晨 6:30 {RED}进行重启进程 请注意安排时间!",
+      "US": "The server will automatically restart the process at {LIME}6:30 AM {RED}. Please plan accordingly!",
+      "TW": "伺服器將自動在 {LIME}早上6:30 {RED}進行重啟過程，請注意安排時間!",
+      "JP": "サーバーは自動的に {LIME}午前6時30分 {RED}に再起動プロセスを開始します。時間の調整にご注意ください！",
+      "KR": "서버는 자동으로 {LIME}오전 6시 30분 {RED}에 재시작 프로세스를 수행합니다. 시간을 잘 계획하세요!"
+  }
+
   },
   "MapsName": {
     "de_mirage": "Mirage",
