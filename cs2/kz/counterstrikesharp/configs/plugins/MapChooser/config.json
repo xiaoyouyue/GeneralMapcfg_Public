@@ -15,6 +15,6 @@
     "SteamWorkShopCollectionId": "3218424661",
     "AutoDownload": true,
     "UseSteamWorkShopCollectionId": true,
-    "SteamWorkShopCollectionIdAutoUpdateMaps": true,
+    "SteamWorkShopCollectionIdAutoUpdateMaps": false,
     "EnforceTimeLimit": true
 }
