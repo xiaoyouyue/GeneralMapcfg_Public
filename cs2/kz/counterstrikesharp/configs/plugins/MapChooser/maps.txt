@@ -42,12 +42,12 @@
 		"filename"		"kz_serfdom"
 		"updatedname"		"kz_serfdom"
 	}
-	"test submission"
+	"kz_grotto"
 	{
 		"workshop_id"		"3121030590"
 		"enabled"		"1"
-		"filename"		"test submission"
-		"updatedname"		"test submission"
+		"filename"		"kz_grotto"
+		"updatedname"		"kz_grotto"
 	}
 	"kz_sxb2_biewan"
 	{
@@ -399,4 +399,5 @@
 		"filename"		"kz_rome"
 		"updatedname"		"kz_rome1"
 	}
+
 }
