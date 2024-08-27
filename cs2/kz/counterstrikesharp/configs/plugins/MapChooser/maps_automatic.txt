@@ -360,7 +360,7 @@
 	"kz_Maybe(Test)"
 	{
 		"workshop_id"		"3279308686"
-		"enabled"		"1"
+		"enabled"		"0"
 		"filename"		"kz_Maybe(Test)"
 		"updatedname"		"kz_Maybe(Test)"
 	}
