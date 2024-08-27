@@ -357,6 +357,13 @@
 		"filename"		"kz_dam"
 		"updatedname"		"kz_dam"
 	}
+	"kz_Maybe(Test)"
+	{
+		"workshop_id"		"3279308686"
+		"enabled"		"1"
+		"filename"		"kz_Maybe(Test)"
+		"updatedname"		"kz_Maybe(Test)"
+	}
 	"kz_hb_mute"
 	{
 		"workshop_id"		"3159507211"
@@ -398,5 +405,12 @@
 		"enabled"		"1"
 		"filename"		"kz_rome"
 		"updatedname"		"kz_rome"
+	}
+	"kz_concord"
+	{
+		"workshop_id"		"3287874815"
+		"enabled"		"1"
+		"filename"		"kz_concord"
+		"updatedname"		"kz_concord"
 	}
 }
