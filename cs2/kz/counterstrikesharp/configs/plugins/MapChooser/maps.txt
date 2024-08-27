@@ -357,13 +357,6 @@
 		"filename"		"kz_dam"
 		"updatedname"		"kz_dam"
 	}
-	"kz_Maybe(Test)"
-	{
-		"workshop_id"		"3279308686"
-		"enabled"		"1"
-		"filename"		"kz_Maybe(Test)"
-		"updatedname"		"kz_Maybe(Test)"
-	}
 	"kz_hb_mute"
 	{
 		"workshop_id"		"3159507211"
