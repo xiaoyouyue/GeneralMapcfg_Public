@@ -1,79 +1,76 @@
 {
-  "PrintToCenterHtml": false,
-  "Ads": [
-    {
-      "Interval": 65,
-      "Messages": [
-        {
-          "Chat": "{ads_1}"
-        },
-        {
-          "Chat": "{ads_2}"
-        },
-        {
-          "Chat": "{ads_3}"
-        },
-        {
-          "Chat": "{ads_4}"
-        },
-        {
-          "Chat": "{ads_5}"
-        },
-        {
-          "Chat": "{ads_6}"
-        }
-      ]
-    }
-  ],
-  "Panel": null,
-  "DefaultLang": "CN",
-  "MessageType": 0,
-  "LanguageMessages": {
-    "ads_1": {
-      "CN": "{RED}[X社区] {LIME}!store {DEFAULT}购买使用皮肤 {LIME}!inv {DEFAULT}打开商店个人库存 (如果您想装备皮肤!inv更合适)",
-      "US": "{RED}[X Community] {LIME}!store {DEFAULT}to buy and use skins {LIME}!inv {DEFAULT}to open your inventory (use !inv to equip skins)",
-      "TW": "{RED}[X社區] {LIME}!store {DEFAULT}購買使用皮膚 {LIME}!inv {DEFAULT}打開商店個人庫存 (如果您想裝備皮膚!inv更合適)",
-      "JP": "{RED}[Xコミュニティ] {LIME}!store {DEFAULT}スキンを購入して使用するには、{LIME}!inv {DEFAULT}インベントリを開きます (スキンを装備するには、!inv を使用します)",
-      "KR": "{RED}[X 커뮤니티] {LIME}!store {DEFAULT}스킨을 구매하고 사용하려면 {LIME}!inv {DEFAULT}인벤토리를 열려면 (스킨을 장착하려면 !inv 를 사용하십시오)"
-    },
-    "ads_2": {
-      "CN": "{RED}[X社区] {LIME}当前时间: {RED}{TIME} {PURPLE}当前地图: {RED}{MAP}",
-      "US": "{RED}[X Community] {LIME}Current time: {RED}{TIME} {PURPLE}Current map: {RED}{MAP}",
-      "TW": "{RED}[X社區] {LIME}當前時間: {RED}{TIME} {PURPLE}當前地圖: {RED}{MAP}",
-      "JP": "{RED}[Xコミュニティ] {LIME}現在の時間: {RED}{TIME} {PURPLE}現在のマップ: {RED}{MAP}",
-      "KR": "{RED}[X 커뮤니티] {LIME}현재 시간: {RED}{TIME} {PURPLE}현재 맵: {RED}{MAP}"
-    },
-    "ads_3": {
-      "CN": "{RED}[X社区] {PURPLE}欢迎加入X社区僵尸逃跑QQ群：{LIGHTPURPLE}606809103 {PURPLE}萌新玩家请访问官方论坛 {ORANGE}bbs.upkk.com {PURPLE}交流讨论游戏相关内容，并查看社区规则与最新活动。",
-      "US": "{RED}[X Community] {PURPLE}Join the X Community Zombie Escape QQ group: {LIGHTPURPLE}606809103 {PURPLE}New players, please visit the official forum {ORANGE}bbs.upkk.com {PURPLE}for discussions and to check the community rules and latest events.",
-      "TW": "{RED}[X社區] {PURPLE}歡迎加入X社區殭屍逃跑QQ群：{LIGHTPURPLE}606809103 {PURPLE}新玩家請訪問官方論壇 {ORANGE}bbs.upkk.com {PURPLE}進行討論並查看社區規則和最新活動。",
-      "JP": "{RED}[Xコミュニティ] {PURPLE}XコミュニティゾンビエスケープQQグループに参加してください：{LIGHTPURPLE}606809103 {PURPLE}新しいプレイヤーは、公式フォーラム{ORANGE}bbs.upkk.com {PURPLE}を訪れて、議論し、コミュニティルールと最新のイベントを確認してください。",
-      "KR": "{RED}[X 커뮤니티] {PURPLE}X 커뮤니티 좀비 탈출 QQ 그룹에 가입하세요: {LIGHTPURPLE}606809103 {PURPLE}새로운 플레이어는 공식 포럼 {ORANGE}bbs.upkk.com {PURPLE}을 방문하여 토론하고 커뮤니티 규칙과 최신 이벤트를 확인하세요."
-    },
+	"PrintToCenterHtml": false,
+	"Ads": [{
+		"Interval": 50,
+		"Messages": [{
+				"Chat": "{ads_1}"
+			},
+			{
+				"Chat": "{ads_2}"
+			},
+			{
+				"Chat": "{ads_3}"
+			},
+			{
+				"Chat": "{ads_4}"
+			},
+			{
+				"Chat": "{ads_5}"
+			},
+			{
+				"Chat": "{ads_6}"
+			}
+		]
+	}],
+	"Panel": null,
+	"DefaultLang": "CN",
+	"MessageType": 0,
+	"LanguageMessages": {
+		"ads_1": {
+			"CN": "{RED}[X社区] {LIME}!store {DEFAULT}购买使用皮肤 {LIME}!inv {DEFAULT}打开商店个人库存 (如果您想装备皮肤!inv更合适)",
+			"US": "{RED}[X Community] {LIME}!store {DEFAULT}to buy and use skins {LIME}!inv {DEFAULT}to open your inventory (use !inv to equip skins)",
+			"TW": "{RED}[X社區] {LIME}!store {DEFAULT}購買使用皮膚 {LIME}!inv {DEFAULT}打開商店個人庫存 (如果您想裝備皮膚!inv更合適)",
+			"JP": "{RED}[Xコミュニティ] {LIME}!store {DEFAULT}スキンを購入して使用するには、{LIME}!inv {DEFAULT}インベントリを開きます (スキンを装備するには、!inv を使用します)",
+			"KR": "{RED}[X 커뮤니티] {LIME}!store {DEFAULT}스킨을 구매하고 사용하려면 {LIME}!inv {DEFAULT}인벤토리를 열려면 (스킨을 장착하려면 !inv 를 사용하십시오)"
+		},
+		"ads_2": {
+			"CN": "{RED}[X社区] {LIME}当前时间: {RED}{TIME} {PURPLE}当前地图: {RED}{MAP}",
+			"US": "{RED}[X Community] {LIME}Current time: {RED}{TIME} {PURPLE}Current map: {RED}{MAP}",
+			"TW": "{RED}[X社區] {LIME}當前時間: {RED}{TIME} {PURPLE}當前地圖: {RED}{MAP}",
+			"JP": "{RED}[Xコミュニティ] {LIME}現在の時間: {RED}{TIME} {PURPLE}現在のマップ: {RED}{MAP}",
+			"KR": "{RED}[X 커뮤니티] {LIME}현재 시간: {RED}{TIME} {PURPLE}현재 맵: {RED}{MAP}"
+		},
+		"ads_3": {
+			"CN": "{RED}[X社区] {PURPLE}欢迎加入X社区僵尸逃跑QQ群：{LIGHTPURPLE}606809103 {PURPLE}萌新玩家请访问官方论坛 {ORANGE}bbs.upkk.com {PURPLE}交流讨论游戏相关内容，并查看社区规则与最新活动。",
+			"US": "{RED}[X Community] {PURPLE}Join the X Community Zombie Escape QQ group: {LIGHTPURPLE}606809103 {PURPLE}New players, please visit the official forum {ORANGE}bbs.upkk.com {PURPLE}for discussions and to check the community rules and latest events.",
+			"TW": "{RED}[X社區] {PURPLE}歡迎加入X社區殭屍逃跑QQ群：{LIGHTPURPLE}606809103 {PURPLE}新玩家請訪問官方論壇 {ORANGE}bbs.upkk.com {PURPLE}進行討論並查看社區規則和最新活動。",
+			"JP": "{RED}[Xコミュニティ] {PURPLE}XコミュニティゾンビエスケープQQグループに参加してください：{LIGHTPURPLE}606809103 {PURPLE}新しいプレイヤーは、公式フォーラム{ORANGE}bbs.upkk.com {PURPLE}を訪れて、議論し、コミュニティルールと最新のイベントを確認してください。",
+			"KR": "{RED}[X 커뮤니티] {PURPLE}X 커뮤니티 좀비 탈출 QQ 그룹에 가입하세요: {LIGHTPURPLE}606809103 {PURPLE}새로운 플레이어는 공식 포럼 {ORANGE}bbs.upkk.com {PURPLE}을 방문하여 토론하고 커뮤니티 규칙과 최신 이벤트를 확인하세요."
+		},
     "ads_4": {
-      "CN": "{RED}[X社区] {LIME}按Z,X键（默认无线电按键）使用快捷指令 例如存点等功能",
-      "US": "{RED}[X Community] {LIME}Press Z,X (default radio key) to use quick commands",
-      "TW": "{RED}[X社區] {LIME}按Z,X鍵（默認無線電鍵）使用快捷指令",
-      "JP": "{RED}[Xコミュニティ] {LIME}Zキー（デフォルトのラジオキー）を押してクイックコマンドを使用します",
-      "KR": "{RED}[X 커뮤니티] {LIME}단축 명령을 사용하려면 Z 키 (기본 무전 키)를 누르세요."
+      "CN": "{RED}[X社区] {LIME}按Z,X键（默认无线电按键）使用快捷指令 例如存点等功能 如果您绑定了其他键 您也可通过{RED}控制台输入{DEFAULT} {PURPLE}radio{DEFAULT} 以及 {ORANGE}radio1{DEFAULT} 打开菜单",
+      "US": "{RED}[X Community] {LIME}Press Z or X (default radio keys) to use quick commands such as saving points. If you have bound other keys, you can also enter {RED}console command {DEFAULT} {PURPLE}radio{DEFAULT} and {ORANGE}radio1{DEFAULT} to open the menu.",
+      "TW": "{RED}[X社區] {LIME}按Z,X鍵（默認無線電鍵）使用快捷指令 例如存點等功能 如果您綁定了其他鍵 您也可通過{RED}控制台輸入{DEFAULT} {PURPLE}radio{DEFAULT} 以及 {ORANGE}radio1{DEFAULT} 打開菜單",
+      "JP": "{RED}[Xコミュニティ] {LIME}Zキー、Xキー（デフォルトのラジオキー）を押して、例えばセーブポイントの保存などのクイックコマンドを使用します。もし他のキーを割り当てている場合は、{RED}コンソールに{DEFAULT} {PURPLE}radio{DEFAULT} および {ORANGE}radio1{DEFAULT} と入力してメニューを開くこともできます。",
+      "KR": "{RED}[X 커뮤니티] {LIME}단축 명령(예: 저장 지점)을 사용하려면 Z 키 또는 X 키(기본 무전 키)를 누르세요. 다른 키를 설정한 경우 {RED}콘솔에서{DEFAULT} {PURPLE}radio{DEFAULT} 와 {ORANGE}radio1{DEFAULT}를 입력하여 메뉴를 열 수 있습니다."
     },
-      "ads_5": {
-        "CN": "{RED}[X社区] {LIME}服务器会自动在 {LIME}早晨 6:30 {RED}进行重启进程，请注意安排时间！",
-        "US": "{RED}[X Community] {LIME}The server will automatically restart the process at {LIME}6:30 AM {RED}. Please plan accordingly!",
-        "TW": "{RED}[X社區] {LIME}伺服器將自動在 {LIME}早上6:30 {RED}進行重啟過程，請注意安排時間！",
-        "JP": "{RED}[Xコミュニティ] {LIME}サーバーは自動的に {LIME}午前6時30分 {RED}に再起動プロセスを開始します。時間の調整にご注意ください！",
-        "KR": "{RED}[X 커뮤니티] {LIME}서버는 자동으로 {LIME}오전 6시 30분 {RED}에 재시작 프로세스를 수행합니다. 시간을 잘 계획하세요!"
-      },
-      "ads_6": {
-        "CN": "{RED}[X社区] {LIME}如需查询地图完成记录，个人完成时间请输入{LIGHTPURPLE}!pr{DEFAULT}查询。{GREEN}最佳玩家记录{DEFAULT}可通过{RED}!wr{DEFAULT}查询。",
-        "US": "{RED}[X Community] {LIME}To check map completion records and personal completion times, type {LIGHTPURPLE}!pr{DEFAULT}. To check {GREEN}best player records{DEFAULT}, use {RED}!wr{DEFAULT}.",
-        "TW": "{RED}[X社區] {LIME}如需查詢地圖完成記錄，個人完成時間請輸入{LIGHTPURPLE}!pr{DEFAULT}查詢。{GREEN}最佳玩家記錄{DEFAULT}可透過{RED}!wr{DEFAULT}查詢。",
-        "JP": "{RED}[Xコミュニティ] {LIME}マップの完了記録や個人の完了時間を確認するには、{LIGHTPURPLE}!pr{DEFAULT}と入力してください。{GREEN}ベストプレイヤーの記録{DEFAULT}は{RED}!wr{DEFAULT}で確認できます。",
-        "KR": "{RED}[X 커뮤니티] {LIME}맵 완료 기록 및 개인 완료 시간을 확인하려면 {LIGHTPURPLE}!pr{DEFAULT}을 입력하세요. {GREEN}최고 플레이어 기록{DEFAULT}은 {RED}!wr{DEFAULT}을 통해 확인할 수 있습니다."
-      }
-  },
-  "MapsName": {
-    "de_mirage": "Mirage",
-    "de_dust": "Dust II"
-  }
+		"ads_5": {
+			"CN": "{RED}[X社区] {LIME}服务器会自动在 {LIME}早晨 6:30 {RED}进行重启进程，请注意安排时间！",
+			"US": "{RED}[X Community] {LIME}The server will automatically restart the process at {LIME}6:30 AM {RED}. Please plan accordingly!",
+			"TW": "{RED}[X社區] {LIME}伺服器將自動在 {LIME}早上6:30 {RED}進行重啟過程，請注意安排時間！",
+			"JP": "{RED}[Xコミュニティ] {LIME}サーバーは自動的に {LIME}午前6時30分 {RED}に再起動プロセスを開始します。時間の調整にご注意ください！",
+			"KR": "{RED}[X 커뮤니티] {LIME}서버는 자동으로 {LIME}오전 6시 30분 {RED}에 재시작 프로세스를 수행합니다. 시간을 잘 계획하세요!"
+		},
+		"ads_6": {
+			"CN": "{RED}[X社区] {LIME}如需查询地图完成记录，个人完成时间请输入{LIGHTPURPLE}!pr{DEFAULT}查询。{GREEN}最佳玩家记录{DEFAULT}可通过{RED}!wr{DEFAULT}查询。",
+			"US": "{RED}[X Community] {LIME}To check map completion records and personal completion times, type {LIGHTPURPLE}!pr{DEFAULT}. To check {GREEN}best player records{DEFAULT}, use {RED}!wr{DEFAULT}.",
+			"TW": "{RED}[X社區] {LIME}如需查詢地圖完成記錄，個人完成時間請輸入{LIGHTPURPLE}!pr{DEFAULT}查詢。{GREEN}最佳玩家記錄{DEFAULT}可透過{RED}!wr{DEFAULT}查詢。",
+			"JP": "{RED}[Xコミュニティ] {LIME}マップの完了記録や個人の完了時間を確認するには、{LIGHTPURPLE}!pr{DEFAULT}と入力してください。{GREEN}ベストプレイヤーの記録{DEFAULT}は{RED}!wr{DEFAULT}で確認できます。",
+			"KR": "{RED}[X 커뮤니티] {LIME}맵 완료 기록 및 개인 완료 시간을 확인하려면 {LIGHTPURPLE}!pr{DEFAULT}을 입력하세요. {GREEN}최고 플레이어 기록{DEFAULT}은 {RED}!wr{DEFAULT}을 통해 확인할 수 있습니다."
+		}
+	},
+	"MapsName": {
+		"de_mirage": "Mirage",
+		"de_dust": "Dust II"
+	}
 }
