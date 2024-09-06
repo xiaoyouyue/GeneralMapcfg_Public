@@ -47,13 +47,13 @@
 			"JP": "{RED}[Xコミュニティ] {PURPLE}XコミュニティゾンビエスケープQQグループに参加してください：{LIGHTPURPLE}606809103 {PURPLE}新しいプレイヤーは、公式フォーラム{ORANGE}bbs.upkk.com {PURPLE}を訪れて、議論し、コミュニティルールと最新のイベントを確認してください。",
 			"KR": "{RED}[X 커뮤니티] {PURPLE}X 커뮤니티 좀비 탈출 QQ 그룹에 가입하세요: {LIGHTPURPLE}606809103 {PURPLE}새로운 플레이어는 공식 포럼 {ORANGE}bbs.upkk.com {PURPLE}을 방문하여 토론하고 커뮤니티 규칙과 최신 이벤트를 확인하세요."
 		},
-    "ads_4": {
-      "CN": "{RED}[X社区] {LIME}按Z,X键（默认无线电按键）使用快捷指令 例如存点等功能 如果您绑定了其他键 您也可通过{RED}控制台输入{DEFAULT} {PURPLE}radio{DEFAULT} 以及 {ORANGE}radio1{DEFAULT} 打开菜单",
-      "US": "{RED}[X Community] {LIME}Press Z or X (default radio keys) to use quick commands such as saving points. If you have bound other keys, you can also enter {RED}console command {DEFAULT} {PURPLE}radio{DEFAULT} and {ORANGE}radio1{DEFAULT} to open the menu.",
-      "TW": "{RED}[X社區] {LIME}按Z,X鍵（默認無線電鍵）使用快捷指令 例如存點等功能 如果您綁定了其他鍵 您也可通過{RED}控制台輸入{DEFAULT} {PURPLE}radio{DEFAULT} 以及 {ORANGE}radio1{DEFAULT} 打開菜單",
-      "JP": "{RED}[Xコミュニティ] {LIME}Zキー、Xキー（デフォルトのラジオキー）を押して、例えばセーブポイントの保存などのクイックコマンドを使用します。もし他のキーを割り当てている場合は、{RED}コンソールに{DEFAULT} {PURPLE}radio{DEFAULT} および {ORANGE}radio1{DEFAULT} と入力してメニューを開くこともできます。",
-      "KR": "{RED}[X 커뮤니티] {LIME}단축 명령(예: 저장 지점)을 사용하려면 Z 키 또는 X 키(기본 무전 키)를 누르세요. 다른 키를 설정한 경우 {RED}콘솔에서{DEFAULT} {PURPLE}radio{DEFAULT} 와 {ORANGE}radio1{DEFAULT}를 입력하여 메뉴를 열 수 있습니다."
-    },
+		"ads_4": {
+			"CN": "{RED}[X社区] {LIME}按Z,X键（默认无线电按键）使用快捷指令 例如存点等功能 如果您绑定了其他键 您也可通过{RED}控制台输入{DEFAULT} {PURPLE}radio{DEFAULT} 以及 {ORANGE}radio1{DEFAULT} 打开菜单",
+			"US": "{RED}[X Community] {LIME}Press Z or X (default radio keys) to use quick commands such as saving points. If you have bound other keys, you can also enter {RED}console command {DEFAULT} {PURPLE}radio{DEFAULT} and {ORANGE}radio1{DEFAULT} to open the menu.",
+			"TW": "{RED}[X社區] {LIME}按Z,X鍵（默認無線電鍵）使用快捷指令 例如存點等功能 如果您綁定了其他鍵 您也可通過{RED}控制台輸入{DEFAULT} {PURPLE}radio{DEFAULT} 以及 {ORANGE}radio1{DEFAULT} 打開菜單",
+			"JP": "{RED}[Xコミュニティ] {LIME}Zキー、Xキー（デフォルトのラジオキー）を押して、例えばセーブポイントの保存などのクイックコマンドを使用します。もし他のキーを割り当てている場合は、{RED}コンソールに{DEFAULT} {PURPLE}radio{DEFAULT} および {ORANGE}radio1{DEFAULT} と入力してメニューを開くこともできます。",
+			"KR": "{RED}[X 커뮤니티] {LIME}단축 명령(예: 저장 지점)을 사용하려면 Z 키 또는 X 키(기본 무전 키)를 누르세요. 다른 키를 설정한 경우 {RED}콘솔에서{DEFAULT} {PURPLE}radio{DEFAULT} 와 {ORANGE}radio1{DEFAULT}를 입력하여 메뉴를 열 수 있습니다."
+		},
 		"ads_5": {
 			"CN": "{RED}[X社区] {LIME}服务器会自动在 {LIME}早晨 6:30 {RED}进行重启进程，请注意安排时间！",
 			"US": "{RED}[X Community] {LIME}The server will automatically restart the process at {LIME}6:30 AM {RED}. Please plan accordingly!",
