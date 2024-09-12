@@ -483,5 +483,25 @@
 		"filename"		"kz_rennzoku"
 		"updatedname"		"kz_rennzoku"
 	}
-
+	"kz_combobreaker"
+	{
+		"workshop_id"		"3329139574"
+		"enabled"		"1"
+		"filename"		"kz_combobreaker"
+		"updatedname"		"kz_combobreaker"
+	}
+	"kz_slide_dydanhomon"
+	{
+		"workshop_id"		"3329135256"
+		"enabled"		"1"
+		"filename"		"kz_slide_dydanhomon"
+		"updatedname"		"kz_slide_dydanhomon"
+	}
+	"kz_kzro_syotiles"
+	{
+		"workshop_id"		"3329112841"
+		"enabled"		"1"
+		"filename"		"kz_kzro_syotiles"
+		"updatedname"		"kz_kzro_syotiles"
+	}
 }
