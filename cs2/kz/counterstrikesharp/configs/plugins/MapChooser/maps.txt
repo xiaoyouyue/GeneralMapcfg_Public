@@ -367,7 +367,7 @@
 	"kz_variety_fix"
 	{
 		"workshop_id"		"3286019495"
-		"enabled"		"1"
+		"enabled"		"0"
 		"filename"		"kz_variety_fix"
 		"updatedname"		"kz_variety_fix"
 	}
