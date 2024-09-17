@@ -62,11 +62,11 @@
 			"KR": "{RED}[X 커뮤니티] {LIME}서버는 자동으로 {LIME}오전 6시 30분 {RED}에 재시작 프로세스를 수행합니다. 시간을 잘 계획하세요!"
 		},
 		"ads_6": {
-			"CN": "{RED}[X社区] {LIME}如需查询地图完成记录，个人完成时间请输入{LIGHTPURPLE}!pr{DEFAULT}查询。{GREEN}最佳玩家记录{DEFAULT}可通过{RED}!wr{DEFAULT}查询。",
-			"US": "{RED}[X Community] {LIME}To check map completion records and personal completion times, type {LIGHTPURPLE}!pr{DEFAULT}. To check {GREEN}best player records{DEFAULT}, use {RED}!wr{DEFAULT}.",
-			"TW": "{RED}[X社區] {LIME}如需查詢地圖完成記錄，個人完成時間請輸入{LIGHTPURPLE}!pr{DEFAULT}查詢。{GREEN}最佳玩家記錄{DEFAULT}可透過{RED}!wr{DEFAULT}查詢。",
-			"JP": "{RED}[Xコミュニティ] {LIME}マップの完了記録や個人の完了時間を確認するには、{LIGHTPURPLE}!pr{DEFAULT}と入力してください。{GREEN}ベストプレイヤーの記録{DEFAULT}は{RED}!wr{DEFAULT}で確認できます。",
-			"KR": "{RED}[X 커뮤니티] {LIME}맵 완료 기록 및 개인 완료 시간을 확인하려면 {LIGHTPURPLE}!pr{DEFAULT}을 입력하세요. {GREEN}최고 플레이어 기록{DEFAULT}은 {RED}!wr{DEFAULT}을 통해 확인할 수 있습니다."
+		    "CN": "{RED}[X社区] {LIME}如需查询地图完成记录，个人完成时间请输入{LIGHTPURPLE}!pr{DEFAULT}查询。{GREEN}最佳玩家记录{DEFAULT}可通过{RED}!wr{DEFAULT}查询 当前地图排名 请输入 {RED}!maptop{DEFAULT} 然后{LIGHTPURPLE}查看控制台消息{DEFAULT}。",
+		    "US": "{RED}[X Community] {LIME}To check map completion records and personal completion times, type {LIGHTPURPLE}!pr{DEFAULT}. {GREEN}Best player records{DEFAULT} can be checked using {RED}!wr{DEFAULT}. To check the current map rankings, type {RED}!maptop{DEFAULT} and then {LIGHTPURPLE}check the console for messages{DEFAULT}.",
+		    "TW": "{RED}[X社區] {LIME}如需查詢地圖完成記錄，個人完成時間請輸入{LIGHTPURPLE}!pr{DEFAULT}查詢。{GREEN}最佳玩家記錄{DEFAULT}可透過{RED}!wr{DEFAULT}查詢。當前地圖排名請輸入{RED}!maptop{DEFAULT}，然後{LIGHTPURPLE}查看控制台消息{DEFAULT}。",
+		    "JP": "{RED}[Xコミュニティ] {LIME}マップの完了記録や個人の完了時間を確認するには、{LIGHTPURPLE}!pr{DEFAULT}と入力してください。{GREEN}ベストプレイヤーの記録{DEFAULT}は{RED}!wr{DEFAULT}で確認できます。現在のマップのランキングを確認するには{RED}!maptop{DEFAULT}と入力し、その後{LIGHTPURPLE}コンソールでメッセージを確認してください{DEFAULT}。",
+		    "KR": "{RED}[X 커뮤니티] {LIME}맵 완료 기록 및 개인 완료 시간을 확인하려면 {LIGHTPURPLE}!pr{DEFAULT}을 입력하세요. {GREEN}최고 플레이어 기록{DEFAULT}은 {RED}!wr{DEFAULT}으로 확인할 수 있습니다. 현재 맵 순위를 확인하려면 {RED}!maptop{DEFAULT}을 입력한 후 {LIGHTPURPLE}콘솔 메시지를 확인하세요{DEFAULT}."
 		}
 	},
 	"MapsName": {
