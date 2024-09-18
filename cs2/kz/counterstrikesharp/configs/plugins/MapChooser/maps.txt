@@ -101,7 +101,7 @@
 	"kz_bhop_Sunset_"
 	{
 		"workshop_id"		"3116829308"
-		"enabled"		"1"
+		"enabled"		"0"
 		"filename"		"kz_bhop_Sunset_"
 		"updatedname"		"kz_bhop_Sunset_"
 	}
@@ -517,5 +517,19 @@
 		"enabled"		"1"
 		"filename"		"kz_onlime"
 		"updatedname"		"kz_onlime"
+	}
+        "bkz_iota"
+	{
+		"workshop_id"		"3240650433"
+		"enabled"		"1"
+		"filename"		"bkz_iota"
+		"updatedname"		"bkz_iota"
+	}
+        "kz_obsidian"
+	{
+		"workshop_id"		"3332796414"
+		"enabled"		"1"
+		"filename"		"kz_obsidian"
+		"updatedname"		"kz_obsidian"
 	}
 }
