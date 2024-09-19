@@ -518,4 +518,25 @@
 		"filename"		"kz_obsidian"
 		"updatedname"		"kz_obsidian"
 	}
+	"kz_16pillars"
+	{
+		"workshop_id"		"3332836301"
+		"enabled"		"1"
+		"filename"		"kz_16pillars"
+		"updatedname"		"kz_16pillars"
+	}
+	"kz_onlime"
+	{
+		"workshop_id"		"3333177952"
+		"enabled"		"1"
+		"filename"		"kz_onlime"
+		"updatedname"		"kz_onlime"
+	}
+	"bkz_iota"
+	{
+		"workshop_id"		"3240650433"
+		"enabled"		"1"
+		"filename"		"bkz_iota"
+		"updatedname"		"bkz_iota"
+	}
 }
