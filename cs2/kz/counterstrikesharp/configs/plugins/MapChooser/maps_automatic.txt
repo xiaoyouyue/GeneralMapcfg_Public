@@ -553,4 +553,18 @@
 		"filename"		"kz_sxb_sc_surf"
 		"updatedname"		"kz_sxb_sc_surf"
 	}
+	"bkz_goldbhop"
+	{
+		"workshop_id"		"3214939683"
+		"enabled"		"1"
+		"filename"		"bkz_goldbhop"
+		"updatedname"		"bkz_goldbhop"
+	}
+	"bkz_impulse"
+	{
+		"workshop_id"		"3257374814"
+		"enabled"		"1"
+		"filename"		"bkz_impulse"
+		"updatedname"		"bkz_impulse"
+	}
 }
