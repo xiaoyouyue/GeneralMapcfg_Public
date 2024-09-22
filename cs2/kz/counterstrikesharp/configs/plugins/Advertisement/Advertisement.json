@@ -41,11 +41,11 @@
 			"KR": "{RED}[X 커뮤니티] {LIME}현재 시간: {RED}{TIME} {PURPLE}현재 맵: {RED}{MAP}"
 		},
 		"ads_3": {
-			"CN": "{RED}[X社区] {PURPLE}欢迎加入X社区僵尸逃跑QQ群：{LIGHTPURPLE}606809103 {PURPLE}萌新玩家请访问官方论坛 {ORANGE}bbs.upkk.com {PURPLE}交流讨论游戏相关内容，并查看社区规则与最新活动。",
-			"US": "{RED}[X Community] {PURPLE}Join the X Community Zombie Escape QQ group: {LIGHTPURPLE}606809103 {PURPLE}New players, please visit the official forum {ORANGE}bbs.upkk.com {PURPLE}for discussions and to check the community rules and latest events.",
-			"TW": "{RED}[X社區] {PURPLE}歡迎加入X社區殭屍逃跑QQ群：{LIGHTPURPLE}606809103 {PURPLE}新玩家請訪問官方論壇 {ORANGE}bbs.upkk.com {PURPLE}進行討論並查看社區規則和最新活動。",
-			"JP": "{RED}[Xコミュニティ] {PURPLE}XコミュニティゾンビエスケープQQグループに参加してください：{LIGHTPURPLE}606809103 {PURPLE}新しいプレイヤーは、公式フォーラム{ORANGE}bbs.upkk.com {PURPLE}を訪れて、議論し、コミュニティルールと最新のイベントを確認してください。",
-			"KR": "{RED}[X 커뮤니티] {PURPLE}X 커뮤니티 좀비 탈출 QQ 그룹에 가입하세요: {LIGHTPURPLE}606809103 {PURPLE}새로운 플레이어는 공식 포럼 {ORANGE}bbs.upkk.com {PURPLE}을 방문하여 토론하고 커뮤니티 규칙과 최신 이벤트를 확인하세요."
+			"CN": "{RED}[X社区] {PURPLE}欢迎加入X社区KZ跳跃QQ群：{LIGHTPURPLE}696302126 {PURPLE}萌新玩家请访问官方论坛 {ORANGE}bbs.upkk.com {PURPLE}交流讨论游戏相关内容，并查看社区规则与最新活动。",
+			"US": "{RED}[X Community] {PURPLE}Join the X Community KZjump QQ group: {LIGHTPURPLE}696302126 {PURPLE}New players, please visit the official forum {ORANGE}bbs.upkk.com {PURPLE}for discussions and to check the community rules and latest events.",
+			"TW": "{RED}[X社區] {PURPLE}歡迎加入X社區KZ跳躍QQ群：{LIGHTPURPLE}696302126 {PURPLE}新玩家請訪問官方論壇 {ORANGE}bbs.upkk.com {PURPLE}進行討論並查看社區規則和最新活動。",
+			"JP": "{RED}[Xコミュニティ] {PURPLE}XコミュニティKZジャンプ QQグループに参加してください：{LIGHTPURPLE}696302126 {PURPLE}新しいプレイヤーは、公式フォーラム{ORANGE}bbs.upkk.com {PURPLE}を訪れて、議論し、コミュニティルールと最新のイベントを確認してください。",
+			"KR": "{RED}[X 커뮤니티] {PURPLE}X 커뮤니티 KZ 점프 QQ 그룹에 가입하세요: {LIGHTPURPLE}696302126 {PURPLE}새로운 플레이어는 공식 포럼 {ORANGE}bbs.upkk.com {PURPLE}을 방문하여 토론하고 커뮤니티 규칙과 최신 이벤트를 확인하세요."
 		},
 		"ads_4": {
 			"CN": "{RED}[X社区] {LIME}按Z,X键（默认无线电按键）使用快捷指令 例如存点等功能 如果您绑定了其他键 您也可通过{RED}控制台输入{DEFAULT} {PURPLE}radio{DEFAULT} 或 {ORANGE}radio1{DEFAULT} 打开菜单",
