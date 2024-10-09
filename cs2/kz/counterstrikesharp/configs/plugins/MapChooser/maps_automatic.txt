@@ -574,4 +574,11 @@
 		"filename"		"kz_antharas"
 		"updatedname"		"kz_antharas"
 	}
+	"kz_celestial"
+	{
+		"workshop_id"		"3343117229"
+		"enabled"		"1"
+		"filename"		"kz_celestial"
+		"updatedname"		"kz_celestial"
+	}
 }
