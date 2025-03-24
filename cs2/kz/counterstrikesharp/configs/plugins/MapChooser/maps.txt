@@ -954,4 +954,28 @@
 		"updatedname"		"kz_p1"
 		"OnlyNominate"		"0"
 	}
+	"kz_adv_cursedjourney"
+	{
+		"workshop_id"		"3451061007"
+		"enabled"		"1"
+		"filename"		"kz_adv_cursedjourney"
+		"updatedname"		"kz_adv_cursedjourney"
+		"OnlyNominate"		"0"
+	}
+	"kz_bhop_lucid"
+	{
+		"workshop_id"		"3450065613"
+		"enabled"		"1"
+		"filename"		"kz_bhop_lucid"
+		"updatedname"		"kz_bhop_lucid"
+		"OnlyNominate"		"0"
+	}
+	"kz_afterlife"
+	{
+		"workshop_id"		"3449771402"
+		"enabled"		"1"
+		"filename"		"kz_afterlife"
+		"updatedname"		"kz_afterlife"
+		"OnlyNominate"		"0"
+	}
 }
