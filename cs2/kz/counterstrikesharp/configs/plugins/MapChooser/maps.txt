@@ -978,4 +978,36 @@
 		"updatedname"		"kz_afterlife"
 		"OnlyNominate"		"0"
 	}
+	"kz_hoist"
+	{
+		"workshop_id"		"3455113833"
+		"enabled"		"1"
+		"filename"		"kz_hoist"
+		"updatedname"		"kz_hoist"
+		"OnlyNominate"		"0"
+	}
+	"kz_communityblock"
+	{
+		"workshop_id"		"3455289829"
+		"enabled"		"1"
+		"filename"		"kz_communityblock"
+		"updatedname"		"kz_communityblock"
+		"OnlyNominate"		"0"
+	}
+	"kz_weightless"
+	{
+		"workshop_id"		"3453892880"
+		"enabled"		"1"
+		"filename"		"kz_weightless"
+		"updatedname"		"kz_weightless"
+		"OnlyNominate"		"0"
+	}
+	"kz_dejavu"
+	{
+		"workshop_id"		"3448441395"
+		"enabled"		"1"
+		"filename"		"kz_dejavu"
+		"updatedname"		"kz_dejavu"
+		"OnlyNominate"		"0"
+	}
 }
