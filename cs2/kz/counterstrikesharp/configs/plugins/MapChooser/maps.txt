@@ -978,12 +978,36 @@
 		"updatedname"		"kz_afterlife"
 		"OnlyNominate"		"0"
 	}
-	"kz_hoist"
+	"kz_spacemario_h"
 	{
-		"workshop_id"		"3455113833"
+		"workshop_id"		"3460960848"
 		"enabled"		"1"
-		"filename"		"kz_hoist"
-		"updatedname"		"kz_hoist"
+		"filename"		"kz_spacemario_h"
+		"updatedname"		"kz_spacemario_h"
+		"OnlyNominate"		"0"
+	}
+	"kz_blackness"
+	{
+		"workshop_id"		"3458637330"
+		"enabled"		"1"
+		"filename"		"kz_blackness"
+		"updatedname"		"kz_blackness"
+		"OnlyNominate"		"0"
+	}
+	"kz_nightcastle"
+	{
+		"workshop_id"		"3461115770"
+		"enabled"		"1"
+		"filename"		"kz_nightcastle"
+		"updatedname"		"kz_nightcastle"
+		"OnlyNominate"		"0"
+	}
+	"kz_rlk"
+	{
+		"workshop_id"		"3456225822"
+		"enabled"		"1"
+		"filename"		"kz_rlk"
+		"updatedname"		"kz_rlk"
 		"OnlyNominate"		"0"
 	}
 	"kz_communityblock"
@@ -994,6 +1018,14 @@
 		"updatedname"		"kz_communityblock"
 		"OnlyNominate"		"0"
 	}
+	"kz_hoist"
+	{
+		"workshop_id"		"3455113833"
+		"enabled"		"1"
+		"filename"		"kz_hoist"
+		"updatedname"		"kz_hoist"
+		"OnlyNominate"		"0"
+	}
 	"kz_weightless"
 	{
 		"workshop_id"		"3453892880"
@@ -1002,12 +1034,52 @@
 		"updatedname"		"kz_weightless"
 		"OnlyNominate"		"0"
 	}
+	"kz_gigablock_cs2"
+	{
+		"workshop_id"		"3451243196"
+		"enabled"		"1"
+		"filename"		"kz_gigablock_cs2"
+		"updatedname"		"kz_gigablock_cs2"
+		"OnlyNominate"		"0"
+	}
 	"kz_dejavu"
 	{
 		"workshop_id"		"3448441395"
 		"enabled"		"1"
 		"filename"		"kz_dejavu"
 		"updatedname"		"kz_dejavu"
+		"OnlyNominate"		"0"
+	}
+	"kz_kings_ambition"
+	{
+		"workshop_id"		"3447277011"
+		"enabled"		"1"
+		"filename"		"kz_kings_ambition"
+		"updatedname"		"kz_kings_ambition"
+		"OnlyNominate"		"0"
+	}
+	"kz_beginnerblock ALPHA WIP"
+	{
+		"workshop_id"		"3445887668"
+		"enabled"		"1"
+		"filename"		"kz_beginnerblock ALPHA WIP"
+		"updatedname"		"kz_beginnerblock ALPHA WIP"
+		"OnlyNominate"		"0"
+	}
+	"kz_illusion_gfix"
+	{
+		"workshop_id"		"3445782360"
+		"enabled"		"1"
+		"filename"		"kz_illusion_gfix"
+		"updatedname"		"kz_illusion_gfix"
+		"OnlyNominate"		"0"
+	}
+	"kz_monstrosity"
+	{
+		"workshop_id"		"3442279720"
+		"enabled"		"1"
+		"filename"		"kz_monstrosity"
+		"updatedname"		"kz_monstrosity"
 		"OnlyNominate"		"0"
 	}
 }
