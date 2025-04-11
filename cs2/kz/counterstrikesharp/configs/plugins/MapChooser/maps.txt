@@ -1082,4 +1082,20 @@
 		"updatedname"		"kz_monstrosity"
 		"OnlyNominate"		"0"
 	}
+	"kz_retribution_v2_final"
+	{
+		"workshop_id"		"3461578696"
+		"enabled"		"1"
+		"filename"		"kz_retribution_v2_final"
+		"updatedname"		"kz_retribution_v2_final"
+		"OnlyNominate"		"0"
+	}
+	"kz_luv_less"
+	{
+		"workshop_id"		"3461550188"
+		"enabled"		"1"
+		"filename"		"kz_luv_less"
+		"updatedname"		"kz_luv_less"
+		"OnlyNominate"		"0"
+	}
 }
